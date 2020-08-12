@@ -1,0 +1,12 @@
+MoveAnything: enabled
+Dominos: disabled
+ShadowedUF_Options: enabled
+ShadowedUnitFrames: enabled
+Quartz: enabled
+ElvUI: disabled
+ElvUI_OptionsUI: enabled
+CLCRet: disabled
+CLCRet_Options: disabled
+PallyPower: disabled
+CLC_DK: disabled
+Skada: disabled

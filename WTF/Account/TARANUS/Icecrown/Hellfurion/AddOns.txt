@@ -1,0 +1,5 @@
+CLC_DK: disabled
+CLCRet: disabled
+CLCRet_Options: disabled
+PallyPower: disabled
+Skada: disabled

@@ -1,0 +1,19 @@
+
+OneBag3DB = {
+	["namespaces"] = {
+		["SimpleSort"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Belving - Icecrown"] = "Belving - Icecrown",
+	},
+	["profiles"] = {
+		["Belving - Icecrown"] = {
+			["position"] = {
+				["top"] = 613.2577046360486,
+				["left"] = 1165.283566917698,
+			},
+			["moved"] = true,
+		},
+	},
+}

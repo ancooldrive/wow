@@ -1,0 +1,21 @@
+
+CLCDK_Settings = {
+	["CD"] = {
+		["CLCDK_OptionsPanel_CD1_One"] = "Horn of Winter",
+		["CLCDK_OptionsPanel_CD2_One"] = "Raise Dead",
+		["CLCDK_OptionsPanel_CD2_Two"] = "Army of the Dead",
+		["CLCDK_OptionsPanel_CD1_Two"] = "Blood Tap",
+	},
+	["Disease"] = true,
+	["Point"] = "BOTTOM",
+	["RP"] = true,
+	["Scale"] = 1,
+	["Rune"] = true,
+	["Horn"] = false,
+	["Y"] = 188.4224321681282,
+	["X"] = 0,
+	["Version"] = 3.1,
+	["Priority"] = 1,
+	["VScheme"] = "norm",
+	["Trans"] = 0.5,
+}

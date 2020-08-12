@@ -1,0 +1,9 @@
+CLC_DK: disabled
+CLCRet: disabled
+CLCRet_Options: disabled
+Dominos_Cast: disabled
+Dominos_Config: disabled
+Dominos_Roll: disabled
+Dominos_Totems: disabled
+Dominos_XP: disabled
+PallyPower: disabled

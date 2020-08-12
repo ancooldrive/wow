@@ -1,0 +1,7 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+/petattack
+/startattack
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+/petpassive
+END

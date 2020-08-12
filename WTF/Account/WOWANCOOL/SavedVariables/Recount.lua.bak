@@ -1,0 +1,30 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Tanders - Icecrown"] = "Tanders - Icecrown",
+	},
+	["profiles"] = {
+		["Tanders - Icecrown"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -421.5615719659682,
+					["x"] = 538.3649724739162,
+					["w"] = 140.0000177127361,
+					["h"] = 200.0000792855807,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

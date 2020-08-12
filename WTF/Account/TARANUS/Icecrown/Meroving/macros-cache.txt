@@ -1,0 +1,80 @@
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [flyable] Tawny Wind Rider ; Dreadsteed
+END
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Create Spellstone
+/stopmacro [mod]
+/use Grand Spellstone
+/use 16
+/click StaticPopup1Button1
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip Incinerate
+/cast [@pettarget,exists] Demonic Empowerment
+/cast Shadow Cleave
+/cast Incinerate
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+#showtooltip Shadow Bolt
+/cast [@pettarget,exists] Demonic Empowerment
+/cast Shadow Cleave
+/cast Shadow Bolt
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip Soul Fire
+/cast [@pettarget,exists] Demonic Empowerment
+/cast Shadow Cleave
+/cast Soul Fire
+END
+MACRO 16777218 " " Ability_GhoulFrenzy
+#showtooltip
+/petattack
+/cast [@pettarget,exists] Demonic Empowerment
+/cast intercept
+END
+MACRO 16777219 " " ABILITY_SEAL
+#showtooltip
+/petfollow
+END
+MACRO 16777224 " " INV_Misc_QuestionMark
+#showtooltip Immolate
+/dismount [mounted]
+/petattack [pet:Imp]
+/cast Immolate
+END
+MACRO 16777225 " " INV_Misc_QuestionMark
+#showtooltip incinerate
+/petattack [pet:Imp]
+/cast incinerate
+END
+MACRO 16777226 " " INV_Misc_QuestionMark
+#showtooltip
+/use Fel Healthstone
+END
+MACRO 16777227 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift,target=focus,pet:felhunter]Spell Lock;[pet:felhunter]Spell Lock;[pet:Voidwalker]Sacrifice;[pet:Succubus]Seduction
+END
+MACRO 16777228 " " INV_Misc_QuestionMark
+#showtooltip
+/cast !shadowfury
+END
+MACRO 16777229 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:alt] Demonic Circle: Summon; Demonic Circle: Teleport
+END
+MACRO 16777231 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Create Firestone
+/stopmacro [mod]
+/use Grand Firestone
+/use 16
+/click StaticPopup1Button1
+END
+MACRO 16777232 " " INV_Misc_QuestionMark
+#showtooltip Seed of Corruption
+/petattack [pet:Imp]
+/cast Seed of Corruption
+END

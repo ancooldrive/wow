@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Meroving|Icecrown|Horde", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Meroving - Icecrown"] = "Meroving - Icecrown",
+	},
+	["profiles"] = {
+		["Meroving - Icecrown"] = {
+		},
+	},
+}

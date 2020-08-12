@@ -1,0 +1,28 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Dredlord - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["scale"] = 1,
+					["mode"] = "DPS",
+					["point"] = "BOTTOM",
+					["x"] = 268.5547153798774,
+					["y"] = 138.7213178613052,
+				}, -- [1]
+			},
+			["total"] = {
+				["players"] = {
+				},
+				["name"] = "Total",
+				["starttime"] = 1594018973,
+				["time"] = 0,
+				["last_action"] = 1594018973,
+				["damage"] = 0,
+			},
+		},
+	},
+}

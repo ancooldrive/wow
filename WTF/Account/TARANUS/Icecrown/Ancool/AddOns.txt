@@ -1,0 +1,12 @@
+MoveAnything: enabled
+ShadowedUF_Options: enabled
+ShadowedUnitFrames: enabled
+Dominos_XP: enabled
+Dominos_Totems: enabled
+Dominos_Roll: enabled
+Dominos_Config: enabled
+Dominos_Cast: enabled
+Dominos: disabled
+Quartz: enabled
+ElvUI: disabled
+ElvUI_OptionsUI: enabled

@@ -1,0 +1,349 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"tank or plate DPS log rhc as a tank or /w me ", -- [1]
+			"Dazinka", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"0x070000000058F94E", -- [12]
+			0, -- [13]
+			[51] = 1594448780,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Dazinka",
+		}, -- [1]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last dps shaman (9/10)", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448809,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [2]
+		{
+			"LFG ICC REP", -- [1]
+			"Gspark", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"0x07000000005A5589", -- [12]
+			0, -- [13]
+			[51] = 1594448811,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddGspark|r",
+		}, -- [3]
+		{
+			"WTS Orc DK ''Fallenbq'' For 65Coins With Glorenzelg HC + BISS TRINKET DEATH CHOICE HC Kingslayer 25 Dual Spec 2Max Proff Jewel/Blackshimt + bOe Items Fast Flying 15k HKS can remove items He is best offer at trade w/me for more info!!", -- [1]
+			"Fallenqb", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"0x07000000005656CC", -- [12]
+			0, -- [13]
+			[51] = 1594448818,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dFallenqb|r",
+		}, -- [4]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last dps shaman (9/10)", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448825,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [5]
+		{
+			"<Bond> is a NEW PvE raiding guild. We are looking for mature, dedicated & patient players who can enjoy raiding with us! We are using Discord for communication and a DKP System for looting we raid @5amST and 12pmST", -- [1]
+			"Jhhace", -- [2]
+			"Orcish", -- [3]
+			"5. LookingForGroup", -- [4]
+			"", -- [5]
+			"", -- [6]
+			26, -- [7]
+			5, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"0x070000000019343C", -- [12]
+			0, -- [13]
+			[51] = 1594448833,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dJhhace|r",
+		}, -- [6]
+		{
+			"WTS Orc DK ''Fallenbq'' For 65Coins With Glorenzelg HC + BISS TRINKET DEATH CHOICE HC Kingslayer 25 Dual Spec 2Max Proff Jewel/Blackshimt + bOe Items Fast Flying 15k HKS can remove items He is best offer at trade w/me for more info!!", -- [1]
+			"Fallenqb", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"0x07000000005656CC", -- [12]
+			0, -- [13]
+			[51] = 1594448890,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dFallenqb|r",
+		}, -- [7]
+		{
+			"<Bond> is a NEW PvE raiding guild. We are looking for mature, dedicated & patient players who can enjoy raiding with us! We are using Discord for communication and a DKP System for looting we raid @5amST and 12pmST", -- [1]
+			"Jhhace", -- [2]
+			"Orcish", -- [3]
+			"5. LookingForGroup", -- [4]
+			"", -- [5]
+			"", -- [6]
+			26, -- [7]
+			5, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"0x070000000019343C", -- [12]
+			0, -- [13]
+			[51] = 1594448893,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dJhhace|r",
+		}, -- [8]
+		{
+			"LF ALL ICC REP FARM", -- [1]
+			"Gspark", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"0x07000000005A5589", -- [12]
+			0, -- [13]
+			[51] = 1594448927,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddGspark|r",
+		}, -- [9]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last rshaman", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448931,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [10]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last rshaman", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448936,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [11]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last rshaman", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448941,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [12]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last rshaman", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448946,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [13]
+		{
+			"LFM ICC 10 HC NEED NEED 1 HEAL HPALA OR RSHAMMY ONLYWHISP WITH GS AND ACHIV FOR INV |cffffff00|Hachievement:4532:0700000000373644:1:2:16:20:4294967295:4294967295:4294967295:4294967295|h[Fall of the Lich King (10 player)]|h|r 9/10", -- [1]
+			"Burogh", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			33, -- [11]
+			"0x0700000000373644", -- [12]
+			0, -- [13]
+			[51] = 1594448950,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aBurogh|r",
+		}, -- [14]
+		{
+			"LFM icc 10hc |cffffff00|Hachievement:4631:0700000000012E5E:0:0:0:-1:1:0:0:0|h[Heroic: The Frostwing Halls (10 player)]|h|r need 6k++ all /w gs class achive need 1 last rshaman", -- [1]
+			"Chottu", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"0x07000000002FFB72", -- [12]
+			0, -- [13]
+			[51] = 1594448952,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Chottu|r",
+		}, -- [15]
+		{
+			"<Bond> is a NEW PvE raiding guild. We are looking for mature, dedicated & patient players who can enjoy raiding with us! We are using Discord for communication and a DKP System for looting we raid @5amST and 12pmST", -- [1]
+			"Jhhace", -- [2]
+			"Orcish", -- [3]
+			"5. LookingForGroup", -- [4]
+			"", -- [5]
+			"", -- [6]
+			26, -- [7]
+			5, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			37, -- [11]
+			"0x070000000019343C", -- [12]
+			0, -- [13]
+			[51] = 1594448953,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dJhhace|r",
+		}, -- [16]
+		{
+			"LFM ICC 10 HC NEED NEED 1 HEAL HPALA OR RSHAMMY ONLYWHISP WITH GS AND ACHIV FOR INV |cffffff00|Hachievement:4532:0700000000373644:1:2:16:20:4294967295:4294967295:4294967295:4294967295|h[Fall of the Lich King (10 player)]|h|r 9/10", -- [1]
+			"Burogh", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			40, -- [11]
+			"0x0700000000373644", -- [12]
+			0, -- [13]
+			[51] = 1594448963,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aBurogh|r",
+		}, -- [17]
+		{
+			"<Kings Of Dalaran> New PVE Guild Looking For Hardcore Raids.(Timing:- 11:30am ST). Must Have Exp Of Raids. Min 5.7+GS. Aiming For 8/12 Dynamic And BANE Raids . Must Have Discord! Wisp Me For More Info!", -- [1]
+			"Kiripedia", -- [2]
+			"Orcish", -- [3]
+			"2. Trade - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			41, -- [11]
+			"0x070000000001B106", -- [12]
+			0, -- [13]
+			[51] = 1594448967,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaKiripedia|r",
+		}, -- [18]
+		{
+			"wanna do naxx so badly", -- [1]
+			"Bubblyrella", -- [2]
+			"Orcish", -- [3]
+			"4. GuildRecruitment - City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			25, -- [7]
+			4, -- [8]
+			"GuildRecruitment - City", -- [9]
+			0, -- [10]
+			43, -- [11]
+			"0x070000000059B4BF", -- [12]
+			0, -- [13]
+			[51] = 1594448977,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaBubblyrella|r",
+		}, -- [19]
+	},
+}

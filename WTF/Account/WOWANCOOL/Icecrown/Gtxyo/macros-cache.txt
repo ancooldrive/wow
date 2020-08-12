@@ -1,0 +1,17 @@
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stealth] Sap; Stealth
+END
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stealth] Cheap shot; Kick
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Sinister Strike(Rank 12)
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stealth] Garrote
+END

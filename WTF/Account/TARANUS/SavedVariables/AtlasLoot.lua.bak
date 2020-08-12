@@ -1,0 +1,29 @@
+
+AtlasLootOptions = nil
+AtlasLootDB = {
+	["profileKeys"] = {
+		["Dredlord - Icecrown"] = "Dredlord - Icecrown",
+	},
+	["profiles"] = {
+		["Dredlord - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+	},
+}
+AtlasLootWishList = {
+	["Options"] = {
+		["Dredlord"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+	},
+	["Shared"] = {
+	},
+	["Own"] = {
+		["Dredlord"] = {
+		},
+	},
+}

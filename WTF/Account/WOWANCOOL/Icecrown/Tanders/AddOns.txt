@@ -1,0 +1,6 @@
+CLC_DK: disabled
+CLCRet: disabled
+CLCRet_Options: disabled
+HealBot: enabled
+PallyPower: disabled
+Skada: disabled

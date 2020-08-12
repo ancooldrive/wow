@@ -1,0 +1,37 @@
+MACRO 16777222 " " INV_Misc_QuestionMark
+#Showtooltip
+/startattack
+/petattack
+/cast Scourge Strike
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+/cast [flyable] Winged Steed of the Ebon Blade ; Forsaken Warhorse
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#Showtooltip
+/startattack
+/petattack
+/cast Icy Touch
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip
+/petattack
+/cast Gnaw
+END
+MACRO 16777219 "." INV_Misc_QuestionMark
+#Showtooltip
+/startattack
+/petattack
+/cast Plague Strike
+END
+MACRO 16777217 "." INV_Misc_QuestionMark
+#Showtooltip
+/startattack
+/petattack
+/cast Obliterate
+END
+MACRO 16777220 "." INV_Misc_QuestionMark
+#Showtooltip
+/startattack
+/cast Frost Strike
+END

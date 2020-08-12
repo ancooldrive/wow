@@ -1,0 +1,47 @@
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [flyable] Tawny Wind Rider ; Dreadsteed
+END
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip
+/click PetActionButton4
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip Incinerate
+/cast [@pettarget,exists] Demonic Empowerment
+/cast Shadow Cleave
+/cast Incinerate
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+#showtooltip Shadow Bolt
+/cast [@pettarget,exists] Demonic Empowerment
+/cast Shadow Cleave
+/cast Shadow Bolt
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip Soul Fire
+/cast [@pettarget,exists] Demonic Empowerment
+/cast Shadow Cleave
+/cast Soul Fire
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip
+/dismount [mounted]
+/petattack
+/cast [@pettarget,exists] Demonic Empowerment
+/cast intercept
+END
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip
+/petfollow
+END
+MACRO 16777224 " " INV_Misc_QuestionMark
+#showtooltip Immolate
+/petattack
+/cast Immolate
+END
+MACRO 16777225 " " INV_Misc_QuestionMark
+#showtooltip incinerate
+/petattack
+/cast incinerate
+END

@@ -1,0 +1,436 @@
+
+DominosDB = {
+	["profileKeys"] = {
+		["Dredlord - Icecrown"] = "Dredlord",
+	},
+	["profiles"] = {
+		["Death Knight"] = {
+			["showgrid"] = 1,
+			["frames"] = {
+				{
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 0.7,
+					["padW"] = 2,
+					["x"] = -735.2381248530405,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+							["[bar:6]"] = 5,
+							["[bar:5]"] = 4,
+							["[bar:3]"] = 2,
+							["[bar:4]"] = 3,
+							["[bar:2]"] = 1,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 0.7,
+					["anchor"] = "4TL",
+					["padW"] = 2,
+					["x"] = 735.2381454174868,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 159.999966261455,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["point"] = "BOTTOMLEFT",
+					["anchor"] = "1TC",
+					["scale"] = 0.7,
+					["padW"] = 2,
+					["x"] = 429.8812452418987,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40.00000056230908,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 0.7,
+					["anchor"] = "5TL",
+					["padW"] = 2,
+					["x"] = 735.2381454174868,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 119.9999881915093,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 0.7,
+					["anchor"] = "3TL",
+					["padW"] = 2,
+					["x"] = -380.4445421612675,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40.00000056230908,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 0.7,
+					["anchor"] = "2TL",
+					["padW"] = 2,
+					["x"] = -735.2381248530405,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 199.9999533283461,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["point"] = "BOTTOM",
+					["alpha"] = 0,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["point"] = "BOTTOM",
+					["alpha"] = 0,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["point"] = "BOTTOMLEFT",
+					["alpha"] = 0,
+					["anchor"] = "8TC",
+					["padW"] = 2,
+					["x"] = 442.666732269393,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320.0000044984727,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["point"] = "BOTTOM",
+					["alpha"] = 0,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["cast"] = {
+					["y"] = 30,
+					["x"] = 0,
+					["showText"] = true,
+					["point"] = "CENTER",
+				},
+				["roll"] = {
+					["y"] = -207.6760571112031,
+					["x"] = -0,
+					["point"] = "TOPLEFT",
+					["spacing"] = 2,
+					["numButtons"] = 4,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = -0,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+				},
+				["xp"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "TOP",
+					["height"] = 14,
+					["texture"] = "blizzard",
+					["alwaysShowText"] = true,
+					["width"] = 0.75,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["numButtons"] = 3,
+				},
+				["bags"] = {
+					["y"] = 37.9999976101864,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["anchor"] = "menuTR",
+					["numButtons"] = 6,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["alpha"] = 0.9,
+				},
+				["class"] = {
+					["y"] = 167.9999780699458,
+					["x"] = 514.6667305824658,
+					["point"] = "BOTTOMLEFT",
+					["spacing"] = 2,
+					["anchor"] = "6TL",
+					["numButtons"] = 3,
+				},
+			},
+		},
+		["Dredlord"] = {
+			["showgrid"] = 1,
+			["frames"] = {
+				{
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 0.7,
+					["y"] = 0,
+					["x"] = -735.2381248530405,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+							["[bar:6]"] = 5,
+							["[bar:4]"] = 3,
+							["[bar:3]"] = 2,
+							["[bar:5]"] = 4,
+							["[bar:2]"] = 1,
+						},
+					},
+					["padW"] = 2,
+				}, -- [1]
+				{
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 0.7,
+					["y"] = 159.999966261455,
+					["x"] = 735.2381454174868,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["anchor"] = "4TL",
+				}, -- [2]
+				{
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 0.7,
+					["y"] = 40.00000056230908,
+					["x"] = 429.8812452418987,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["anchor"] = "1TC",
+					["padW"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["padH"] = 2,
+				}, -- [3]
+				{
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 0.7,
+					["y"] = 119.9999881915093,
+					["x"] = 735.2381454174868,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["anchor"] = "5TL",
+				}, -- [4]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 0.7,
+					["y"] = 40.00000056230908,
+					["x"] = -380.4445421612675,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["anchor"] = "3TL",
+				}, -- [5]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 0.7,
+					["y"] = 199.9999533283461,
+					["x"] = -735.2381248530405,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["anchor"] = "2TL",
+				}, -- [6]
+				{
+					["point"] = "BOTTOM",
+					["alpha"] = 0,
+					["y"] = 240,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["padW"] = 2,
+				}, -- [7]
+				{
+					["point"] = "BOTTOM",
+					["alpha"] = 0,
+					["y"] = 280,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["padW"] = 2,
+				}, -- [8]
+				{
+					["point"] = "BOTTOMLEFT",
+					["alpha"] = 0,
+					["y"] = 320.0000044984727,
+					["x"] = 442.666732269393,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["anchor"] = "8TC",
+				}, -- [9]
+				{
+					["point"] = "BOTTOM",
+					["alpha"] = 0,
+					["y"] = 360,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["padW"] = 2,
+				}, -- [10]
+				["cast"] = {
+					["y"] = 30,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["showText"] = true,
+				},
+				["class"] = {
+					["y"] = 167.9999780699458,
+					["x"] = 514.6667305824658,
+					["point"] = "BOTTOMLEFT",
+					["spacing"] = 2,
+					["anchor"] = "6TL",
+					["numButtons"] = 3,
+				},
+				["menu"] = {
+					["y"] = -0,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["alpha"] = 0.9,
+				},
+				["bags"] = {
+					["y"] = 37.9999976101864,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["anchor"] = "menuTR",
+					["numButtons"] = 6,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["numButtons"] = 3,
+				},
+				["xp"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "TOP",
+					["alpha"] = 0,
+					["height"] = 14,
+					["width"] = 0.75,
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["y"] = -207.6760571112031,
+					["x"] = -0,
+					["point"] = "TOPLEFT",
+					["spacing"] = 2,
+					["numButtons"] = 4,
+					["columns"] = 1,
+				},
+			},
+		},
+	},
+}
+DominosVersion = "1.18.6"

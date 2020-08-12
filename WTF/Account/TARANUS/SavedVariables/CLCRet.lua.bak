@@ -1,0 +1,17 @@
+
+clcretDB = {
+	["profileKeys"] = {
+		["Belving - Icecrown"] = "Belving - Icecrown",
+	},
+	["profiles"] = {
+		["Belving - Icecrown"] = {
+			["swing"] = {
+				["enabled"] = false,
+			},
+			["noBorder"] = true,
+			["y"] = 163.1771655278385,
+			["x"] = 788.9221264477087,
+			["zoomIcons"] = false,
+		},
+	},
+}

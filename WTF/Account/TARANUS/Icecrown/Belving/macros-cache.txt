@@ -1,0 +1,8 @@
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [target=player] Holy Shock
+END
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [flyable] Silver Covenant Hippogryph ; Charger
+END

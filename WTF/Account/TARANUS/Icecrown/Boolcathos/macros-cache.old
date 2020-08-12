@@ -1,0 +1,4 @@
+MACRO 16777217 "ss" INV_Misc_QuestionMark
+/startattack
+/cast Shield Slam
+END

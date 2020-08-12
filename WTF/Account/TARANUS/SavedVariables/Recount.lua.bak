@@ -1,0 +1,33 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Meroving - Icecrown"] = "Meroving - Icecrown",
+	},
+	["profiles"] = {
+		["Meroving - Icecrown"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -426.6462226079037,
+					["x"] = 389.8657114534839,
+					["w"] = 275.4886251549953,
+					["h"] = 206.4713481381349,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 275.4886251549953,
+			["MainWindowHeight"] = 206.4713481381349,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "Strand of the Ancients",
+		},
+	},
+}

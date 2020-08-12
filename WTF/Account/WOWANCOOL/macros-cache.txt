@@ -1,0 +1,31 @@
+MACRO 6 "Cleanse" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=party1, mod:alt] Cleanse; Cleanse
+END
+MACRO 7 "fixrecount" INV_Misc_QuestionMark
+/run local f = CreateFrame("frame",nil, UIParent); f:SetScript("OnUpdate", CombatLogClearEntries);
+/recount reset
+/skada reset
+END
+MACRO 1 "focus" Ability_CheapShot
+/focus
+END
+MACRO 5 "Fol-HB" INV_Misc_QuestionMark
+#showtooltip Flash of Light
+/use 13
+/cast [target=mouseover] Flash of Light
+END
+MACRO 2 "HL" INV_Misc_QuestionMark
+#showtooltip Holy Light
+/use 13
+/cast Divine Illumination
+/cast [target=mouseover] Holy Light
+END
+MACRO 3 "HL2" INV_Misc_QuestionMark
+#showtooltip Holy Light
+/use 13
+/cast Divine Illumination
+/cast Aura Mastery
+/cast Divine Favor
+/cast [target=mouseover] Holy Light
+END

@@ -1,0 +1,206 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Belving"] = {
+			["GUID"] = "0x07000000004A5D73",
+			["LastEventHealth"] = {
+				"25887 (97%)", -- [1]
+				"26624 (100%)", -- [2]
+				"26624 (100%)", -- [3]
+				"26624 (100%)", -- [4]
+				"26624 (100%)", -- [5]
+				"26624 (100%)", -- [6]
+				"26624 (100%)", -- [7]
+				"26624 (100%)", -- [8]
+				"26624 (100%)", -- [9]
+				"26624 (100%)", -- [10]
+				"26624 (100%)", -- [11]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+			},
+			["TimeWindows"] = {
+				["Overhealing"] = {
+					6235, -- [1]
+				},
+				["ManaGain"] = {
+					237, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = "Belving",
+			["level"] = 80,
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				nil, -- [1]
+				25.09014423076923, -- [2]
+				18.96033653846154, -- [3]
+				19.17067307692308, -- [4]
+				36.474609375, -- [5]
+				10.05108173076923, -- [6]
+				10.05108173076923, -- [7]
+				10.05108173076923, -- [8]
+				10.05108173076923, -- [9]
+				10.05108173076923, -- [10]
+				10.05108173076923, -- [11]
+			},
+			["type"] = "Self",
+			["Owner"] = false,
+			["TimeLast"] = {
+				["OVERALL"] = 1596798297,
+				["Overhealing"] = 1596798226,
+				["ManaGain"] = 1596798297,
+			},
+			["NextEventNum"] = 12,
+			["LastEventHealthNum"] = {
+				97.23182091346153, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+			},
+			["LastEvents"] = {
+				"Belving Holy Shock Kostrijeh Hit +6235 (6235 overheal)", -- [1]
+				"Belving Holy Shock Belving Hit +6680 (6431 overheal)", -- [2]
+				"Belving Flash of Light Belving Hit +5048 (5048 overheal)", -- [3]
+				"Belving Flash of Light Belving Hit +5104 (5104 overheal)", -- [4]
+				"Belving Holy Shock Belving Crit +9711 (9711 overheal)", -- [5]
+				"Salifaks Rejuvenation Belving Tick +2676 (2676 overheal)", -- [6]
+				"Salifaks Rejuvenation Belving Tick +2676 (2676 overheal)", -- [7]
+				"Salifaks Rejuvenation Belving Tick +2676 (2676 overheal)", -- [8]
+				"Salifaks Rejuvenation Belving Tick +2676 (2676 overheal)", -- [9]
+				"Salifaks Rejuvenation Belving Tick +2676 (2676 overheal)", -- [10]
+				"Salifaks Rejuvenation Belving Tick +2676 (2676 overheal)", -- [11]
+			},
+			["Name"] = "Belving",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+			},
+			["LastEventTimes"] = {
+				26153.824, -- [1]
+				26197.198, -- [2]
+				26201.218, -- [3]
+				26221.935, -- [4]
+				26225.11, -- [5]
+				26377.923, -- [6]
+				26380.974, -- [7]
+				26383.931, -- [8]
+				26386.881, -- [9]
+				26389.849, -- [10]
+				26392.955, -- [11]
+			},
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ManaGained"] = {
+						["Illumination"] = {
+							["Details"] = {
+								["Belving"] = {
+									["count"] = 237,
+								},
+							},
+							["amount"] = 237,
+						},
+					},
+					["Overhealing"] = 6235,
+					["ManaGain"] = 237,
+					["ManaGainedFrom"] = {
+						["Belving"] = {
+							["Details"] = {
+								["Illumination"] = {
+									["count"] = 237,
+								},
+							},
+							["amount"] = 237,
+						},
+					},
+					["OverHeals"] = {
+						["Holy Shock"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6235,
+									["min"] = 6235,
+									["count"] = 1,
+									["amount"] = 6235,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6235,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ManaGained"] = {
+						["Illumination"] = {
+							["Details"] = {
+								["Belving"] = {
+									["count"] = 237,
+								},
+							},
+							["amount"] = 237,
+						},
+					},
+					["Overhealing"] = 6235,
+					["ManaGain"] = 237,
+					["ManaGainedFrom"] = {
+						["Belving"] = {
+							["Details"] = {
+								["Illumination"] = {
+									["count"] = 237,
+								},
+							},
+							["amount"] = 237,
+						},
+					},
+					["OverHeals"] = {
+						["Holy Shock"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6235,
+									["min"] = 6235,
+									["count"] = 1,
+									["amount"] = 6235,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6235,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1596798226,
+			["LastActive"] = 1596798465,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

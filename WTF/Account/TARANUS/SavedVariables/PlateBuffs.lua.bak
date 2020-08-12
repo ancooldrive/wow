@@ -1,0 +1,10 @@
+
+PB_DB = {
+	["profileKeys"] = {
+		["Meroving - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

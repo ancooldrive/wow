@@ -1,0 +1,5 @@
+MACRO 16777217 "ss" INV_Misc_QuestionMark
+/cast [nostance:2] Defensive Stance
+/startattack
+/cast Shield Slam
+END
