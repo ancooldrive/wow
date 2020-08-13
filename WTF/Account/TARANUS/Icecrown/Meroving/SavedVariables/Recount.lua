@@ -2,3111 +2,60 @@
 RecountPerCharDB = {
 	["version"] = "1.3",
 	["combatants"] = {
-		["Tazzwanted"] = {
-			["GUID"] = "0x07000000002AFF23",
-			["TimeLast"] = {
-				["TimeHeal"] = 1597229611,
-				["OVERALL"] = 1597229618,
-				["DamageTaken"] = 1597229612,
-				["Overhealing"] = 1597229605,
-				["Healing"] = 1597229611,
-				["HealingTaken"] = 1597229611,
-				["HOT_Time"] = 1597229611,
-				["ActiveTime"] = 1597229612,
-				["TimeDamage"] = 1597229612,
-				["ManaGain"] = 1597229618,
-				["DOT_Time"] = 1597229612,
-				["Damage"] = 1597229612,
-			},
-			["LastAttackedBy"] = "Cultist Bombardier",
-			["LastEventType"] = {
-				"DAMAGE", -- [1]
-				"HEAL", -- [2]
-				"HEAL", -- [3]
-				"HEAL", -- [4]
-				"DAMAGE", -- [5]
-				"HEAL", -- [6]
-				"HEAL", -- [7]
-				"HEAL", -- [8]
-				"DAMAGE", -- [9]
-				"DAMAGE", -- [10]
-				"DAMAGE", -- [11]
-				"DAMAGE", -- [12]
-				"DAMAGE", -- [13]
-				"DAMAGE", -- [14]
-				"DAMAGE", -- [15]
-				"HEAL", -- [16]
-				"DAMAGE", -- [17]
-				"DAMAGE", -- [18]
-				"DAMAGE", -- [19]
-				"HEAL", -- [20]
-				"DAMAGE", -- [21]
-				"DAMAGE", -- [22]
-				"DAMAGE", -- [23]
-				"DAMAGE", -- [24]
-				"DAMAGE", -- [25]
-				"HEAL", -- [26]
-				"DAMAGE", -- [27]
-				"HEAL", -- [28]
-				"DAMAGE", -- [29]
-				"DAMAGE", -- [30]
-				"DAMAGE", -- [31]
-				"DAMAGE", -- [32]
-				"DAMAGE", -- [33]
-				"DAMAGE", -- [34]
-				"DAMAGE", -- [35]
-				"DAMAGE", -- [36]
-				"DAMAGE", -- [37]
-				"DAMAGE", -- [38]
-				"DAMAGE", -- [39]
-				"DAMAGE", -- [40]
-				"DAMAGE", -- [41]
-				"DAMAGE", -- [42]
-				"DAMAGE", -- [43]
-				"DAMAGE", -- [44]
-				"DAMAGE", -- [45]
-				"HEAL", -- [46]
-				"DAMAGE", -- [47]
-				"HEAL", -- [48]
-				"HEAL", -- [49]
-				"HEAL", -- [50]
-			},
-			["TimeWindows"] = {
-				["TimeHeal"] = {
-					4.140000000000001, -- [1]
-				},
-				["Healing"] = {
-					15737, -- [1]
-				},
-				["DamageTaken"] = {
-					18206, -- [1]
-				},
-				["Overhealing"] = {
-					3889, -- [1]
-				},
-				["HealingTaken"] = {
-					14797, -- [1]
-				},
-				["HOT_Time"] = {
-					42, -- [1]
-				},
-				["TimeDamage"] = {
-					18.81, -- [1]
-				},
-				["ActiveTime"] = {
-					22.95000000000001, -- [1]
-				},
-				["ManaGain"] = {
-					6089, -- [1]
-				},
-				["DOT_Time"] = {
-					36, -- [1]
-				},
-				["Damage"] = {
-					104485, -- [1]
-				},
-			},
-			["enClass"] = "PALADIN",
-			["unit"] = "Tazzwanted",
-			["level"] = 80,
-			["LastDamageAbility"] = "Melee",
-			["LastFightIn"] = 0,
-			["LastEventNum"] = {
-				[45] = 4.768261260981591,
-				[24] = 4.662713811194238,
-				[26] = 14.24890572129265,
-				[16] = 3.402353087262906,
-				[28] = 3.402353087262906,
-				[7] = 1.927793126998417,
-				[30] = 3.088815074659299,
-				[46] = 3.402353087262906,
-				[35] = 2.834259460466271,
-				[20] = 3.402353087262906,
-				[41] = 2.59212119330705,
-				[43] = 4.613044423059013,
-				[50] = 1.977462515133642,
-			},
-			["type"] = "Ungrouped",
-			["FightsSaved"] = 1,
-			["LastDamageTaken"] = 1502,
-			["LastAbility"] = 2354865.451,
-			["Owner"] = false,
+		["Charapan"] = {
+			["GUID"] = "0x07000000005A8E82",
 			["LastEventHealth"] = {
-				"27493 (85%)", -- [1]
-				"27493 (85%)", -- [2]
-				"27493 (85%)", -- [3]
-				"27493 (85%)", -- [4]
-				"27493 (85%)", -- [5]
-				"27493 (85%)", -- [6]
-				"28114 (87%)", -- [7]
-				"28114 (87%)", -- [8]
-				"28114 (87%)", -- [9]
-				"28114 (87%)", -- [10]
-				"28114 (87%)", -- [11]
-				"28114 (87%)", -- [12]
-				"28114 (87%)", -- [13]
-				"28114 (87%)", -- [14]
-				"28114 (87%)", -- [15]
-				"29210 (90%)", -- [16]
-				"29210 (90%)", -- [17]
-				"29210 (90%)", -- [18]
-				"29210 (90%)", -- [19]
-				"30306 (94%)", -- [20]
-				"30306 (94%)", -- [21]
-				"30306 (94%)", -- [22]
-				"30306 (94%)", -- [23]
-				"30306 (94%)", -- [24]
-				"28804 (89%)", -- [25]
-				"32213 (100%)", -- [26]
-				"30429 (94%)", -- [27]
-				"31525 (97%)", -- [28]
-				"31525 (97%)", -- [29]
-				"31525 (97%)", -- [30]
-				"30530 (94%)", -- [31]
-				"30530 (94%)", -- [32]
-				"30530 (94%)", -- [33]
-				"30530 (94%)", -- [34]
-				"29617 (91%)", -- [35]
-				"29617 (91%)", -- [36]
-				"29617 (91%)", -- [37]
-				"29617 (91%)", -- [38]
-				"29617 (91%)", -- [39]
-				"29617 (91%)", -- [40]
-				"29617 (91%)", -- [41]
-				"28782 (89%)", -- [42]
-				"28782 (89%)", -- [43]
-				"27296 (84%)", -- [44]
-				"27296 (84%)", -- [45]
-				"26856 (83%)", -- [46]
-				"26856 (83%)", -- [47]
-				"26856 (83%)", -- [48]
-				"26856 (83%)", -- [49]
-				"27493 (85%)", -- [50]
+				"20653 (100%)", -- [1]
+				"20653 (100%)", -- [2]
+				"20653 (100%)", -- [3]
+				"20653 (100%)", -- [4]
+				"20653 (100%)", -- [5]
+				"20653 (100%)", -- [6]
+				"20653 (100%)", -- [7]
+				"20653 (100%)", -- [8]
+				"20653 (100%)", -- [9]
+				"20653 (100%)", -- [10]
+				"20653 (100%)", -- [11]
+				"20653 (100%)", -- [12]
+				"20653 (100%)", -- [13]
+				"20653 (100%)", -- [14]
+				"20653 (100%)", -- [15]
+				"20653 (100%)", -- [16]
+				"20653 (100%)", -- [17]
+				"20653 (100%)", -- [18]
+				"20653 (100%)", -- [19]
+				"20653 (100%)", -- [20]
+				"20653 (100%)", -- [21]
+				"20653 (100%)", -- [22]
+				"20653 (100%)", -- [23]
+				"20653 (100%)", -- [24]
+				"20653 (100%)", -- [25]
+				"20653 (100%)", -- [26]
+				"20653 (100%)", -- [27]
+				"20653 (100%)", -- [28]
+				"20653 (100%)", -- [29]
+				"20653 (100%)", -- [30]
+				"20653 (100%)", -- [31]
+				"20653 (100%)", -- [32]
+				"20653 (100%)", -- [33]
+				"20653 (100%)", -- [34]
+				"20653 (100%)", -- [35]
+				"20653 (100%)", -- [36]
+				"20653 (100%)", -- [37]
+				"20653 (100%)", -- [38]
+				"20653 (100%)", -- [39]
+				"20653 (100%)", -- [40]
+				"20653 (100%)", -- [41]
+				"20653 (100%)", -- [42]
+				"20653 (100%)", -- [43]
+				"20653 (100%)", -- [44]
+				"20653 (100%)", -- [45]
+				"20653 (100%)", -- [46]
+				"20653 (100%)", -- [47]
+				"20653 (100%)", -- [48]
+				"20653 (100%)", -- [49]
+				"20653 (100%)", -- [50]
 			},
-			["NextEventNum"] = 27,
-			["LastEventHealthNum"] = {
-				85.34753050010865, -- [1]
-				85.34753050010865, -- [2]
-				85.34753050010865, -- [3]
-				85.34753050010865, -- [4]
-				85.34753050010865, -- [5]
-				85.34753050010865, -- [6]
-				87.27532362710707, -- [7]
-				87.27532362710707, -- [8]
-				87.27532362710707, -- [9]
-				87.27532362710707, -- [10]
-				87.27532362710707, -- [11]
-				87.27532362710707, -- [12]
-				87.27532362710707, -- [13]
-				87.27532362710707, -- [14]
-				87.27532362710707, -- [15]
-				90.67767671436998, -- [16]
-				90.67767671436998, -- [17]
-				90.67767671436998, -- [18]
-				90.67767671436998, -- [19]
-				94.08002980163288, -- [20]
-				94.08002980163288, -- [21]
-				94.08002980163288, -- [22]
-				94.08002980163288, -- [23]
-				94.08002980163288, -- [24]
-				89.41731599043864, -- [25]
-				100, -- [26]
-				94.46186322292242, -- [27]
-				97.86421631018533, -- [28]
-				97.86421631018533, -- [29]
-				97.86421631018533, -- [30]
-				94.77540123552603, -- [31]
-				94.77540123552603, -- [32]
-				94.77540123552603, -- [33]
-				94.77540123552603, -- [34]
-				91.94114177505976, -- [35]
-				91.94114177505976, -- [36]
-				91.94114177505976, -- [37]
-				91.94114177505976, -- [38]
-				91.94114177505976, -- [39]
-				91.94114177505976, -- [40]
-				91.94114177505976, -- [41]
-				89.34902058175271, -- [42]
-				89.34902058175271, -- [43]
-				84.73597615869369, -- [44]
-				84.73597615869369, -- [45]
-				83.37006798497501, -- [46]
-				83.37006798497501, -- [47]
-				83.37006798497501, -- [48]
-				83.37006798497501, -- [49]
-				85.34753050010865, -- [50]
-			},
-			["LastEvents"] = {
-				"Tazzwanted Divine Storm Cultist Bombardier Hit -3637 (Physical)", -- [1]
-				"Tazzwanted Divine Storm Meroving Tick +303", -- [2]
-				"Tazzwanted Divine Storm Nokrin <Meroving> Tick +303 (303 overheal)", -- [3]
-				"Tazzwanted Divine Storm Ickshining Tick +303 (303 overheal)", -- [4]
-				"Tazzwanted Divine Storm Cultist Bombardier Crit -7461 (Physical)", -- [5]
-				"Tazzwanted Divine Storm Nokrin <Meroving> Tick +621 (621 overheal)", -- [6]
-				"Tazzwanted Divine Storm Tazzwanted Tick +621", -- [7]
-				"Tazzwanted Divine Storm Ickshining Tick +621 (621 overheal)", -- [8]
-				"Tazzwanted Righteous Vengeance (DoT) Cultist Bombardier Tick -573 (Holy)", -- [9]
-				"Tazzwanted Righteous Vengeance (DoT) Cultist Bombardier Tick -559 (Holy)", -- [10]
-				"Tazzwanted Melee Cultist Bombardier Crit -6493 (Physical)", -- [11]
-				"Tazzwanted Seal of Corruption Cultist Bombardier Hit -354 (Holy)", -- [12]
-				"Tazzwanted Manifest Anger Cultist Bombardier Crit -3052 (Physical)", -- [13]
-				"Tazzwanted Seal of Corruption Cultist Bombardier Hit -334 (Holy)", -- [14]
-				"Tazzwanted Crusader Strike Cultist Bombardier Hit -2979 (Physical)", -- [15]
-				"Tazzwanted Sheath of Light Tazzwanted Tick +1096", -- [16]
-				"Tazzwanted Righteous Vengeance (DoT) Cultist Bombardier Tick -559 (Holy)", -- [17]
-				"Cultist Bombardier Melee Tazzwanted Parry", -- [18]
-				"Tazzwanted Judgement of Corruption Cultist Bombardier Crit -7486 (Holy)", -- [19]
-				"Tazzwanted Sheath of Light Tazzwanted Tick +1096", -- [20]
-				"Tazzwanted Righteous Vengeance (DoT) Cultist Bombardier Tick -559 (Holy)", -- [21]
-				"Tazzwanted Melee Cultist Bombardier Crit -7144 (Physical)", -- [22]
-				"Tazzwanted Fire Shield Cultist Bombardier Hit -248 (Fire)", -- [23]
-				"Cultist Bombardier Melee Tazzwanted Hit -1502 (Physical)", -- [24]
-				"Tazzwanted Righteous Vengeance (DoT) Cultist Bombardier Tick -561 (Holy)", -- [25]
-				"Tazzwanted Flash of Light Tazzwanted Crit +4590 (1229 overheal)", -- [26]
-				"Tazzwanted Judgement of Corruption Chillmaw Crit -10847 (Holy)", -- [27]
-				"Tazzwanted Sheath of Light Tazzwanted Tick +1096", -- [28]
-				"Tazzwanted Fire Shield Chillmaw Hit -261 (Fire)", -- [29]
-				"Chillmaw Melee Tazzwanted Hit -995 (Physical)", -- [30]
-				"Tazzwanted Seal of Corruption Chillmaw Crit -2160 (239 resisted) (Holy)", -- [31]
-				"Tazzwanted Melee Chillmaw Hit -3352 (Physical)", -- [32]
-				"Tazzwanted Blood Corruption (DoT) Chillmaw Tick -1650 (183 resisted) (Holy)", -- [33]
-				"Tazzwanted Chaos Bane Chillmaw Hit -2564 (Shadow)", -- [34]
-				"Cultist Bombardier Throw Dynamite Tazzwanted Hit -913 (228 resisted) (Fire)", -- [35]
-				"Cultist Bombardier Throw Dynamite Tazzwanted Absorb (1019 Absorbed) (Fire)", -- [36]
-				"Cultist Bombardier Throw Dynamite Tazzwanted Absorb (935 Absorbed) (Fire)", -- [37]
-				"Tazzwanted Seal of Corruption Chillmaw Crit -3782 (Holy)", -- [38]
-				"Tazzwanted Crusader Strike Chillmaw Hit -2754 (Physical)", -- [39]
-				"Tazzwanted Fire Shield Cultist Bombardier Hit -248 (Fire)", -- [40]
-				"Cultist Bombardier Melee Tazzwanted Hit -835 (628 Absorbed) (Physical)", -- [41]
-				"Tazzwanted Fire Shield Cultist Bombardier Hit -248 (Fire)", -- [42]
-				"Cultist Bombardier Melee Tazzwanted Hit -1486 (Physical)", -- [43]
-				"Tazzwanted Fire Shield Cultist Bombardier Hit -248 (Fire)", -- [44]
-				"Cultist Bombardier Melee Tazzwanted Hit -1536 (Physical)", -- [45]
-				"Tazzwanted Sheath of Light Tazzwanted Tick +1096", -- [46]
-				"Tazzwanted Divine Storm Cultist Bombardier Crit -7648 (Physical)", -- [47]
-				"Tazzwanted Divine Storm Meroving Tick +637", -- [48]
-				"Tazzwanted Divine Storm Nokrin <Meroving> Tick +637 (637 overheal)", -- [49]
-				"Tazzwanted Divine Storm Tazzwanted Tick +637", -- [50]
-			},
-			["Name"] = "Tazzwanted",
-			["LastEventIncoming"] = {
-				false, -- [1]
-				false, -- [2]
-				false, -- [3]
-				false, -- [4]
-				false, -- [5]
-				false, -- [6]
-				true, -- [7]
-				false, -- [8]
-				false, -- [9]
-				false, -- [10]
-				false, -- [11]
-				false, -- [12]
-				false, -- [13]
-				false, -- [14]
-				false, -- [15]
-				true, -- [16]
-				false, -- [17]
-				true, -- [18]
-				false, -- [19]
-				true, -- [20]
-				false, -- [21]
-				false, -- [22]
-				false, -- [23]
-				true, -- [24]
-				false, -- [25]
-				true, -- [26]
-				false, -- [27]
-				true, -- [28]
-				false, -- [29]
-				true, -- [30]
-				false, -- [31]
-				false, -- [32]
-				false, -- [33]
-				false, -- [34]
-				true, -- [35]
-				true, -- [36]
-				true, -- [37]
-				false, -- [38]
-				false, -- [39]
-				false, -- [40]
-				true, -- [41]
-				false, -- [42]
-				true, -- [43]
-				false, -- [44]
-				true, -- [45]
-				true, -- [46]
-				false, -- [47]
-				false, -- [48]
-				false, -- [49]
-				true, -- [50]
-			},
-			["LastEventTimes"] = {
-				2354858.146, -- [1]
-				2354858.146, -- [2]
-				2354858.146, -- [3]
-				2354858.147, -- [4]
-				2354858.147, -- [5]
-				2354858.148, -- [6]
-				2354858.149, -- [7]
-				2354858.149, -- [8]
-				2354860.213, -- [9]
-				2354860.214, -- [10]
-				2354860.613, -- [11]
-				2354860.818, -- [12]
-				2354860.819, -- [13]
-				2354860.82, -- [14]
-				2354860.821, -- [15]
-				2354861.078, -- [16]
-				2354862.245, -- [17]
-				2354862.882, -- [18]
-				2354863.297, -- [19]
-				2354864.052, -- [20]
-				2354864.181, -- [21]
-				2354864.369, -- [22]
-				2354865.283, -- [23]
-				2354865.283, -- [24]
-				2354865.451, -- [25]
-				2354870.471, -- [26]
-				2354854.832, -- [27]
-				2354855.111, -- [28]
-				2354855.239, -- [29]
-				2354855.24, -- [30]
-				2354855.608, -- [31]
-				2354855.608, -- [32]
-				2354855.86, -- [33]
-				2354855.991, -- [34]
-				2354856.291, -- [35]
-				2354856.292, -- [36]
-				2354856.478, -- [37]
-				2354856.598, -- [38]
-				2354856.598, -- [39]
-				2354856.759, -- [40]
-				2354856.759, -- [41]
-				2354856.911, -- [42]
-				2354856.911, -- [43]
-				2354857.91, -- [44]
-				2354857.91, -- [45]
-				2354858.059, -- [46]
-				2354858.145, -- [47]
-				2354858.145, -- [48]
-				2354858.145, -- [49]
-				2354858.146, -- [50]
-			},
-			["Fights"] = {
-				["Fight1"] = {
-					["DOTs"] = {
-						["Righteous Vengeance (DoT)"] = {
-							["Details"] = {
-								["Cultist Bombardier"] = {
-									["count"] = 15,
-								},
-								["Chillmaw"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 27,
-						},
-						["Blood Corruption (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 9,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Holy"] = 1398,
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 1,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 12,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["HealedWho"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 8466,
-								},
-								["Sheath of Light"] = {
-									["count"] = 5073,
-								},
-								["Divine Storm"] = {
-									["count"] = 1258,
-								},
-							},
-							["amount"] = 14797,
-						},
-					},
-					["ElementTakenResist"] = {
-						["Fire"] = 228,
-					},
-					["HOT_Time"] = 42,
-					["ElementTaken"] = {
-						["Physical"] = 7167,
-						["Melee"] = 10126,
-						["Fire"] = 913,
-					},
-					["DOT_Time"] = 36,
-					["Damage"] = 104485,
-					["TimeHeal"] = 4.140000000000001,
-					["ElementDone"] = {
-						["Holy"] = 39427,
-						["Melee"] = 31638,
-						["Fire"] = 1745,
-						["Shadow"] = 2564,
-						["Physical"] = 29111,
-					},
-					["ElementHitsDone"] = {
-						["Holy"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 5,
-								},
-								["Crit"] = {
-									["count"] = 5,
-								},
-								["Tick"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 22,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 4,
-								},
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 6168,
-								},
-								["Throw Dynamite"] = {
-									["count"] = 913,
-								},
-							},
-							["amount"] = 7081,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 7167,
-								},
-							},
-							["amount"] = 7167,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3958,
-								},
-							},
-							["amount"] = 3958,
-						},
-					},
-					["ElementDoneBlock"] = {
-						["Physical"] = 41,
-					},
-					["TimeHealing"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 0.88,
-								},
-								["Sheath of Light"] = {
-									["count"] = 3.26,
-								},
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4.140000000000001,
-						},
-					},
-					["OverHeals"] = {
-						["Flash of Light"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1404,
-									["min"] = 1404,
-									["count"] = 1,
-									["amount"] = 1404,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1404,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 637,
-									["min"] = 303,
-									["count"] = 5,
-									["amount"] = 2485,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 2485,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["25%Resist"] = {
-									["max"] = 228,
-									["min"] = 228,
-									["count"] = 1,
-									["amount"] = 228,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 228,
-						},
-					},
-					["ManaGained"] = {
-						["Divine Plea"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1850,
-								},
-							},
-							["amount"] = 1850,
-						},
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 266,
-								},
-							},
-							["amount"] = 266,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 609,
-								},
-							},
-							["amount"] = 609,
-						},
-						["Judgements of the Wise"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 3294,
-								},
-							},
-							["amount"] = 3294,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1512,
-									["min"] = 628,
-									["count"] = 3,
-									["amount"] = 2814,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 2814,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1019,
-									["min"] = 935,
-									["count"] = 2,
-									["amount"] = 1954,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 1954,
-						},
-					},
-					["ActiveTime"] = 22.95000000000001,
-					["Heals"] = {
-						["Flash of Light"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4599,
-									["min"] = 3867,
-									["count"] = 2,
-									["amount"] = 8466,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 8466,
-						},
-						["Sheath of Light"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1096,
-									["min"] = 689,
-									["count"] = 5,
-									["amount"] = 5073,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 5073,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 637,
-									["min"] = 303,
-									["count"] = 4,
-									["amount"] = 2198,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 2198,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 2814,
-						["Fire"] = 1954,
-					},
-					["Overhealing"] = 3889,
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 1.05,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 0.21,
-								},
-								["Divine Storm"] = {
-									["count"] = 0.09,
-								},
-								["Melee"] = {
-									["count"] = 0.5900000000000001,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Fire Shield"] = {
-									["count"] = 2.22,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.53,
-								},
-							},
-							["amount"] = 7.69,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 0.88,
-								},
-								["Sheath of Light"] = {
-									["count"] = 3.26,
-								},
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4.140000000000001,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 2.74,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 0.51,
-								},
-								["Chaos Bane"] = {
-									["count"] = 0.13,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 3.5,
-								},
-								["Fire Shield"] = {
-									["count"] = 0.63,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.17,
-								},
-								["Melee"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 11.12,
-						},
-					},
-					["Healing"] = 15737,
-					["DamageTaken"] = 18206,
-					["HOTs"] = {
-						["Sheath of Light"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Nokrin <Meroving>"] = {
-									["count"] = 9,
-								},
-								["Meroving"] = {
-									["count"] = 6,
-								},
-								["Tazzwanted"] = {
-									["count"] = 6,
-								},
-								["Ickshining"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 27,
-						},
-					},
-					["Attacks"] = {
-						["Seal of Corruption"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3782,
-									["min"] = 2160,
-									["count"] = 2,
-									["amount"] = 5942,
-								},
-								["Hit"] = {
-									["max"] = 987,
-									["min"] = 334,
-									["count"] = 5,
-									["amount"] = 2835,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 8777,
-						},
-						["Blood Corruption (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1650,
-									["min"] = 725,
-									["count"] = 3,
-									["amount"] = 3726,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 3726,
-						},
-						["Chaos Bane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2564,
-									["min"] = 2564,
-									["count"] = 1,
-									["amount"] = 2564,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 2564,
-						},
-						["Judgement of Corruption"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 10847,
-									["min"] = 4524,
-									["count"] = 3,
-									["amount"] = 22857,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 22857,
-						},
-						["Fire Shield"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 261,
-									["min"] = 231,
-									["count"] = 7,
-									["amount"] = 1745,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 1745,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7648,
-									["min"] = 7461,
-									["count"] = 2,
-									["amount"] = 15109,
-								},
-								["Hit"] = {
-									["max"] = 3637,
-									["min"] = 3637,
-									["count"] = 1,
-									["amount"] = 3637,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 18746,
-						},
-						["Manifest Anger"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3052,
-									["min"] = 3052,
-									["count"] = 1,
-									["amount"] = 3052,
-								},
-								["Hit"] = {
-									["max"] = 1580,
-									["min"] = 1580,
-									["count"] = 1,
-									["amount"] = 1580,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4632,
-						},
-						["Crusader Strike"] = {
-							["Details"] = {
-								["Hit (Blocked)"] = {
-									["max"] = 2754,
-									["min"] = 2754,
-									["count"] = 1,
-									["amount"] = 2754,
-								},
-								["Hit"] = {
-									["max"] = 2979,
-									["min"] = 2979,
-									["count"] = 1,
-									["amount"] = 2979,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 5733,
-						},
-						["Righteous Vengeance (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 573,
-									["min"] = 272,
-									["count"] = 9,
-									["amount"] = 4067,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 4067,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7144,
-									["min"] = 5609,
-									["count"] = 4,
-									["amount"] = 25219,
-								},
-								["Hit"] = {
-									["max"] = 3352,
-									["min"] = 3067,
-									["count"] = 2,
-									["amount"] = 6419,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 31638,
-						},
-					},
-					["HealingTaken"] = 14797,
-					["WhoHealed"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 8466,
-								},
-								["Sheath of Light"] = {
-									["count"] = 5073,
-								},
-								["Divine Storm"] = {
-									["count"] = 1258,
-								},
-							},
-							["amount"] = 14797,
-						},
-					},
-					["TimeDamage"] = 18.81,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 1.05,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 0.21,
-								},
-								["Divine Storm"] = {
-									["count"] = 0.09,
-								},
-								["Melee"] = {
-									["count"] = 0.5900000000000001,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Fire Shield"] = {
-									["count"] = 2.22,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.53,
-								},
-							},
-							["amount"] = 7.69,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 2.74,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 0.51,
-								},
-								["Chaos Bane"] = {
-									["count"] = 0.13,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 3.5,
-								},
-								["Fire Shield"] = {
-									["count"] = 0.63,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.17,
-								},
-								["Melee"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 11.12,
-						},
-					},
-					["ManaGain"] = 6019,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 7486,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 688,
-								},
-								["Divine Storm"] = {
-									["count"] = 18746,
-								},
-								["Melee"] = {
-									["count"] = 13637,
-								},
-								["Manifest Anger"] = {
-									["count"] = 3052,
-								},
-								["Crusader Strike"] = {
-									["count"] = 2979,
-								},
-								["Fire Shield"] = {
-									["count"] = 1223,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 2811,
-								},
-							},
-							["amount"] = 50622,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 8089,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 3726,
-								},
-								["Chaos Bane"] = {
-									["count"] = 2564,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 15371,
-								},
-								["Fire Shield"] = {
-									["count"] = 522,
-								},
-								["Manifest Anger"] = {
-									["count"] = 1580,
-								},
-								["Crusader Strike"] = {
-									["count"] = 2754,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 1256,
-								},
-								["Melee"] = {
-									["count"] = 18001,
-								},
-							},
-							["amount"] = 53863,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Divine Plea"] = {
-									["count"] = 1850,
-								},
-								["Replenishment"] = {
-									["count"] = 266,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 609,
-								},
-								["Judgements of the Wise"] = {
-									["count"] = 3294,
-								},
-							},
-							["amount"] = 6019,
-						},
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-						["Righteous Vengeance (DoT)"] = {
-							["Details"] = {
-								["Cultist Bombardier"] = {
-									["count"] = 15,
-								},
-								["Chillmaw"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 27,
-						},
-						["Blood Corruption (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 9,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Holy"] = 1398,
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 1,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 12,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["HealedWho"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 8466,
-								},
-								["Sheath of Light"] = {
-									["count"] = 5073,
-								},
-								["Divine Storm"] = {
-									["count"] = 1258,
-								},
-							},
-							["amount"] = 14797,
-						},
-					},
-					["ElementTakenResist"] = {
-						["Fire"] = 228,
-					},
-					["HOT_Time"] = 42,
-					["ElementTaken"] = {
-						["Physical"] = 7167,
-						["Melee"] = 10126,
-						["Fire"] = 913,
-					},
-					["DOT_Time"] = 36,
-					["Damage"] = 104485,
-					["TimeHeal"] = 4.140000000000001,
-					["ElementDone"] = {
-						["Holy"] = 39427,
-						["Melee"] = 31638,
-						["Fire"] = 1745,
-						["Shadow"] = 2564,
-						["Physical"] = 29111,
-					},
-					["ElementHitsDone"] = {
-						["Holy"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 5,
-								},
-								["Crit"] = {
-									["count"] = 5,
-								},
-								["Tick"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 22,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 4,
-								},
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 6168,
-								},
-								["Throw Dynamite"] = {
-									["count"] = 913,
-								},
-							},
-							["amount"] = 7081,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 7167,
-								},
-							},
-							["amount"] = 7167,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3958,
-								},
-							},
-							["amount"] = 3958,
-						},
-					},
-					["ElementDoneBlock"] = {
-						["Physical"] = 41,
-					},
-					["TimeHealing"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 0.88,
-								},
-								["Sheath of Light"] = {
-									["count"] = 3.26,
-								},
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4.140000000000001,
-						},
-					},
-					["OverHeals"] = {
-						["Flash of Light"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1404,
-									["min"] = 1404,
-									["count"] = 1,
-									["amount"] = 1404,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1404,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 637,
-									["min"] = 303,
-									["count"] = 5,
-									["amount"] = 2485,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 2485,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["25%Resist"] = {
-									["max"] = 228,
-									["min"] = 228,
-									["count"] = 1,
-									["amount"] = 228,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 228,
-						},
-					},
-					["ManaGained"] = {
-						["Divine Plea"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1850,
-								},
-							},
-							["amount"] = 1850,
-						},
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 266,
-								},
-							},
-							["amount"] = 266,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 609,
-								},
-							},
-							["amount"] = 609,
-						},
-						["Judgements of the Wise"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 3294,
-								},
-							},
-							["amount"] = 3294,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1512,
-									["min"] = 628,
-									["count"] = 3,
-									["amount"] = 2814,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 2814,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1019,
-									["min"] = 935,
-									["count"] = 2,
-									["amount"] = 1954,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 1954,
-						},
-					},
-					["ActiveTime"] = 22.95000000000001,
-					["Heals"] = {
-						["Flash of Light"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4599,
-									["min"] = 3867,
-									["count"] = 2,
-									["amount"] = 8466,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 8466,
-						},
-						["Sheath of Light"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1096,
-									["min"] = 689,
-									["count"] = 5,
-									["amount"] = 5073,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 5073,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 637,
-									["min"] = 303,
-									["count"] = 4,
-									["amount"] = 2198,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 2198,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 2814,
-						["Fire"] = 1954,
-					},
-					["Overhealing"] = 3889,
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 1.05,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 0.21,
-								},
-								["Divine Storm"] = {
-									["count"] = 0.09,
-								},
-								["Melee"] = {
-									["count"] = 0.5900000000000001,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Fire Shield"] = {
-									["count"] = 2.22,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.53,
-								},
-							},
-							["amount"] = 7.69,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 0.88,
-								},
-								["Sheath of Light"] = {
-									["count"] = 3.26,
-								},
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4.140000000000001,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 2.74,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 0.51,
-								},
-								["Chaos Bane"] = {
-									["count"] = 0.13,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 3.5,
-								},
-								["Fire Shield"] = {
-									["count"] = 0.63,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.17,
-								},
-								["Melee"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 11.12,
-						},
-					},
-					["Healing"] = 15737,
-					["DamageTaken"] = 18206,
-					["HOTs"] = {
-						["Sheath of Light"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Nokrin <Meroving>"] = {
-									["count"] = 9,
-								},
-								["Meroving"] = {
-									["count"] = 6,
-								},
-								["Tazzwanted"] = {
-									["count"] = 6,
-								},
-								["Ickshining"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 27,
-						},
-					},
-					["Attacks"] = {
-						["Seal of Corruption"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3782,
-									["min"] = 2160,
-									["count"] = 2,
-									["amount"] = 5942,
-								},
-								["Hit"] = {
-									["max"] = 987,
-									["min"] = 334,
-									["count"] = 5,
-									["amount"] = 2835,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 8777,
-						},
-						["Blood Corruption (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1650,
-									["min"] = 725,
-									["count"] = 3,
-									["amount"] = 3726,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 3726,
-						},
-						["Chaos Bane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2564,
-									["min"] = 2564,
-									["count"] = 1,
-									["amount"] = 2564,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 2564,
-						},
-						["Judgement of Corruption"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 10847,
-									["min"] = 4524,
-									["count"] = 3,
-									["amount"] = 22857,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 22857,
-						},
-						["Fire Shield"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 261,
-									["min"] = 231,
-									["count"] = 7,
-									["amount"] = 1745,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 1745,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7648,
-									["min"] = 7461,
-									["count"] = 2,
-									["amount"] = 15109,
-								},
-								["Hit"] = {
-									["max"] = 3637,
-									["min"] = 3637,
-									["count"] = 1,
-									["amount"] = 3637,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 18746,
-						},
-						["Manifest Anger"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3052,
-									["min"] = 3052,
-									["count"] = 1,
-									["amount"] = 3052,
-								},
-								["Hit"] = {
-									["max"] = 1580,
-									["min"] = 1580,
-									["count"] = 1,
-									["amount"] = 1580,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4632,
-						},
-						["Crusader Strike"] = {
-							["Details"] = {
-								["Hit (Blocked)"] = {
-									["max"] = 2754,
-									["min"] = 2754,
-									["count"] = 1,
-									["amount"] = 2754,
-								},
-								["Hit"] = {
-									["max"] = 2979,
-									["min"] = 2979,
-									["count"] = 1,
-									["amount"] = 2979,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 5733,
-						},
-						["Righteous Vengeance (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 573,
-									["min"] = 272,
-									["count"] = 9,
-									["amount"] = 4067,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 4067,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7144,
-									["min"] = 5609,
-									["count"] = 4,
-									["amount"] = 25219,
-								},
-								["Hit"] = {
-									["max"] = 3352,
-									["min"] = 3067,
-									["count"] = 2,
-									["amount"] = 6419,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 31638,
-						},
-					},
-					["HealingTaken"] = 14797,
-					["WhoHealed"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 8466,
-								},
-								["Sheath of Light"] = {
-									["count"] = 5073,
-								},
-								["Divine Storm"] = {
-									["count"] = 1258,
-								},
-							},
-							["amount"] = 14797,
-						},
-					},
-					["TimeDamage"] = 18.81,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 1.05,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 0.21,
-								},
-								["Divine Storm"] = {
-									["count"] = 0.09,
-								},
-								["Melee"] = {
-									["count"] = 0.5900000000000001,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Fire Shield"] = {
-									["count"] = 2.22,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.53,
-								},
-							},
-							["amount"] = 7.69,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 2.74,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 0.51,
-								},
-								["Chaos Bane"] = {
-									["count"] = 0.13,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 3.5,
-								},
-								["Fire Shield"] = {
-									["count"] = 0.63,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.17,
-								},
-								["Melee"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 11.12,
-						},
-					},
-					["ManaGain"] = 6019,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 7486,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 688,
-								},
-								["Divine Storm"] = {
-									["count"] = 18746,
-								},
-								["Melee"] = {
-									["count"] = 13637,
-								},
-								["Manifest Anger"] = {
-									["count"] = 3052,
-								},
-								["Crusader Strike"] = {
-									["count"] = 2979,
-								},
-								["Fire Shield"] = {
-									["count"] = 1223,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 2811,
-								},
-							},
-							["amount"] = 50622,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 8089,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 3726,
-								},
-								["Chaos Bane"] = {
-									["count"] = 2564,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 15371,
-								},
-								["Fire Shield"] = {
-									["count"] = 522,
-								},
-								["Manifest Anger"] = {
-									["count"] = 1580,
-								},
-								["Crusader Strike"] = {
-									["count"] = 2754,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 1256,
-								},
-								["Melee"] = {
-									["count"] = 18001,
-								},
-							},
-							["amount"] = 53863,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Divine Plea"] = {
-									["count"] = 1850,
-								},
-								["Replenishment"] = {
-									["count"] = 266,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 609,
-								},
-								["Judgements of the Wise"] = {
-									["count"] = 3294,
-								},
-							},
-							["amount"] = 6019,
-						},
-					},
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["ElementHitsDone"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDone"] = {
-					},
-					["PartialAbsorb"] = {
-					},
-					["DamagedWho"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["PartialResist"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 70,
-								},
-							},
-							["amount"] = 70,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["CCBreak"] = 0,
-					["RageGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 70,
-								},
-							},
-							["amount"] = 70,
-						},
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["Heals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGained"] = {
-					},
-					["ActiveTime"] = 0,
-					["Healing"] = 0,
-					["FDamagedWho"] = {
-					},
-					["Dispelled"] = 0,
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["RageGain"] = 0,
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["ManaGain"] = 70,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["OverallData"] = {
-					["DOTs"] = {
-						["Righteous Vengeance (DoT)"] = {
-							["Details"] = {
-								["Cultist Bombardier"] = {
-									["count"] = 15,
-								},
-								["Chillmaw"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 27,
-						},
-						["Blood Corruption (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 9,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Holy"] = 1398,
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 1,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 12,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["HealedWho"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 8466,
-								},
-								["Sheath of Light"] = {
-									["count"] = 5073,
-								},
-								["Divine Storm"] = {
-									["count"] = 1258,
-								},
-							},
-							["amount"] = 14797,
-						},
-					},
-					["ElementTakenResist"] = {
-						["Fire"] = 228,
-					},
-					["HOT_Time"] = 42,
-					["ElementTaken"] = {
-						["Physical"] = 7167,
-						["Melee"] = 10126,
-						["Fire"] = 913,
-					},
-					["DOT_Time"] = 36,
-					["Damage"] = 104485,
-					["TimeHeal"] = 4.140000000000001,
-					["ElementDone"] = {
-						["Holy"] = 39427,
-						["Melee"] = 31638,
-						["Fire"] = 1745,
-						["Shadow"] = 2564,
-						["Physical"] = 29111,
-					},
-					["ElementHitsDone"] = {
-						["Holy"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 5,
-								},
-								["Crit"] = {
-									["count"] = 5,
-								},
-								["Tick"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 22,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 4,
-								},
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 6168,
-								},
-								["Throw Dynamite"] = {
-									["count"] = 913,
-								},
-							},
-							["amount"] = 7081,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 7167,
-								},
-							},
-							["amount"] = 7167,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3958,
-								},
-							},
-							["amount"] = 3958,
-						},
-					},
-					["ElementDoneBlock"] = {
-						["Physical"] = 41,
-					},
-					["TimeHealing"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 0.88,
-								},
-								["Sheath of Light"] = {
-									["count"] = 3.26,
-								},
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4.140000000000001,
-						},
-					},
-					["OverHeals"] = {
-						["Flash of Light"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1404,
-									["min"] = 1404,
-									["count"] = 1,
-									["amount"] = 1404,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1404,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 637,
-									["min"] = 303,
-									["count"] = 5,
-									["amount"] = 2485,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 2485,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["25%Resist"] = {
-									["max"] = 228,
-									["min"] = 228,
-									["count"] = 1,
-									["amount"] = 228,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 228,
-						},
-					},
-					["ManaGained"] = {
-						["Divine Plea"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1850,
-								},
-							},
-							["amount"] = 1850,
-						},
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 336,
-								},
-							},
-							["amount"] = 336,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 609,
-								},
-							},
-							["amount"] = 609,
-						},
-						["Judgements of the Wise"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 3294,
-								},
-							},
-							["amount"] = 3294,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1512,
-									["min"] = 628,
-									["count"] = 3,
-									["amount"] = 2814,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 2814,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1019,
-									["min"] = 935,
-									["count"] = 2,
-									["amount"] = 1954,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 1954,
-						},
-					},
-					["ActiveTime"] = 22.95000000000001,
-					["Heals"] = {
-						["Flash of Light"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4599,
-									["min"] = 3867,
-									["count"] = 2,
-									["amount"] = 8466,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 8466,
-						},
-						["Sheath of Light"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1096,
-									["min"] = 689,
-									["count"] = 5,
-									["amount"] = 5073,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 5073,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 637,
-									["min"] = 303,
-									["count"] = 4,
-									["amount"] = 2198,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 2198,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 2814,
-						["Fire"] = 1954,
-					},
-					["Overhealing"] = 3889,
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 1.05,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 0.21,
-								},
-								["Divine Storm"] = {
-									["count"] = 0.09,
-								},
-								["Melee"] = {
-									["count"] = 0.5900000000000001,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Fire Shield"] = {
-									["count"] = 2.22,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.53,
-								},
-							},
-							["amount"] = 7.69,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 0.88,
-								},
-								["Sheath of Light"] = {
-									["count"] = 3.26,
-								},
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4.140000000000001,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 2.74,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 0.51,
-								},
-								["Chaos Bane"] = {
-									["count"] = 0.13,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 3.5,
-								},
-								["Fire Shield"] = {
-									["count"] = 0.63,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.17,
-								},
-								["Melee"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 11.12,
-						},
-					},
-					["Healing"] = 15737,
-					["DamageTaken"] = 18206,
-					["HOTs"] = {
-						["Sheath of Light"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Nokrin <Meroving>"] = {
-									["count"] = 9,
-								},
-								["Meroving"] = {
-									["count"] = 6,
-								},
-								["Tazzwanted"] = {
-									["count"] = 6,
-								},
-								["Ickshining"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 27,
-						},
-					},
-					["Attacks"] = {
-						["Seal of Corruption"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3782,
-									["min"] = 2160,
-									["count"] = 2,
-									["amount"] = 5942,
-								},
-								["Hit"] = {
-									["max"] = 987,
-									["min"] = 334,
-									["count"] = 5,
-									["amount"] = 2835,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 8777,
-						},
-						["Blood Corruption (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1650,
-									["min"] = 725,
-									["count"] = 3,
-									["amount"] = 3726,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 3726,
-						},
-						["Chaos Bane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2564,
-									["min"] = 2564,
-									["count"] = 1,
-									["amount"] = 2564,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 2564,
-						},
-						["Judgement of Corruption"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 10847,
-									["min"] = 4524,
-									["count"] = 3,
-									["amount"] = 22857,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 22857,
-						},
-						["Fire Shield"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 261,
-									["min"] = 231,
-									["count"] = 7,
-									["amount"] = 1745,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 1745,
-						},
-						["Divine Storm"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7648,
-									["min"] = 7461,
-									["count"] = 2,
-									["amount"] = 15109,
-								},
-								["Hit"] = {
-									["max"] = 3637,
-									["min"] = 3637,
-									["count"] = 1,
-									["amount"] = 3637,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 18746,
-						},
-						["Manifest Anger"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 3052,
-									["min"] = 3052,
-									["count"] = 1,
-									["amount"] = 3052,
-								},
-								["Hit"] = {
-									["max"] = 1580,
-									["min"] = 1580,
-									["count"] = 1,
-									["amount"] = 1580,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4632,
-						},
-						["Crusader Strike"] = {
-							["Details"] = {
-								["Hit (Blocked)"] = {
-									["max"] = 2754,
-									["min"] = 2754,
-									["count"] = 1,
-									["amount"] = 2754,
-								},
-								["Hit"] = {
-									["max"] = 2979,
-									["min"] = 2979,
-									["count"] = 1,
-									["amount"] = 2979,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 5733,
-						},
-						["Righteous Vengeance (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 573,
-									["min"] = 272,
-									["count"] = 9,
-									["amount"] = 4067,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 4067,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7144,
-									["min"] = 5609,
-									["count"] = 4,
-									["amount"] = 25219,
-								},
-								["Hit"] = {
-									["max"] = 3352,
-									["min"] = 3067,
-									["count"] = 2,
-									["amount"] = 6419,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 31638,
-						},
-					},
-					["HealingTaken"] = 14797,
-					["WhoHealed"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Flash of Light"] = {
-									["count"] = 8466,
-								},
-								["Sheath of Light"] = {
-									["count"] = 5073,
-								},
-								["Divine Storm"] = {
-									["count"] = 1258,
-								},
-							},
-							["amount"] = 14797,
-						},
-					},
-					["TimeDamage"] = 18.81,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 1.05,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 0.21,
-								},
-								["Divine Storm"] = {
-									["count"] = 0.09,
-								},
-								["Melee"] = {
-									["count"] = 0.5900000000000001,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Fire Shield"] = {
-									["count"] = 2.22,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.53,
-								},
-							},
-							["amount"] = 7.69,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 2.74,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 0.51,
-								},
-								["Chaos Bane"] = {
-									["count"] = 0.13,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 3.5,
-								},
-								["Fire Shield"] = {
-									["count"] = 0.63,
-								},
-								["Manifest Anger"] = {
-									["count"] = 0,
-								},
-								["Crusader Strike"] = {
-									["count"] = 0,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 3.17,
-								},
-								["Melee"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 11.12,
-						},
-					},
-					["ManaGain"] = 6089,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Judgement of Corruption"] = {
-									["count"] = 7486,
-								},
-								["Seal of Corruption"] = {
-									["count"] = 688,
-								},
-								["Divine Storm"] = {
-									["count"] = 18746,
-								},
-								["Melee"] = {
-									["count"] = 13637,
-								},
-								["Manifest Anger"] = {
-									["count"] = 3052,
-								},
-								["Crusader Strike"] = {
-									["count"] = 2979,
-								},
-								["Fire Shield"] = {
-									["count"] = 1223,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 2811,
-								},
-							},
-							["amount"] = 50622,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Seal of Corruption"] = {
-									["count"] = 8089,
-								},
-								["Blood Corruption (DoT)"] = {
-									["count"] = 3726,
-								},
-								["Chaos Bane"] = {
-									["count"] = 2564,
-								},
-								["Judgement of Corruption"] = {
-									["count"] = 15371,
-								},
-								["Fire Shield"] = {
-									["count"] = 522,
-								},
-								["Manifest Anger"] = {
-									["count"] = 1580,
-								},
-								["Crusader Strike"] = {
-									["count"] = 2754,
-								},
-								["Righteous Vengeance (DoT)"] = {
-									["count"] = 1256,
-								},
-								["Melee"] = {
-									["count"] = 18001,
-								},
-							},
-							["amount"] = 53863,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Divine Plea"] = {
-									["count"] = 1850,
-								},
-								["Replenishment"] = {
-									["count"] = 336,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 609,
-								},
-								["Judgements of the Wise"] = {
-									["count"] = 3294,
-								},
-							},
-							["amount"] = 6089,
-						},
-					},
-				},
-			},
-			["UnitLockout"] = 1597229593,
-			["LastActive"] = 1597229618,
-		},
-		["Meroving"] = {
-			["GUID"] = "0x07000000005AF012",
-			["LastEventHealth"] = {
-				"23984 (100%)", -- [1]
-				"23984 (100%)", -- [2]
-				"23984 (100%)", -- [3]
-				"23984 (100%)", -- [4]
-				"23984 (100%)", -- [5]
-				"23984 (100%)", -- [6]
-				"23984 (100%)", -- [7]
-				"23984 (100%)", -- [8]
-				"23984 (100%)", -- [9]
-				"25765 (100%)", -- [10]
-				"25765 (100%)", -- [11]
-				"25765 (100%)", -- [12]
-				"25765 (100%)", -- [13]
-				"25765 (100%)", -- [14]
-				"23984 (100%)", -- [15]
-				"23984 (100%)", -- [16]
-				"23984 (100%)", -- [17]
-				"23984 (100%)", -- [18]
-				"25765 (100%)", -- [19]
-				"25765 (100%)", -- [20]
-				"25765 (100%)", -- [21]
-				"25765 (100%)", -- [22]
-				"25765 (100%)", -- [23]
-				"25765 (100%)", -- [24]
-				"25765 (100%)", -- [25]
-				"25765 (100%)", -- [26]
-				"25765 (100%)", -- [27]
-				"25765 (100%)", -- [28]
-				"25765 (100%)", -- [29]
-				"25765 (100%)", -- [30]
-				"25765 (100%)", -- [31]
-				"25765 (100%)", -- [32]
-				"25765 (100%)", -- [33]
-				"25765 (100%)", -- [34]
-				"25765 (100%)", -- [35]
-				"25765 (100%)", -- [36]
-				"25765 (100%)", -- [37]
-				"25765 (100%)", -- [38]
-				"25765 (100%)", -- [39]
-				"23984 (100%)", -- [40]
-				"23984 (100%)", -- [41]
-				"23984 (100%)", -- [42]
-				"23984 (100%)", -- [43]
-				"23984 (100%)", -- [44]
-				"23984 (100%)", -- [45]
-				"23984 (100%)", -- [46]
-				"23984 (100%)", -- [47]
-				"23984 (100%)", -- [48]
-				"23984 (100%)", -- [49]
-				"23984 (100%)", -- [50]
-			},
-			["LastAttackedBy"] = "Cultist Bombardier",
 			["LastEventType"] = {
 				"HEAL", -- [1]
 				"HEAL", -- [2]
@@ -3160,120 +109,49 @@ RecountPerCharDB = {
 				"HEAL", -- [50]
 			},
 			["TimeWindows"] = {
-				["TimeHeal"] = {
-					6.48, -- [1]
-				},
-				["Healing"] = {
-					2876, -- [1]
-				},
-				["DamageTaken"] = {
-					3764, -- [1]
-				},
-				["TimeDamage"] = {
-					12.04, -- [1]
-				},
-				["HealingTaken"] = {
-					3816, -- [1]
-				},
-				["HOT_Time"] = {
-					12, -- [1]
-				},
-				["ActiveTime"] = {
-					18.52, -- [1]
-				},
-				["Overhealing"] = {
-					5870, -- [1]
-				},
 				["ManaGain"] = {
-					1702, -- [1]
-				},
-				["DOT_Time"] = {
-					12, -- [1]
-				},
-				["Damage"] = {
-					45201, -- [1]
+					2633, -- [1]
 				},
 			},
-			["enClass"] = "WARLOCK",
-			["unit"] = "Meroving",
-			["TimeLast"] = {
-				["TimeHeal"] = 1597229611,
-				["OVERALL"] = 1597229618,
-				["DamageTaken"] = 1597229603,
-				["TimeDamage"] = 1597229611,
-				["Overhealing"] = 1597229611,
-				["HealingTaken"] = 1597229611,
-				["HOT_Time"] = 1597229611,
-				["ActiveTime"] = 1597229611,
-				["Healing"] = 1597229611,
-				["ManaGain"] = 1597229618,
-				["DOT_Time"] = 1597229603,
-				["Damage"] = 1597229611,
-			},
+			["enClass"] = "PRIEST",
+			["unit"] = "Charapan",
 			["level"] = 80,
-			["LastDamageAbility"] = "Throw Dynamite",
 			["LastFightIn"] = 0,
 			["LastEventNum"] = {
-				2.597565043362242, -- [1]
-				2.597565043362242, -- [2]
-				2.597565043362242, -- [3]
-				2.597565043362242, -- [4]
-				2.597565043362242, -- [5]
-				2.597565043362242, -- [6]
-				2.597565043362242, -- [7]
-				2.597565043362242, -- [8]
-				2.597565043362242, -- [9]
-				2.596545701533088, -- [10]
-				2.596545701533088, -- [11]
-				2.596545701533088, -- [12]
-				2.596545701533088, -- [13]
-				2.596545701533088, -- [14]
-				2.597565043362242, -- [15]
-				2.597565043362242, -- [16]
-				2.597565043362242, -- [17]
-				2.597565043362242, -- [18]
-				2.596545701533088, -- [19]
-				2.596545701533088, -- [20]
-				2.596545701533088, -- [21]
-				2.596545701533088, -- [22]
-				2.596545701533088, -- [23]
-				2.596545701533088, -- [24]
-				2.596545701533088, -- [25]
-				2.596545701533088, -- [26]
-				2.596545701533088, -- [27]
-				2.596545701533088, -- [28]
-				2.596545701533088, -- [29]
-				2.596545701533088, -- [30]
-				2.596545701533088, -- [31]
-				2.596545701533088, -- [32]
-				2.596545701533088, -- [33]
-				2.596545701533088, -- [34]
-				2.596545701533088, -- [35]
-				2.596545701533088, -- [36]
-				2.596545701533088, -- [37]
-				2.596545701533088, -- [38]
-				2.596545701533088, -- [39]
-				2.597565043362242, -- [40]
-				2.597565043362242, -- [41]
-				2.597565043362242, -- [42]
-				2.597565043362242, -- [43]
-				2.597565043362242, -- [44]
-				2.597565043362242, -- [45]
-				2.597565043362242, -- [46]
-				2.597565043362242, -- [47]
-				2.597565043362242, -- [48]
-				2.597565043362242, -- [49]
-				2.597565043362242, -- [50]
+				6.686679901225004, -- [1]
+				8.299036459594248, -- [2]
+				8.352297487047887, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				6.865830629932697, -- [8]
+				11.98373117706871, -- [9]
+				7.94073500217886, -- [10]
+				8.192514404686971, -- [11]
+				7.858422505205055, -- [12]
+				7.94073500217886, -- [13]
+				[33] = 8.260301166900693,
+				[32] = 12.18709146370987,
+				[34] = 8.250617343727303,
+				[26] = 12.22098484481673,
+				[30] = 12.11446278990946,
+				[46] = 6.89004018786617,
+				[17] = 8.250617343727303,
+				[35] = 8.090834261366387,
+				[31] = 12.13383043625623,
+				[40] = 6.676996078051615,
+				[41] = 7.887473974725221,
+				[21] = 8.076308526606304,
+				[25] = 8.347455575461192,
 			},
-			["type"] = "Self",
-			["FightsSaved"] = 1,
-			["LastAbility"] = 2354864.217,
-			["LastDamageTaken"] = 797,
+			["type"] = "Ungrouped",
 			["Owner"] = false,
-			["Pet"] = {
-				"Nokrin <Meroving>", -- [1]
+			["TimeLast"] = {
+				["OVERALL"] = 1597266693,
+				["ManaGain"] = 1597266693,
 			},
-			["NextEventNum"] = 40,
+			["NextEventNum"] = 36,
 			["LastEventHealthNum"] = {
 				100, -- [1]
 				100, -- [2]
@@ -3327,56 +205,1160 @@ RecountPerCharDB = {
 				100, -- [50]
 			},
 			["LastEvents"] = {
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [1]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [2]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [3]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [4]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [5]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [6]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [7]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [8]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [9]
-				"Meroving Fel Armor Meroving Tick +669 (640 overheal)", -- [10]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [11]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [12]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [13]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [14]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [15]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [16]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [17]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [18]
-				"Meroving Fel Armor Meroving Tick +669 (640 overheal)", -- [19]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [20]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [21]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [22]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [23]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [24]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [25]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [26]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [27]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [28]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [29]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [30]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [31]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [32]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [33]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [34]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [35]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [36]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [37]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [38]
-				"Meroving Fel Armor Meroving Tick +669 (669 overheal)", -- [39]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [40]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [41]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [42]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [43]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [44]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [45]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [46]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [47]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [48]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [49]
-				"Meroving Fel Armor Meroving Tick +623 (623 overheal)", -- [50]
+				"Charapan Holy Nova Charapan Hit +1381 (1381 overheal)", -- [1]
+				"Sacik Holy Nova Charapan Hit +1714 (1714 overheal)", -- [2]
+				"Sacik Holy Nova Charapan Hit +1725 (1725 overheal)", -- [3]
+				"Charapan Holy Nova Sacik Hit +1383 (1383 overheal)", -- [4]
+				"Charapan Holy Nova Populacho Hit +1391 (1391 overheal)", -- [5]
+				"Charapan Holy Nova Meroving Hit +1444 (1444 overheal)", -- [6]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1324 (1324 overheal)", -- [7]
+				"Charapan Holy Nova Charapan Hit +1418 (1418 overheal)", -- [8]
+				"Sacik Holy Nova Charapan Crit +2475 (2475 overheal)", -- [9]
+				"Sacik Holy Nova Charapan Hit +1640 (1640 overheal)", -- [10]
+				"Sacik Holy Nova Charapan Hit +1692 (1692 overheal)", -- [11]
+				"Sacik Holy Nova Charapan Hit +1623 (1623 overheal)", -- [12]
+				"Sacik Holy Nova Charapan Hit +1640 (1640 overheal)", -- [13]
+				"Charapan Divine Hymn Sacik Crit +6658 (6658 overheal)", -- [14]
+				"Charapan Divine Hymn Populacho Hit +4657 (4657 overheal)", -- [15]
+				"Charapan Divine Hymn Meroving Hit +4470 (4470 overheal)", -- [16]
+				"Sacik Holy Nova Charapan Hit +1704 (1704 overheal)", -- [17]
+				"Charapan Divine Hymn Sacik Hit +5164 (5164 overheal)", -- [18]
+				"Charapan Divine Hymn Populacho Hit +5015 (5015 overheal)", -- [19]
+				"Charapan Divine Hymn Meroving Hit +4874 (4874 overheal)", -- [20]
+				"Sacik Holy Nova Charapan Hit +1668 (1668 overheal)", -- [21]
+				"Charapan Divine Hymn Sacik Hit +5150 (5150 overheal)", -- [22]
+				"Charapan Divine Hymn Populacho Hit +4898 (4898 overheal)", -- [23]
+				"Charapan Divine Hymn Meroving Hit +5114 (5114 overheal)", -- [24]
+				"Sacik Holy Nova Charapan Hit +1724 (1724 overheal)", -- [25]
+				"Sacik Holy Nova Charapan Crit +2524 (2524 overheal)", -- [26]
+				"Charapan Divine Hymn Sacik Hit +4814 (4814 overheal)", -- [27]
+				"Charapan Divine Hymn Populacho Hit +4876 (4876 overheal)", -- [28]
+				"Charapan Divine Hymn Meroving Hit +4948 (4948 overheal)", -- [29]
+				"Sacik Holy Nova Charapan Crit +2502 (2502 overheal)", -- [30]
+				"Sacik Holy Nova Charapan Crit +2506 (2506 overheal)", -- [31]
+				"Sacik Holy Nova Charapan Crit +2517 (2517 overheal)", -- [32]
+				"Sacik Holy Nova Charapan Hit +1706 (1706 overheal)", -- [33]
+				"Sacik Holy Nova Charapan Hit +1704 (1704 overheal)", -- [34]
+				"Sacik Holy Nova Charapan Hit +1671 (1671 overheal)", -- [35]
+				"Charapan Holy Nova Sacik Hit +1402 (1402 overheal)", -- [36]
+				"Charapan Holy Nova Populacho Hit +1447 (1447 overheal)", -- [37]
+				"Charapan Holy Nova Meroving Hit +1380 (1380 overheal)", -- [38]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1323 (1323 overheal)", -- [39]
+				"Charapan Holy Nova Charapan Hit +1379 (1379 overheal)", -- [40]
+				"Sacik Holy Nova Charapan Hit +1629 (1629 overheal)", -- [41]
+				"Charapan Holy Nova Sacik Hit +1405 (1405 overheal)", -- [42]
+				"Charapan Holy Nova Populacho Hit +1453 (1453 overheal)", -- [43]
+				"Charapan Holy Nova Meroving Hit +1435 (1435 overheal)", -- [44]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1344 (1344 overheal)", -- [45]
+				"Charapan Holy Nova Charapan Hit +1423 (1423 overheal)", -- [46]
+				"Charapan Holy Nova Sacik Hit +1401 (1401 overheal)", -- [47]
+				"Charapan Holy Nova Populacho Hit +1453 (1453 overheal)", -- [48]
+				"Charapan Holy Nova Meroving Hit +1444 (1444 overheal)", -- [49]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1294 (1294 overheal)", -- [50]
+			},
+			["Name"] = "Charapan",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				true, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				true, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				23003.44, -- [1]
+				23003.442, -- [2]
+				23004.807, -- [3]
+				23005.107, -- [4]
+				23005.107, -- [5]
+				23005.107, -- [6]
+				23005.108, -- [7]
+				23005.108, -- [8]
+				23010.647, -- [9]
+				23012.049, -- [10]
+				23013.651, -- [11]
+				23015.034, -- [12]
+				23016.485, -- [13]
+				23016.75, -- [14]
+				23016.75, -- [15]
+				23016.751, -- [16]
+				23017.805, -- [17]
+				23018.539, -- [18]
+				23018.539, -- [19]
+				23018.54, -- [20]
+				23019.255, -- [21]
+				23020.353, -- [22]
+				23020.354, -- [23]
+				23020.354, -- [24]
+				23020.591, -- [25]
+				23022.209, -- [26]
+				23022.21, -- [27]
+				23022.21, -- [28]
+				23022.21, -- [29]
+				23061.945, -- [30]
+				23063.396, -- [31]
+				23064.846, -- [32]
+				23066.363, -- [33]
+				23067.914, -- [34]
+				23069.452, -- [35]
+				23000.553, -- [36]
+				23000.553, -- [37]
+				23000.554, -- [38]
+				23000.554, -- [39]
+				23000.554, -- [40]
+				23001.557, -- [41]
+				23002.021, -- [42]
+				23002.022, -- [43]
+				23002.022, -- [44]
+				23002.023, -- [45]
+				23002.023, -- [46]
+				23003.439, -- [47]
+				23003.439, -- [48]
+				23003.44, -- [49]
+				23003.44, -- [50]
+			},
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ManaGain"] = 2633,
+					["ManaGainedFrom"] = {
+						["Charapan"] = {
+							["Details"] = {
+								["Hymn of Hope"] = {
+									["count"] = 2633,
+								},
+							},
+							["amount"] = 2633,
+						},
+					},
+					["ManaGained"] = {
+						["Hymn of Hope"] = {
+							["Details"] = {
+								["Charapan"] = {
+									["count"] = 2633,
+								},
+							},
+							["amount"] = 2633,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ManaGain"] = 2633,
+					["ManaGainedFrom"] = {
+						["Charapan"] = {
+							["Details"] = {
+								["Hymn of Hope"] = {
+									["count"] = 2633,
+								},
+							},
+							["amount"] = 2633,
+						},
+					},
+					["ManaGained"] = {
+						["Hymn of Hope"] = {
+							["Details"] = {
+								["Charapan"] = {
+									["count"] = 2633,
+								},
+							},
+							["amount"] = 2633,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1597266657,
+			["LastActive"] = 1597266749,
+		},
+		["Haaroon <Meroving>"] = {
+			["GUID"] = "0xF140289CBF000004",
+			["LastEventHealth"] = {
+				"26529 (100%)", -- [1]
+				"26529 (100%)", -- [2]
+				"26529 (100%)", -- [3]
+				"26529 (100%)", -- [4]
+				"26529 (100%)", -- [5]
+				"26529 (100%)", -- [6]
+				"26529 (100%)", -- [7]
+				"26529 (100%)", -- [8]
+				"26529 (100%)", -- [9]
+				"26529 (100%)", -- [10]
+				"26529 (100%)", -- [11]
+				"26529 (100%)", -- [12]
+				"26529 (100%)", -- [13]
+				"26529 (100%)", -- [14]
+				"26529 (100%)", -- [15]
+				"26529 (100%)", -- [16]
+				"26529 (100%)", -- [17]
+				"26529 (100%)", -- [18]
+				"26529 (100%)", -- [19]
+				"26529 (100%)", -- [20]
+				"26529 (100%)", -- [21]
+				"26529 (100%)", -- [22]
+				"26529 (100%)", -- [23]
+				"26529 (100%)", -- [24]
+				"26529 (100%)", -- [25]
+				"26529 (100%)", -- [26]
+				"26529 (100%)", -- [27]
+				"26529 (100%)", -- [28]
+				"26529 (100%)", -- [29]
+				"26529 (100%)", -- [30]
+				"26529 (100%)", -- [31]
+				"26529 (100%)", -- [32]
+				"26529 (100%)", -- [33]
+				"26529 (100%)", -- [34]
+				"26529 (100%)", -- [35]
+				"26529 (100%)", -- [36]
+				"26529 (100%)", -- [37]
+				"26529 (100%)", -- [38]
+				"26529 (100%)", -- [39]
+				"26529 (100%)", -- [40]
+				"26529 (100%)", -- [41]
+				"26529 (100%)", -- [42]
+				"26529 (100%)", -- [43]
+				"26529 (100%)", -- [44]
+				"26529 (100%)", -- [45]
+				"26529 (100%)", -- [46]
+				"26529 (100%)", -- [47]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"HEAL", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"HEAL", -- [27]
+				"HEAL", -- [28]
+				"HEAL", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+				"HEAL", -- [45]
+				"HEAL", -- [46]
+				"HEAL", -- [47]
+			},
+			["enClass"] = "PET",
+			["unit"] = "Haaroon",
+			["level"] = 1,
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				5.126465377511402, -- [1]
+				5.024689961928456, -- [2]
+				4.907836706999887, -- [3]
+				4.97191752421878, -- [4]
+				5.077462399638132, -- [5]
+				4.934222925854725, -- [6]
+				6.000980059557466, -- [7]
+				4.851294809453806, -- [8]
+				5.838893286592032, -- [9]
+				5.107618078329375, -- [10]
+				8.944928191790117, -- [11]
+				4.896528327490671, -- [12]
+				5.978363300539033, -- [13]
+				5.024689961928456, -- [14]
+				6.076369256285575, -- [15]
+				5.194315654566701, -- [16]
+				8.858230615552792, -- [17]
+				4.97191752421878, -- [18]
+				6.144219533340873, -- [19]
+				5.118926457838592, -- [20]
+				9.186173621320064, -- [21]
+				4.907836706999887, -- [22]
+				5.959516001357006, -- [23]
+				4.907836706999887, -- [24]
+				6.049983037430736, -- [25]
+				4.986995363564401, -- [26]
+				5.982132760375438, -- [27]
+				5.066154020128916, -- [28]
+				4.877681028308643, -- [29]
+				6.019827358739493, -- [30]
+				5.951977081684195, -- [31]
+				4.990764823400807, -- [32]
+				6.019827358739493, -- [33]
+				8.684835463078141, -- [34]
+				5.767273549700328, -- [35]
+				8.956236571299332, -- [36]
+				5.804968148064383, -- [37]
+				6.132911153831656, -- [38]
+				5.804968148064383, -- [39]
+				5.959516001357006, -- [40]
+				6.136680613668061, -- [41]
+				5.789890308718761, -- [42]
+				8.797919258170305, -- [43]
+				6.125372234158845, -- [44]
+				6.012288439066682, -- [45]
+				5.835123826755626, -- [46]
+				6.057521957103547, -- [47]
+			},
+			["type"] = "Pet",
+			["Owner"] = "Meroving",
+			["NextEventNum"] = 48,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+			},
+			["LastEvents"] = {
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1360 (1360 overheal)", -- [1]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1333 (1333 overheal)", -- [2]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1302 (1302 overheal)", -- [3]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1319 (1319 overheal)", -- [4]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1347 (1347 overheal)", -- [5]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1309 (1309 overheal)", -- [6]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1592 (1592 overheal)", -- [7]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1287 (1287 overheal)", -- [8]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1549 (1549 overheal)", -- [9]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1355 (1355 overheal)", -- [10]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2373 (2373 overheal)", -- [11]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1299 (1299 overheal)", -- [12]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1586 (1586 overheal)", -- [13]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1333 (1333 overheal)", -- [14]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1612 (1612 overheal)", -- [15]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1378 (1378 overheal)", -- [16]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2350 (2350 overheal)", -- [17]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1319 (1319 overheal)", -- [18]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1630 (1630 overheal)", -- [19]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1358 (1358 overheal)", -- [20]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2437 (2437 overheal)", -- [21]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1302 (1302 overheal)", -- [22]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1581 (1581 overheal)", -- [23]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1302 (1302 overheal)", -- [24]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1605 (1605 overheal)", -- [25]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1323 (1323 overheal)", -- [26]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1587 (1587 overheal)", -- [27]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1344 (1344 overheal)", -- [28]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1294 (1294 overheal)", -- [29]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1597 (1597 overheal)", -- [30]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1579 (1579 overheal)", -- [31]
+				"Charapan Holy Nova Haaroon <Meroving> Hit +1324 (1324 overheal)", -- [32]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1597 (1597 overheal)", -- [33]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2304 (2304 overheal)", -- [34]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1530 (1530 overheal)", -- [35]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2376 (2376 overheal)", -- [36]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1540 (1540 overheal)", -- [37]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1627 (1627 overheal)", -- [38]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1540 (1540 overheal)", -- [39]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1581 (1581 overheal)", -- [40]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1628 (1628 overheal)", -- [41]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1536 (1536 overheal)", -- [42]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2334 (2334 overheal)", -- [43]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1625 (1625 overheal)", -- [44]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1595 (1595 overheal)", -- [45]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1548 (1548 overheal)", -- [46]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1607 (1607 overheal)", -- [47]
+			},
+			["Name"] = "Haaroon",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+			},
+			["LastEventTimes"] = {
+				22977.436, -- [1]
+				22979.002, -- [2]
+				22980.637, -- [3]
+				22982.188, -- [4]
+				22983.822, -- [5]
+				22985.308, -- [6]
+				22986.391, -- [7]
+				22986.675, -- [8]
+				22987.909, -- [9]
+				22988.227, -- [10]
+				22989.444, -- [11]
+				22989.878, -- [12]
+				22991.062, -- [13]
+				22991.363, -- [14]
+				22992.497, -- [15]
+				22992.881, -- [16]
+				22993.981, -- [17]
+				22994.566, -- [18]
+				22995.516, -- [19]
+				22996.151, -- [20]
+				22997.218, -- [21]
+				22997.555, -- [22]
+				22998.669, -- [23]
+				22999.171, -- [24]
+				23000.137, -- [25]
+				23000.554, -- [26]
+				23001.556, -- [27]
+				23002.023, -- [28]
+				23003.44, -- [29]
+				23003.442, -- [30]
+				23004.807, -- [31]
+				23005.108, -- [32]
+				23010.647, -- [33]
+				23012.049, -- [34]
+				23013.651, -- [35]
+				23015.034, -- [36]
+				23016.485, -- [37]
+				23017.804, -- [38]
+				23019.254, -- [39]
+				23020.59, -- [40]
+				23022.208, -- [41]
+				23061.944, -- [42]
+				23063.395, -- [43]
+				23064.846, -- [44]
+				23066.363, -- [45]
+				23067.913, -- [46]
+				23069.451, -- [47]
+			},
+			["Fights"] = {
+			},
+			["UnitLockout"] = 1597266657,
+			["LastActive"] = 1597266749,
+		},
+		["Populacho"] = {
+			["GUID"] = "0x07000000005AB5ED",
+			["LastEventHealth"] = {
+				"27115 (100%)", -- [1]
+				"27115 (100%)", -- [2]
+				"27115 (100%)", -- [3]
+				"27115 (100%)", -- [4]
+				"27115 (100%)", -- [5]
+				"27115 (100%)", -- [6]
+				"27115 (100%)", -- [7]
+				"27115 (100%)", -- [8]
+				"27115 (100%)", -- [9]
+				"27115 (100%)", -- [10]
+				"27115 (100%)", -- [11]
+				"27115 (100%)", -- [12]
+				"27115 (100%)", -- [13]
+				"27115 (100%)", -- [14]
+				"27115 (100%)", -- [15]
+				"27115 (100%)", -- [16]
+				"27115 (100%)", -- [17]
+				"27115 (100%)", -- [18]
+				"27115 (100%)", -- [19]
+				"27115 (100%)", -- [20]
+				"27115 (100%)", -- [21]
+				"27115 (100%)", -- [22]
+				"27115 (100%)", -- [23]
+				"27115 (100%)", -- [24]
+				"27115 (100%)", -- [25]
+				"27115 (100%)", -- [26]
+				"27115 (100%)", -- [27]
+				"27115 (100%)", -- [28]
+				"27115 (100%)", -- [29]
+				"27115 (100%)", -- [30]
+				"27115 (100%)", -- [31]
+				"27115 (100%)", -- [32]
+				"27115 (100%)", -- [33]
+				"27115 (100%)", -- [34]
+				"27115 (100%)", -- [35]
+				"27115 (100%)", -- [36]
+				"27115 (100%)", -- [37]
+				"27115 (100%)", -- [38]
+				"27115 (100%)", -- [39]
+				"27115 (100%)", -- [40]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"HEAL", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"HEAL", -- [27]
+				"HEAL", -- [28]
+				"HEAL", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+			},
+			["enClass"] = "ROGUE",
+			["unit"] = "Populacho",
+			["level"] = 80,
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				5.16688179974184, -- [1]
+				5.259081689101973, -- [2]
+				5.163193804167435, -- [3]
+				5.196385764337083, -- [4]
+				8.010326387608336, -- [5]
+				5.236953715655541, -- [6]
+				7.527198967361239, -- [7]
+				5.015673981191223, -- [8]
+				8.036142356629172, -- [9]
+				4.98617001659598, -- [10]
+				7.722662732804721, -- [11]
+				6.221648534021759, -- [12]
+				5.155817813018625, -- [13]
+				6.074128711045547, -- [14]
+				5.218513737783515, -- [15]
+				6.276968467637839, -- [16]
+				5.04886594136087, -- [17]
+				6.243776507468192, -- [18]
+				5.082057901530519, -- [19]
+				6.276968467637839, -- [20]
+				5.336529596164485, -- [21]
+				6.000368799557441, -- [22]
+				5.358657569610917, -- [23]
+				5.358657569610917, -- [24]
+				9.330628803245435, -- [25]
+				9.009773188272174, -- [26]
+				5.130001843997787, -- [27]
+				6.147888622533653, -- [28]
+				6.217960538447354, -- [29]
+				6.328600405679513, -- [30]
+				6.269592476489028, -- [31]
+				9.341692789968652, -- [32]
+				17.17499539000553, -- [33]
+				6.782223861331366, -- [34]
+				18.49529780564263, -- [35]
+				6.855983772819473, -- [36]
+				18.06380232343721, -- [37]
+				6.575696109164669, -- [38]
+				10.49234740918311, -- [39]
+				17.9826664208003, -- [40]
+			},
+			["type"] = "Ungrouped",
+			["Owner"] = false,
+			["NextEventNum"] = 41,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+			},
+			["LastEvents"] = {
+				"Charapan Holy Nova Populacho Hit +1401 (1401 overheal)", -- [1]
+				"Charapan Holy Nova Populacho Hit +1426 (1426 overheal)", -- [2]
+				"Charapan Holy Nova Populacho Hit +1400 (1400 overheal)", -- [3]
+				"Charapan Holy Nova Populacho Hit +1409 (1409 overheal)", -- [4]
+				"Charapan Holy Nova Populacho Crit +2172 (2172 overheal)", -- [5]
+				"Charapan Holy Nova Populacho Hit +1420 (1420 overheal)", -- [6]
+				"Charapan Holy Nova Populacho Crit +2041 (2041 overheal)", -- [7]
+				"Charapan Holy Nova Populacho Hit +1360 (1360 overheal)", -- [8]
+				"Charapan Holy Nova Populacho Crit +2179 (2179 overheal)", -- [9]
+				"Charapan Holy Nova Populacho Hit +1352 (1352 overheal)", -- [10]
+				"Charapan Holy Nova Populacho Crit +2094 (2094 overheal)", -- [11]
+				"Sacik Holy Nova Populacho Hit +1687 (1687 overheal)", -- [12]
+				"Charapan Holy Nova Populacho Hit +1398 (1398 overheal)", -- [13]
+				"Sacik Holy Nova Populacho Hit +1647 (1647 overheal)", -- [14]
+				"Charapan Holy Nova Populacho Hit +1415 (1415 overheal)", -- [15]
+				"Sacik Holy Nova Populacho Hit +1702 (1702 overheal)", -- [16]
+				"Charapan Holy Nova Populacho Hit +1369 (1369 overheal)", -- [17]
+				"Sacik Holy Nova Populacho Hit +1693 (1693 overheal)", -- [18]
+				"Charapan Holy Nova Populacho Hit +1378 (1378 overheal)", -- [19]
+				"Sacik Holy Nova Populacho Hit +1702 (1702 overheal)", -- [20]
+				"Charapan Holy Nova Populacho Hit +1447 (1447 overheal)", -- [21]
+				"Sacik Holy Nova Populacho Hit +1627 (1627 overheal)", -- [22]
+				"Charapan Holy Nova Populacho Hit +1453 (1453 overheal)", -- [23]
+				"Charapan Holy Nova Populacho Hit +1453 (1453 overheal)", -- [24]
+				"Sacik Holy Nova Populacho Crit +2530 (2530 overheal)", -- [25]
+				"Sacik Holy Nova Populacho Crit +2443 (2443 overheal)", -- [26]
+				"Charapan Holy Nova Populacho Hit +1391 (1391 overheal)", -- [27]
+				"Sacik Holy Nova Populacho Hit +1667 (1667 overheal)", -- [28]
+				"Sacik Holy Nova Populacho Hit +1686 (1686 overheal)", -- [29]
+				"Sacik Holy Nova Populacho Hit +1716 (1716 overheal)", -- [30]
+				"Sacik Holy Nova Populacho Hit +1700 (1700 overheal)", -- [31]
+				"Sacik Holy Nova Populacho Crit +2533 (2533 overheal)", -- [32]
+				"Charapan Divine Hymn Populacho Hit +4657 (4657 overheal)", -- [33]
+				"Sacik Holy Nova Populacho Hit +1839 (1839 overheal)", -- [34]
+				"Charapan Divine Hymn Populacho Hit +5015 (5015 overheal)", -- [35]
+				"Sacik Holy Nova Populacho Hit +1859 (1859 overheal)", -- [36]
+				"Charapan Divine Hymn Populacho Hit +4898 (4898 overheal)", -- [37]
+				"Sacik Holy Nova Populacho Hit +1783 (1783 overheal)", -- [38]
+				"Sacik Holy Nova Populacho Crit +2845 (2845 overheal)", -- [39]
+				"Charapan Divine Hymn Populacho Hit +4876 (4876 overheal)", -- [40]
+			},
+			["Name"] = "Populacho",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+			},
+			["LastEventTimes"] = {
+				22977.434, -- [1]
+				22979.001, -- [2]
+				22980.636, -- [3]
+				22982.187, -- [4]
+				22983.821, -- [5]
+				22985.307, -- [6]
+				22986.674, -- [7]
+				22988.226, -- [8]
+				22989.877, -- [9]
+				22991.362, -- [10]
+				22992.88, -- [11]
+				22993.981, -- [12]
+				22994.565, -- [13]
+				22995.515, -- [14]
+				22996.15, -- [15]
+				22997.217, -- [16]
+				22997.553, -- [17]
+				22998.668, -- [18]
+				22999.17, -- [19]
+				23000.136, -- [20]
+				23000.553, -- [21]
+				23001.555, -- [22]
+				23002.022, -- [23]
+				23003.439, -- [24]
+				23003.442, -- [25]
+				23004.806, -- [26]
+				23005.107, -- [27]
+				23010.646, -- [28]
+				23012.048, -- [29]
+				23013.649, -- [30]
+				23015.033, -- [31]
+				23016.483, -- [32]
+				23016.751, -- [33]
+				23017.804, -- [34]
+				23018.539, -- [35]
+				23019.253, -- [36]
+				23020.354, -- [37]
+				23020.589, -- [38]
+				23022.207, -- [39]
+				23022.21, -- [40]
+			},
+			["Fights"] = {
+			},
+			["UnitLockout"] = 1597266657,
+			["LastActive"] = 1597266701,
+		},
+		["Meroving"] = {
+			["GUID"] = "0x07000000005AF012",
+			["LastEventHealth"] = {
+				"25497 (100%)", -- [1]
+				"25497 (100%)", -- [2]
+				"25497 (100%)", -- [3]
+				"25497 (100%)", -- [4]
+				"25497 (100%)", -- [5]
+				"25497 (100%)", -- [6]
+				"25497 (100%)", -- [7]
+				"25497 (100%)", -- [8]
+				"25497 (100%)", -- [9]
+				"25497 (100%)", -- [10]
+				"25497 (100%)", -- [11]
+				"25497 (100%)", -- [12]
+				"25497 (100%)", -- [13]
+				"25497 (100%)", -- [14]
+				"25497 (100%)", -- [15]
+				"25497 (100%)", -- [16]
+				"25497 (100%)", -- [17]
+				"25497 (100%)", -- [18]
+				"25497 (100%)", -- [19]
+				"25497 (100%)", -- [20]
+				"25497 (100%)", -- [21]
+				"25497 (100%)", -- [22]
+				"25497 (100%)", -- [23]
+				"25497 (100%)", -- [24]
+				"25497 (100%)", -- [25]
+				"25497 (100%)", -- [26]
+				"25497 (100%)", -- [27]
+				"24283 (100%)", -- [28]
+				"25497 (100%)", -- [29]
+				"25497 (100%)", -- [30]
+				"25497 (100%)", -- [31]
+				"25497 (100%)", -- [32]
+				"25497 (100%)", -- [33]
+				"25497 (100%)", -- [34]
+				"25497 (100%)", -- [35]
+				"25497 (100%)", -- [36]
+				"25497 (100%)", -- [37]
+				"25497 (100%)", -- [38]
+				"25497 (100%)", -- [39]
+				"25497 (100%)", -- [40]
+				"25497 (100%)", -- [41]
+				"25497 (100%)", -- [42]
+				"25497 (100%)", -- [43]
+				"25497 (100%)", -- [44]
+				"25497 (100%)", -- [45]
+				"25497 (100%)", -- [46]
+				"25497 (100%)", -- [47]
+				"25497 (100%)", -- [48]
+				"25497 (100%)", -- [49]
+				"25497 (100%)", -- [50]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"HEAL", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"HEAL", -- [27]
+				"HEAL", -- [28]
+				"HEAL", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+				"HEAL", -- [45]
+				"HEAL", -- [46]
+				"HEAL", -- [47]
+				"HEAL", -- [48]
+				"HEAL", -- [49]
+				"HEAL", -- [50]
+			},
+			["TimeWindows"] = {
+				["ManaGain"] = {
+					3155, -- [1]
+				},
+			},
+			["enClass"] = "WARLOCK",
+			["unit"] = "Meroving",
+			["level"] = 80,
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				19.11597442836412, -- [1]
+				7.204769188531984, -- [2]
+				20.05726163862415, -- [3]
+				10.8365690081186, -- [4]
+				2.859159901164843, -- [5]
+				7.432246931011491, -- [6]
+				19.40620465152763, -- [7]
+				2.859159901164843, -- [8]
+				2.729732909754089, -- [9]
+				2.729732909754089, -- [10]
+				2.729732909754089, -- [11]
+				2.729732909754089, -- [12]
+				2.729732909754089, -- [13]
+				2.729732909754089, -- [14]
+				9.648193905165314, -- [15]
+				2.729732909754089, -- [16]
+				6.385064909597207, -- [17]
+				6.808644154214221, -- [18]
+				6.714515433188218, -- [19]
+				2.729732909754089, -- [20]
+				6.804722124171471, -- [21]
+				6.690983252931718, -- [22]
+				2.729732909754089, -- [23]
+				2.729732909754089, -- [24]
+				2.729732909754089, -- [25]
+				2.729732909754089, -- [26]
+				2.729732909754089, -- [27]
+				2.5985257175802, -- [28]
+				8.495117072596775, -- [29]
+				6.369376789426207, -- [30]
+				5.655567321645684, -- [31]
+				6.439973330195709, -- [32]
+				5.412401458995176, -- [33]
+				6.443895360238459, -- [34]
+				5.628113111346433, -- [35]
+				2.729732909754089, -- [36]
+				5.663411381731184, -- [37]
+				6.592932501862964, -- [38]
+				6.392908969682708, -- [39]
+				5.663411381731184, -- [40]
+				2.729732909754089, -- [41]
+				6.45173942032396, -- [42]
+				9.734478566105816, -- [43]
+				2.729732909754089, -- [44]
+				9.616817664823312, -- [45]
+				9.993332548927326, -- [46]
+				10.01686472918383, -- [47]
+				17.53147429109307, -- [48]
+				2.859159901164843, -- [49]
+				10.8757893085461, -- [50]
+			},
+			["type"] = "Self",
+			["TimeLast"] = {
+				["OVERALL"] = 1597266693,
+				["ManaGain"] = 1597266693,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Haaroon <Meroving>", -- [1]
+			},
+			["NextEventNum"] = 29,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
+			},
+			["LastEvents"] = {
+				"Charapan Divine Hymn Meroving Hit +4874 (4874 overheal)", -- [1]
+				"Sacik Holy Nova Meroving Hit +1837 (1837 overheal)", -- [2]
+				"Charapan Divine Hymn Meroving Hit +5114 (5114 overheal)", -- [3]
+				"Sacik Holy Nova Meroving Crit +2763 (2763 overheal)", -- [4]
+				"Meroving Fel Armor Meroving Tick +729 (729 overheal)", -- [5]
+				"Sacik Holy Nova Meroving Hit +1895 (1895 overheal)", -- [6]
+				"Charapan Divine Hymn Meroving Hit +4948 (4948 overheal)", -- [7]
+				"Meroving Fel Armor Meroving Tick +729 (729 overheal)", -- [8]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [9]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [10]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [11]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [12]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [13]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [14]
+				"Sacik Holy Nova Meroving Crit +2460 (2460 overheal)", -- [15]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [16]
+				"Sacik Holy Nova Meroving Hit +1628 (1628 overheal)", -- [17]
+				"Sacik Holy Nova Meroving Hit +1736 (1736 overheal)", -- [18]
+				"Sacik Holy Nova Meroving Hit +1712 (1712 overheal)", -- [19]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [20]
+				"Sacik Holy Nova Meroving Hit +1735 (1735 overheal)", -- [21]
+				"Sacik Holy Nova Meroving Hit +1706 (1706 overheal)", -- [22]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [23]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [24]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [25]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [26]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [27]
+				"Meroving Fel Armor Meroving Tick +631 (631 overheal)", -- [28]
+				"Charapan Holy Nova Meroving Crit +2166 (2166 overheal)", -- [29]
+				"Sacik Holy Nova Meroving Hit +1624 (1624 overheal)", -- [30]
+				"Charapan Holy Nova Meroving Hit +1442 (1442 overheal)", -- [31]
+				"Sacik Holy Nova Meroving Hit +1642 (1642 overheal)", -- [32]
+				"Charapan Holy Nova Meroving Hit +1380 (1380 overheal)", -- [33]
+				"Sacik Holy Nova Meroving Hit +1643 (1643 overheal)", -- [34]
+				"Charapan Holy Nova Meroving Hit +1435 (1435 overheal)", -- [35]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [36]
+				"Charapan Holy Nova Meroving Hit +1444 (1444 overheal)", -- [37]
+				"Sacik Holy Nova Meroving Hit +1681 (1681 overheal)", -- [38]
+				"Sacik Holy Nova Meroving Hit +1630 (1630 overheal)", -- [39]
+				"Charapan Holy Nova Meroving Hit +1444 (1444 overheal)", -- [40]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [41]
+				"Sacik Holy Nova Meroving Hit +1645 (1645 overheal)", -- [42]
+				"Sacik Holy Nova Meroving Crit +2482 (2482 overheal)", -- [43]
+				"Meroving Fel Armor Meroving Tick +696 (696 overheal)", -- [44]
+				"Sacik Holy Nova Meroving Crit +2452 (2452 overheal)", -- [45]
+				"Sacik Holy Nova Meroving Crit +2548 (2548 overheal)", -- [46]
+				"Sacik Holy Nova Meroving Crit +2554 (2554 overheal)", -- [47]
+				"Charapan Divine Hymn Meroving Hit +4470 (4470 overheal)", -- [48]
+				"Meroving Fel Armor Meroving Tick +729 (729 overheal)", -- [49]
+				"Sacik Holy Nova Meroving Crit +2773 (2773 overheal)", -- [50]
 			},
 			["Name"] = "Meroving",
 			["LastEventIncoming"] = {
@@ -3432,1905 +1414,246 @@ RecountPerCharDB = {
 				true, -- [50]
 			},
 			["LastEventTimes"] = {
-				2354948.834, -- [1]
-				2354953.823, -- [2]
-				2354958.81, -- [3]
-				2354963.783, -- [4]
-				2354968.803, -- [5]
-				2354973.755, -- [6]
-				2354978.743, -- [7]
-				2354983.797, -- [8]
-				2354988.803, -- [9]
-				2354993.773, -- [10]
-				2354998.781, -- [11]
-				2355003.749, -- [12]
-				2355008.788, -- [13]
-				2355013.833, -- [14]
-				2355018.757, -- [15]
-				2355023.751, -- [16]
-				2355028.768, -- [17]
-				2355033.765, -- [18]
-				2355038.76, -- [19]
-				2355043.752, -- [20]
-				2355048.823, -- [21]
-				2355053.84, -- [22]
-				2355058.81, -- [23]
-				2355063.784, -- [24]
-				2355068.818, -- [25]
-				2355073.809, -- [26]
-				2355078.797, -- [27]
-				2355083.769, -- [28]
-				2355088.767, -- [29]
-				2355093.794, -- [30]
-				2355098.778, -- [31]
-				2355103.766, -- [32]
-				2355108.834, -- [33]
-				2355113.822, -- [34]
-				2355118.825, -- [35]
-				2355123.748, -- [36]
-				2355128.784, -- [37]
-				2355133.771, -- [38]
-				2355138.758, -- [39]
-				2354893.756, -- [40]
-				2354898.792, -- [41]
-				2354903.78, -- [42]
-				2354908.835, -- [43]
-				2354913.773, -- [44]
-				2354918.743, -- [45]
-				2354923.763, -- [46]
-				2354928.801, -- [47]
-				2354933.822, -- [48]
-				2354938.742, -- [49]
-				2354943.83, -- [50]
+				23018.54, -- [1]
+				23019.254, -- [2]
+				23020.354, -- [3]
+				23020.59, -- [4]
+				23022.072, -- [5]
+				23022.208, -- [6]
+				23022.211, -- [7]
+				23027.009, -- [8]
+				23032.097, -- [9]
+				23037.035, -- [10]
+				23042.105, -- [11]
+				23047.01, -- [12]
+				23052.115, -- [13]
+				23057.053, -- [14]
+				23061.943, -- [15]
+				23062.055, -- [16]
+				23063.395, -- [17]
+				23064.845, -- [18]
+				23066.362, -- [19]
+				23067.095, -- [20]
+				23067.913, -- [21]
+				23069.451, -- [22]
+				23072.084, -- [23]
+				23077.087, -- [24]
+				23082.008, -- [25]
+				23087.047, -- [26]
+				23091.983, -- [27]
+				23099.359, -- [28]
+				22997.555, -- [29]
+				22998.669, -- [30]
+				22999.171, -- [31]
+				23000.137, -- [32]
+				23000.554, -- [33]
+				23001.556, -- [34]
+				23002.022, -- [35]
+				23002.023, -- [36]
+				23003.44, -- [37]
+				23003.442, -- [38]
+				23004.807, -- [39]
+				23005.107, -- [40]
+				23006.991, -- [41]
+				23010.646, -- [42]
+				23012.048, -- [43]
+				23012.05, -- [44]
+				23013.65, -- [45]
+				23015.033, -- [46]
+				23016.484, -- [47]
+				23016.751, -- [48]
+				23017.05, -- [49]
+				23017.804, -- [50]
 			},
 			["Fights"] = {
-				["Fight1"] = {
-					["DOTs"] = {
-						["Conflagrate (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Immolate (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 2193,
-					},
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["WhoHealed"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 1246,
-								},
-								["Fel Armor"] = {
-									["count"] = 1630,
-								},
-							},
-							["amount"] = 2876,
-						},
-					},
-					["ElementTakenResist"] = {
-						["Fire"] = 461,
-					},
-					["HOT_Time"] = 12,
-					["ElementTaken"] = {
-						["Fire"] = 1886,
-						["Physical"] = 1878,
-					},
-					["HOTs"] = {
-						["Fel Armor"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 12,
-						},
-					},
-					["Damage"] = 45201,
-					["TimeHeal"] = 6.48,
-					["ElementDone"] = {
-						["Shadow"] = 5625,
-						["Fire"] = 39576,
-					},
-					["ManaGainedFrom"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech Mana"] = {
-									["count"] = 242,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 308,
-								},
-							},
-							["amount"] = 550,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 912,
-								},
-							},
-							["amount"] = 912,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Throw Dynamite"] = {
-									["count"] = 1886,
-								},
-							},
-							["amount"] = 1886,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 1878,
-								},
-							},
-							["amount"] = 1878,
-						},
-					},
-					["TimeHealing"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 0.84,
-								},
-								["Fel Armor"] = {
-									["count"] = 5.64,
-								},
-							},
-							["amount"] = 6.48,
-						},
-					},
-					["OverHeals"] = {
-						["Fel Armor"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 654,
-									["min"] = 392,
-									["count"] = 2,
-									["amount"] = 1046,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 1046,
-						},
-						["Fel Synergy"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1116,
-									["min"] = 200,
-									["count"] = 8,
-									["amount"] = 4824,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 4824,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["50%Resist"] = {
-									["max"] = 341,
-									["min"] = 341,
-									["count"] = 1,
-									["amount"] = 341,
-								},
-								["25%Resist"] = {
-									["max"] = 120,
-									["min"] = 120,
-									["count"] = 1,
-									["amount"] = 120,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 461,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 912,
-								},
-							},
-							["amount"] = 912,
-						},
-						["Soul Leech Mana"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 242,
-								},
-							},
-							["amount"] = 242,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 308,
-								},
-							},
-							["amount"] = 308,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 18.52,
-					["Heals"] = {
-						["Soul Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1246,
-									["min"] = 1246,
-									["count"] = 1,
-									["amount"] = 1246,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1246,
-						},
-						["Fel Armor"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 669,
-									["min"] = 15,
-									["count"] = 4,
-									["amount"] = 1630,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 1630,
-						},
-					},
-					["DOT_Time"] = 12,
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 3.87,
-								},
-								["Shadowfury"] = {
-									["count"] = 2.48,
-								},
-							},
-							["amount"] = 6.350000000000001,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 0.84,
-								},
-								["Fel Armor"] = {
-									["count"] = 5.64,
-								},
-							},
-							["amount"] = 6.48,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 0,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 1,
-								},
-								["Incinerate"] = {
-									["count"] = 1.58,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 0.52,
-								},
-								["Immolate"] = {
-									["count"] = 0.75,
-								},
-								["Conflagrate"] = {
-									["count"] = 1.84,
-								},
-							},
-							["amount"] = 5.69,
-						},
-					},
-					["Healing"] = 2876,
-					["DamageTaken"] = 3764,
-					["Overhealing"] = 5870,
-					["Attacks"] = {
-						["Rain of Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1967,
-									["min"] = 1967,
-									["count"] = 3,
-									["amount"] = 5901,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 5901,
-						},
-						["Chaos Bolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 6230,
-									["min"] = 6230,
-									["count"] = 1,
-									["amount"] = 6230,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 6230,
-						},
-						["Shadowfury"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1908,
-									["min"] = 1857,
-									["count"] = 3,
-									["amount"] = 5625,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 5625,
-						},
-						["Conflagrate (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2762,
-									["min"] = 2762,
-									["count"] = 1,
-									["amount"] = 2762,
-								},
-								["Tick"] = {
-									["max"] = 1322,
-									["min"] = 1322,
-									["count"] = 1,
-									["amount"] = 1322,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4084,
-						},
-						["Incinerate"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 5730,
-									["min"] = 5710,
-									["count"] = 2,
-									["amount"] = 11440,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 11440,
-						},
-						["Immolate (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1484,
-									["min"] = 1336,
-									["count"] = 2,
-									["amount"] = 2820,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2820,
-						},
-						["Immolate"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1657,
-									["min"] = 1657,
-									["count"] = 1,
-									["amount"] = 1657,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1657,
-						},
-						["Conflagrate"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7444,
-									["min"] = 7444,
-									["count"] = 1,
-									["amount"] = 7444,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 7444,
-						},
-					},
-					["HealingTaken"] = 3816,
-					["ElementHitsDone"] = {
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 3,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 12,
-						},
-					},
-					["TimeDamage"] = 12.04,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 3.87,
-								},
-								["Shadowfury"] = {
-									["count"] = 2.48,
-								},
-							},
-							["amount"] = 6.350000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 0,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 1,
-								},
-								["Incinerate"] = {
-									["count"] = 1.58,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 0.52,
-								},
-								["Immolate"] = {
-									["count"] = 0.75,
-								},
-								["Conflagrate"] = {
-									["count"] = 1.84,
-								},
-							},
-							["amount"] = 5.69,
-						},
-					},
-					["ManaGain"] = 1462,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 5901,
-								},
-								["Shadowfury"] = {
-									["count"] = 5625,
-								},
-							},
-							["amount"] = 11526,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 6230,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 4084,
-								},
-								["Incinerate"] = {
-									["count"] = 11440,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 2820,
-								},
-								["Immolate"] = {
-									["count"] = 1657,
-								},
-								["Conflagrate"] = {
-									["count"] = 7444,
-								},
-							},
-							["amount"] = 33675,
-						},
-					},
-					["HealedWho"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 1246,
-								},
-								["Fel Armor"] = {
-									["count"] = 1630,
-								},
-							},
-							["amount"] = 2876,
-						},
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-						["Conflagrate (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Immolate (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 2193,
-					},
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["WhoHealed"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 1246,
-								},
-								["Fel Armor"] = {
-									["count"] = 1630,
-								},
-							},
-							["amount"] = 2876,
-						},
-					},
-					["ElementTakenResist"] = {
-						["Fire"] = 461,
-					},
-					["HOT_Time"] = 12,
-					["ElementTaken"] = {
-						["Fire"] = 1886,
-						["Physical"] = 1878,
-					},
-					["HOTs"] = {
-						["Fel Armor"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 12,
-						},
-					},
-					["Damage"] = 45201,
-					["TimeHeal"] = 6.48,
-					["ElementDone"] = {
-						["Shadow"] = 5625,
-						["Fire"] = 39576,
-					},
-					["ManaGainedFrom"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech Mana"] = {
-									["count"] = 242,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 308,
-								},
-							},
-							["amount"] = 550,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 912,
-								},
-							},
-							["amount"] = 912,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Throw Dynamite"] = {
-									["count"] = 1886,
-								},
-							},
-							["amount"] = 1886,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 1878,
-								},
-							},
-							["amount"] = 1878,
-						},
-					},
-					["TimeHealing"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 0.84,
-								},
-								["Fel Armor"] = {
-									["count"] = 5.64,
-								},
-							},
-							["amount"] = 6.48,
-						},
-					},
-					["OverHeals"] = {
-						["Fel Armor"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 654,
-									["min"] = 392,
-									["count"] = 2,
-									["amount"] = 1046,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 1046,
-						},
-						["Fel Synergy"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1116,
-									["min"] = 200,
-									["count"] = 8,
-									["amount"] = 4824,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 4824,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["50%Resist"] = {
-									["max"] = 341,
-									["min"] = 341,
-									["count"] = 1,
-									["amount"] = 341,
-								},
-								["25%Resist"] = {
-									["max"] = 120,
-									["min"] = 120,
-									["count"] = 1,
-									["amount"] = 120,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 461,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 912,
-								},
-							},
-							["amount"] = 912,
-						},
-						["Soul Leech Mana"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 242,
-								},
-							},
-							["amount"] = 242,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 308,
-								},
-							},
-							["amount"] = 308,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 18.52,
-					["Heals"] = {
-						["Soul Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1246,
-									["min"] = 1246,
-									["count"] = 1,
-									["amount"] = 1246,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1246,
-						},
-						["Fel Armor"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 669,
-									["min"] = 15,
-									["count"] = 4,
-									["amount"] = 1630,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 1630,
-						},
-					},
-					["DOT_Time"] = 12,
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 3.87,
-								},
-								["Shadowfury"] = {
-									["count"] = 2.48,
-								},
-							},
-							["amount"] = 6.350000000000001,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 0.84,
-								},
-								["Fel Armor"] = {
-									["count"] = 5.64,
-								},
-							},
-							["amount"] = 6.48,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 0,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 1,
-								},
-								["Incinerate"] = {
-									["count"] = 1.58,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 0.52,
-								},
-								["Immolate"] = {
-									["count"] = 0.75,
-								},
-								["Conflagrate"] = {
-									["count"] = 1.84,
-								},
-							},
-							["amount"] = 5.69,
-						},
-					},
-					["Healing"] = 2876,
-					["DamageTaken"] = 3764,
-					["Overhealing"] = 5870,
-					["Attacks"] = {
-						["Rain of Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1967,
-									["min"] = 1967,
-									["count"] = 3,
-									["amount"] = 5901,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 5901,
-						},
-						["Chaos Bolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 6230,
-									["min"] = 6230,
-									["count"] = 1,
-									["amount"] = 6230,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 6230,
-						},
-						["Shadowfury"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1908,
-									["min"] = 1857,
-									["count"] = 3,
-									["amount"] = 5625,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 5625,
-						},
-						["Conflagrate (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2762,
-									["min"] = 2762,
-									["count"] = 1,
-									["amount"] = 2762,
-								},
-								["Tick"] = {
-									["max"] = 1322,
-									["min"] = 1322,
-									["count"] = 1,
-									["amount"] = 1322,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4084,
-						},
-						["Incinerate"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 5730,
-									["min"] = 5710,
-									["count"] = 2,
-									["amount"] = 11440,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 11440,
-						},
-						["Immolate (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1484,
-									["min"] = 1336,
-									["count"] = 2,
-									["amount"] = 2820,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2820,
-						},
-						["Immolate"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1657,
-									["min"] = 1657,
-									["count"] = 1,
-									["amount"] = 1657,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1657,
-						},
-						["Conflagrate"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7444,
-									["min"] = 7444,
-									["count"] = 1,
-									["amount"] = 7444,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 7444,
-						},
-					},
-					["HealingTaken"] = 3816,
-					["ElementHitsDone"] = {
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 3,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 12,
-						},
-					},
-					["TimeDamage"] = 12.04,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 3.87,
-								},
-								["Shadowfury"] = {
-									["count"] = 2.48,
-								},
-							},
-							["amount"] = 6.350000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 0,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 1,
-								},
-								["Incinerate"] = {
-									["count"] = 1.58,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 0.52,
-								},
-								["Immolate"] = {
-									["count"] = 0.75,
-								},
-								["Conflagrate"] = {
-									["count"] = 1.84,
-								},
-							},
-							["amount"] = 5.69,
-						},
-					},
-					["ManaGain"] = 1462,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 5901,
-								},
-								["Shadowfury"] = {
-									["count"] = 5625,
-								},
-							},
-							["amount"] = 11526,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 6230,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 4084,
-								},
-								["Incinerate"] = {
-									["count"] = 11440,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 2820,
-								},
-								["Immolate"] = {
-									["count"] = 1657,
-								},
-								["Conflagrate"] = {
-									["count"] = 7444,
-								},
-							},
-							["amount"] = 33675,
-						},
-					},
-					["HealedWho"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 1246,
-								},
-								["Fel Armor"] = {
-									["count"] = 1630,
-								},
-							},
-							["amount"] = 2876,
-						},
-					},
-				},
 				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["ElementHitsDone"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDone"] = {
-					},
-					["PartialAbsorb"] = {
-					},
-					["DamagedWho"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["PartialResist"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
+					["ManaGain"] = 3155,
 					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
+						["Charapan"] = {
 							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 240,
+								["Hymn of Hope"] = {
+									["count"] = 3155,
 								},
 							},
-							["amount"] = 240,
+							["amount"] = 3155,
 						},
 					},
-					["RunicPowerGained"] = {
-					},
-					["CCBreak"] = 0,
-					["RageGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["EnergyGain"] = 0,
 					["ManaGained"] = {
-						["Replenishment"] = {
+						["Hymn of Hope"] = {
 							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 240,
+								["Charapan"] = {
+									["count"] = 3155,
 								},
 							},
-							["amount"] = 240,
+							["amount"] = 3155,
 						},
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["Heals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGained"] = {
-					},
-					["ActiveTime"] = 0,
-					["Healing"] = 0,
-					["FDamagedWho"] = {
-					},
-					["Dispelled"] = 0,
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["RageGain"] = 0,
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["ManaGain"] = 240,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
 					},
 				},
 				["OverallData"] = {
-					["DOTs"] = {
-						["Conflagrate (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Immolate (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 2193,
-					},
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["WhoHealed"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Divine Storm"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 1246,
-								},
-								["Fel Armor"] = {
-									["count"] = 1630,
-								},
-							},
-							["amount"] = 2876,
-						},
-					},
-					["ElementTakenResist"] = {
-						["Fire"] = 461,
-					},
-					["HOT_Time"] = 12,
-					["ElementTaken"] = {
-						["Fire"] = 1886,
-						["Physical"] = 1878,
-					},
-					["HOTs"] = {
-						["Fel Armor"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 12,
-								},
-							},
-							["amount"] = 12,
-						},
-					},
-					["Damage"] = 45201,
-					["TimeHeal"] = 6.48,
-					["ElementDone"] = {
-						["Shadow"] = 5625,
-						["Fire"] = 39576,
-					},
+					["ManaGain"] = 3155,
 					["ManaGainedFrom"] = {
-						["Meroving"] = {
+						["Charapan"] = {
 							["Details"] = {
-								["Soul Leech Mana"] = {
-									["count"] = 242,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 308,
+								["Hymn of Hope"] = {
+									["count"] = 3155,
 								},
 							},
-							["amount"] = 550,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 1152,
-								},
-							},
-							["amount"] = 1152,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Throw Dynamite"] = {
-									["count"] = 1886,
-								},
-							},
-							["amount"] = 1886,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 1878,
-								},
-							},
-							["amount"] = 1878,
-						},
-					},
-					["TimeHealing"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 0.84,
-								},
-								["Fel Armor"] = {
-									["count"] = 5.64,
-								},
-							},
-							["amount"] = 6.48,
-						},
-					},
-					["OverHeals"] = {
-						["Fel Armor"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 654,
-									["min"] = 392,
-									["count"] = 2,
-									["amount"] = 1046,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 1046,
-						},
-						["Fel Synergy"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1116,
-									["min"] = 200,
-									["count"] = 8,
-									["amount"] = 4824,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 4824,
-						},
-					},
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["50%Resist"] = {
-									["max"] = 341,
-									["min"] = 341,
-									["count"] = 1,
-									["amount"] = 341,
-								},
-								["25%Resist"] = {
-									["max"] = 120,
-									["min"] = 120,
-									["count"] = 1,
-									["amount"] = 120,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 461,
+							["amount"] = 3155,
 						},
 					},
 					["ManaGained"] = {
-						["Replenishment"] = {
+						["Hymn of Hope"] = {
 							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1152,
+								["Charapan"] = {
+									["count"] = 3155,
 								},
 							},
-							["amount"] = 1152,
-						},
-						["Soul Leech Mana"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 242,
-								},
-							},
-							["amount"] = 242,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 308,
-								},
-							},
-							["amount"] = 308,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 18.52,
-					["Heals"] = {
-						["Soul Leech"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1246,
-									["min"] = 1246,
-									["count"] = 1,
-									["amount"] = 1246,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1246,
-						},
-						["Fel Armor"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 669,
-									["min"] = 15,
-									["count"] = 4,
-									["amount"] = 1630,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 1630,
-						},
-					},
-					["DOT_Time"] = 12,
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 3.87,
-								},
-								["Shadowfury"] = {
-									["count"] = 2.48,
-								},
-							},
-							["amount"] = 6.350000000000001,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 0.84,
-								},
-								["Fel Armor"] = {
-									["count"] = 5.64,
-								},
-							},
-							["amount"] = 6.48,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 0,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 1,
-								},
-								["Incinerate"] = {
-									["count"] = 1.58,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 0.52,
-								},
-								["Immolate"] = {
-									["count"] = 0.75,
-								},
-								["Conflagrate"] = {
-									["count"] = 1.84,
-								},
-							},
-							["amount"] = 5.69,
-						},
-					},
-					["Healing"] = 2876,
-					["DamageTaken"] = 3764,
-					["Overhealing"] = 5870,
-					["Attacks"] = {
-						["Rain of Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1967,
-									["min"] = 1967,
-									["count"] = 3,
-									["amount"] = 5901,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 5901,
-						},
-						["Chaos Bolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 6230,
-									["min"] = 6230,
-									["count"] = 1,
-									["amount"] = 6230,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 6230,
-						},
-						["Shadowfury"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1908,
-									["min"] = 1857,
-									["count"] = 3,
-									["amount"] = 5625,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 5625,
-						},
-						["Conflagrate (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2762,
-									["min"] = 2762,
-									["count"] = 1,
-									["amount"] = 2762,
-								},
-								["Tick"] = {
-									["max"] = 1322,
-									["min"] = 1322,
-									["count"] = 1,
-									["amount"] = 1322,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 4084,
-						},
-						["Incinerate"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 5730,
-									["min"] = 5710,
-									["count"] = 2,
-									["amount"] = 11440,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 11440,
-						},
-						["Immolate (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1484,
-									["min"] = 1336,
-									["count"] = 2,
-									["amount"] = 2820,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2820,
-						},
-						["Immolate"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1657,
-									["min"] = 1657,
-									["count"] = 1,
-									["amount"] = 1657,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1657,
-						},
-						["Conflagrate"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 7444,
-									["min"] = 7444,
-									["count"] = 1,
-									["amount"] = 7444,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 7444,
-						},
-					},
-					["HealingTaken"] = 3816,
-					["ElementHitsDone"] = {
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 3,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 12,
-						},
-					},
-					["TimeDamage"] = 12.04,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 3.87,
-								},
-								["Shadowfury"] = {
-									["count"] = 2.48,
-								},
-							},
-							["amount"] = 6.350000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 0,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 1,
-								},
-								["Incinerate"] = {
-									["count"] = 1.58,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 0.52,
-								},
-								["Immolate"] = {
-									["count"] = 0.75,
-								},
-								["Conflagrate"] = {
-									["count"] = 1.84,
-								},
-							},
-							["amount"] = 5.69,
-						},
-					},
-					["ManaGain"] = 1702,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Rain of Fire"] = {
-									["count"] = 5901,
-								},
-								["Shadowfury"] = {
-									["count"] = 5625,
-								},
-							},
-							["amount"] = 11526,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Chaos Bolt"] = {
-									["count"] = 6230,
-								},
-								["Conflagrate (DoT)"] = {
-									["count"] = 4084,
-								},
-								["Incinerate"] = {
-									["count"] = 11440,
-								},
-								["Immolate (DoT)"] = {
-									["count"] = 2820,
-								},
-								["Immolate"] = {
-									["count"] = 1657,
-								},
-								["Conflagrate"] = {
-									["count"] = 7444,
-								},
-							},
-							["amount"] = 33675,
-						},
-					},
-					["HealedWho"] = {
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech"] = {
-									["count"] = 1246,
-								},
-								["Fel Armor"] = {
-									["count"] = 1630,
-								},
-							},
-							["amount"] = 2876,
+							["amount"] = 3155,
 						},
 					},
 				},
 			},
-			["UnitLockout"] = 1597229341,
-			["LastActive"] = 1597229886,
+			["UnitLockout"] = 1597266651,
+			["LastActive"] = 1597266779,
 		},
-		["Ickshining"] = {
-			["GUID"] = "0x07000000005AC068",
-			["TimeLast"] = {
-				["DamageTaken"] = 1597229611,
-				["ManaGain"] = 1597229618,
-				["ActiveTime"] = 1597229612,
-				["TimeDamage"] = 1597229612,
-				["OVERALL"] = 1597229618,
-				["DOT_Time"] = 1597229602,
-				["Damage"] = 1597229612,
+		["Sacik"] = {
+			["GUID"] = "0x07000000005AAB3E",
+			["LastEventHealth"] = {
+				"22280 (100%)", -- [1]
+				"22280 (100%)", -- [2]
+				"22280 (100%)", -- [3]
+				"22280 (100%)", -- [4]
+				"22280 (100%)", -- [5]
+				"22280 (100%)", -- [6]
+				"22280 (100%)", -- [7]
+				"22280 (100%)", -- [8]
+				"22280 (100%)", -- [9]
+				"22280 (100%)", -- [10]
+				"22280 (100%)", -- [11]
+				"22280 (100%)", -- [12]
+				"22280 (100%)", -- [13]
+				"22280 (100%)", -- [14]
+				"22280 (100%)", -- [15]
+				"22280 (100%)", -- [16]
+				"22280 (100%)", -- [17]
+				"22280 (100%)", -- [18]
+				"22280 (100%)", -- [19]
+				"22280 (100%)", -- [20]
+				"22280 (100%)", -- [21]
+				"22280 (100%)", -- [22]
+				"22280 (100%)", -- [23]
+				"22280 (100%)", -- [24]
+				"22280 (100%)", -- [25]
+				"22280 (100%)", -- [26]
+				"22280 (100%)", -- [27]
+				"22280 (100%)", -- [28]
+				"22280 (100%)", -- [29]
+				"22280 (100%)", -- [30]
+				"22280 (100%)", -- [31]
+				"22280 (100%)", -- [32]
+				"22280 (100%)", -- [33]
+				"22280 (100%)", -- [34]
+				"22280 (100%)", -- [35]
+				"22280 (100%)", -- [36]
+				"22280 (100%)", -- [37]
+				"22280 (100%)", -- [38]
+				"22280 (100%)", -- [39]
+				"22280 (100%)", -- [40]
+				"22280 (100%)", -- [41]
+				"22280 (100%)", -- [42]
+				"22280 (100%)", -- [43]
+				"22280 (100%)", -- [44]
+				"22280 (100%)", -- [45]
+				"22280 (100%)", -- [46]
+				"22280 (100%)", -- [47]
+				"22280 (100%)", -- [48]
+				"22280 (100%)", -- [49]
+				"22280 (100%)", -- [50]
 			},
-			["LastAttackedBy"] = "Cultist Bombardier",
 			["LastEventType"] = {
-				"DAMAGE", -- [1]
-				"DAMAGE", -- [2]
-				"DAMAGE", -- [3]
-				"DAMAGE", -- [4]
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
 				"HEAL", -- [5]
 				"HEAL", -- [6]
-				"DAMAGE", -- [7]
-				"DAMAGE", -- [8]
-				"DAMAGE", -- [9]
-				"DAMAGE", -- [10]
-				"DAMAGE", -- [11]
-				"DAMAGE", -- [12]
-				"DAMAGE", -- [13]
-				"DAMAGE", -- [14]
-				"DAMAGE", -- [15]
-				"DAMAGE", -- [16]
-				"DAMAGE", -- [17]
-				"DAMAGE", -- [18]
-				"DAMAGE", -- [19]
-				"DAMAGE", -- [20]
-				"DAMAGE", -- [21]
-				"DAMAGE", -- [22]
-				"DAMAGE", -- [23]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"HEAL", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"HEAL", -- [27]
+				"HEAL", -- [28]
+				"HEAL", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+				"HEAL", -- [45]
+				"HEAL", -- [46]
+				"HEAL", -- [47]
+				"HEAL", -- [48]
+				"HEAL", -- [49]
+				"HEAL", -- [50]
 			},
 			["TimeWindows"] = {
-				["DamageTaken"] = {
-					738, -- [1]
-				},
-				["ActiveTime"] = {
-					16.54, -- [1]
-				},
-				["TimeDamage"] = {
-					16.54, -- [1]
-				},
 				["ManaGain"] = {
-					1986, -- [1]
-				},
-				["DOT_Time"] = {
-					6, -- [1]
-				},
-				["Damage"] = {
-					44413, -- [1]
+					3342, -- [1]
 				},
 			},
-			["enClass"] = "MAGE",
-			["unit"] = "Ickshining",
+			["enClass"] = "PRIEST",
+			["unit"] = "Sacik",
 			["level"] = 80,
-			["LastDamageAbility"] = "Throw Dynamite",
 			["LastFightIn"] = 0,
 			["LastEventNum"] = {
-				[5] = 1.289306838006893,
-				[6] = 2.642440747202247,
-				[22] = 3.140291902472235,
+				7.342908438061041, -- [1]
+				[23] = 8.23608617594255,
+				[47] = 7.338420107719928,
+				[6] = 8.420107719928186,
+				[28] = 21.60682226211849,
+				[12] = 12.45960502692998,
+				[43] = 7.733393177737882,
+				[31] = 11.13554757630162,
+				[17] = 23.1149012567325,
+				[35] = 10.8572710951526,
+				[39] = 10.97396768402154,
+				[5] = 29.88330341113106,
+				[11] = 23.17773788150808,
+				[18] = 8.500897666068223,
 			},
 			["type"] = "Ungrouped",
-			["FightsSaved"] = 1,
-			["LastDamageTaken"] = 738,
-			["LastAbility"] = 2354865.148,
 			["Owner"] = false,
-			["LastEventHealth"] = {
-				"23501 (100%)", -- [1]
-				"23501 (100%)", -- [2]
-				"23501 (100%)", -- [3]
-				"23501 (100%)", -- [4]
-				"23501 (100%)", -- [5]
-				"23501 (100%)", -- [6]
-				"23501 (100%)", -- [7]
-				"23501 (100%)", -- [8]
-				"23501 (100%)", -- [9]
-				"23501 (100%)", -- [10]
-				"23501 (100%)", -- [11]
-				"23501 (100%)", -- [12]
-				"23501 (100%)", -- [13]
-				"23501 (100%)", -- [14]
-				"23501 (100%)", -- [15]
-				"23501 (100%)", -- [16]
-				"23501 (100%)", -- [17]
-				"23501 (100%)", -- [18]
-				"23501 (100%)", -- [19]
-				"23501 (100%)", -- [20]
-				"23501 (100%)", -- [21]
-				"22763 (96%)", -- [22]
-				"22765 (96%)", -- [23]
+			["TimeLast"] = {
+				["OVERALL"] = 1597266693,
+				["ManaGain"] = 1597266693,
 			},
-			["NextEventNum"] = 24,
+			["NextEventNum"] = 3,
 			["LastEventHealthNum"] = {
 				100, -- [1]
 				100, -- [2]
@@ -5353,37 +1676,91 @@ RecountPerCharDB = {
 				100, -- [19]
 				100, -- [20]
 				100, -- [21]
-				96.85970809752776, -- [22]
-				96.86821837368623, -- [23]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
 			},
 			["LastEvents"] = {
-				"Ickshining Living Bomb (DoT) Chillmaw Tick -1266 (Fire)", -- [1]
-				"Ickshining Fireball Chillmaw Hit -7178 (Fire)", -- [2]
-				"Ickshining Living Bomb (DoT) Chillmaw Tick -1140 (126 resisted) (Fire)", -- [3]
-				"Ickshining Fireball Chillmaw Crit -13697 (Fire)", -- [4]
-				"Tazzwanted Divine Storm Ickshining Tick +303 (303 overheal)", -- [5]
-				"Tazzwanted Divine Storm Ickshining Tick +621 (621 overheal)", -- [6]
-				"Ickshining Blizzard Cultist Bombardier Crit -1712 (Frost)", -- [7]
-				"Ickshining Blizzard Cultist Bombardier Hit -943 (Frost)", -- [8]
-				"Ickshining Blizzard Cultist Bombardier Hit -943 (Frost)", -- [9]
-				"Ickshining Blizzard Cultist Bombardier Hit -943 (Frost)", -- [10]
-				"Ickshining Blizzard Cultist Bombardier Crit -1712 (Frost)", -- [11]
-				"Ickshining Blizzard Cultist Bombardier Crit -1712 (Frost)", -- [12]
-				"Ickshining Blizzard Cultist Bombardier Hit -943 (Frost)", -- [13]
-				"Ickshining Blizzard Cultist Bombardier Hit -943 (Frost)", -- [14]
-				"Ickshining Blizzard Cultist Bombardier Crit -1792 (Frost)", -- [15]
-				"Ickshining Blizzard Cultist Bombardier Crit -1792 (Frost)", -- [16]
-				"Ickshining Blizzard Cultist Bombardier Hit -987 (Frost)", -- [17]
-				"Ickshining Blizzard Cultist Bombardier Hit -987 (Frost)", -- [18]
-				"Ickshining Blizzard Cultist Bombardier Hit -987 (Frost)", -- [19]
-				"Ickshining Blizzard Cultist Bombardier Hit -1105 (Frost)", -- [20]
-				"Ickshining Blizzard Cultist Bombardier Crit -2006 (Frost)", -- [21]
-				"Cultist Bombardier Throw Dynamite Ickshining Hit -738 (184 resisted) (Fire)", -- [22]
-				"Ickshining Arcane Explosion Cultist Bombardier Hit -1625 (Arcane)", -- [23]
+				"Sacik Holy Nova Sacik Hit +1636 (1636 overheal)", -- [1]
+				"Sacik Holy Nova Charapan Hit +1671 (1671 overheal)", -- [2]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1540 (1540 overheal)", -- [3]
+				"Sacik Holy Nova Charapan Hit +1640 (1640 overheal)", -- [4]
+				"Charapan Divine Hymn Sacik Crit +6658 (6658 overheal)", -- [5]
+				"Sacik Holy Nova Sacik Hit +1876 (1876 overheal)", -- [6]
+				"Sacik Holy Nova Populacho Hit +1839 (1839 overheal)", -- [7]
+				"Sacik Holy Nova Meroving Crit +2773 (2773 overheal)", -- [8]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1627 (1627 overheal)", -- [9]
+				"Sacik Holy Nova Charapan Hit +1704 (1704 overheal)", -- [10]
+				"Charapan Divine Hymn Sacik Hit +5164 (5164 overheal)", -- [11]
+				"Sacik Holy Nova Sacik Crit +2776 (2776 overheal)", -- [12]
+				"Sacik Holy Nova Populacho Hit +1859 (1859 overheal)", -- [13]
+				"Sacik Holy Nova Meroving Hit +1837 (1837 overheal)", -- [14]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1540 (1540 overheal)", -- [15]
+				"Sacik Holy Nova Charapan Hit +1668 (1668 overheal)", -- [16]
+				"Charapan Divine Hymn Sacik Hit +5150 (5150 overheal)", -- [17]
+				"Sacik Holy Nova Sacik Hit +1894 (1894 overheal)", -- [18]
+				"Sacik Holy Nova Populacho Hit +1783 (1783 overheal)", -- [19]
+				"Sacik Holy Nova Meroving Crit +2763 (2763 overheal)", -- [20]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1581 (1581 overheal)", -- [21]
+				"Sacik Holy Nova Charapan Hit +1724 (1724 overheal)", -- [22]
+				"Sacik Holy Nova Sacik Hit +1835 (1835 overheal)", -- [23]
+				"Sacik Holy Nova Populacho Crit +2845 (2845 overheal)", -- [24]
+				"Sacik Holy Nova Meroving Hit +1895 (1895 overheal)", -- [25]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1628 (1628 overheal)", -- [26]
+				"Sacik Holy Nova Charapan Crit +2524 (2524 overheal)", -- [27]
+				"Charapan Divine Hymn Sacik Hit +4814 (4814 overheal)", -- [28]
+				"Sacik Holy Nova Meroving Crit +2460 (2460 overheal)", -- [29]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1536 (1536 overheal)", -- [30]
+				"Sacik Holy Nova Sacik Crit +2481 (2481 overheal)", -- [31]
+				"Sacik Holy Nova Charapan Crit +2502 (2502 overheal)", -- [32]
+				"Sacik Holy Nova Meroving Hit +1628 (1628 overheal)", -- [33]
+				"Sacik Holy Nova Haaroon <Meroving> Crit +2334 (2334 overheal)", -- [34]
+				"Sacik Holy Nova Sacik Crit +2419 (2419 overheal)", -- [35]
+				"Sacik Holy Nova Charapan Crit +2506 (2506 overheal)", -- [36]
+				"Sacik Holy Nova Meroving Hit +1736 (1736 overheal)", -- [37]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1625 (1625 overheal)", -- [38]
+				"Sacik Holy Nova Sacik Crit +2445 (2445 overheal)", -- [39]
+				"Sacik Holy Nova Charapan Crit +2517 (2517 overheal)", -- [40]
+				"Sacik Holy Nova Meroving Hit +1712 (1712 overheal)", -- [41]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1595 (1595 overheal)", -- [42]
+				"Sacik Holy Nova Sacik Hit +1723 (1723 overheal)", -- [43]
+				"Sacik Holy Nova Charapan Hit +1706 (1706 overheal)", -- [44]
+				"Sacik Holy Nova Meroving Hit +1735 (1735 overheal)", -- [45]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1548 (1548 overheal)", -- [46]
+				"Sacik Holy Nova Sacik Hit +1635 (1635 overheal)", -- [47]
+				"Sacik Holy Nova Charapan Hit +1704 (1704 overheal)", -- [48]
+				"Sacik Holy Nova Meroving Hit +1706 (1706 overheal)", -- [49]
+				"Sacik Holy Nova Haaroon <Meroving> Hit +1607 (1607 overheal)", -- [50]
 			},
-			["Name"] = "Ickshining",
+			["Name"] = "Sacik",
 			["LastEventIncoming"] = {
-				false, -- [1]
+				true, -- [1]
 				false, -- [2]
 				false, -- [3]
 				false, -- [4]
@@ -5393,1621 +1770,154 @@ RecountPerCharDB = {
 				false, -- [8]
 				false, -- [9]
 				false, -- [10]
-				false, -- [11]
-				false, -- [12]
+				true, -- [11]
+				true, -- [12]
 				false, -- [13]
 				false, -- [14]
 				false, -- [15]
 				false, -- [16]
-				false, -- [17]
-				false, -- [18]
+				true, -- [17]
+				true, -- [18]
 				false, -- [19]
 				false, -- [20]
 				false, -- [21]
-				true, -- [22]
-				false, -- [23]
+				false, -- [22]
+				true, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				true, -- [28]
+				false, -- [29]
+				false, -- [30]
+				true, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				true, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				true, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
 			},
 			["LastEventTimes"] = {
-				2354851.908, -- [1]
-				2354853.973, -- [2]
-				2354854.891, -- [3]
-				2354855.891, -- [4]
-				2354858.147, -- [5]
-				2354858.149, -- [6]
-				2354859.597, -- [7]
-				2354859.598, -- [8]
-				2354859.599, -- [9]
-				2354860.264, -- [10]
-				2354860.265, -- [11]
-				2354860.266, -- [12]
-				2354860.894, -- [13]
-				2354860.895, -- [14]
-				2354861.665, -- [15]
-				2354861.665, -- [16]
-				2354862.347, -- [17]
-				2354862.347, -- [18]
-				2354863.064, -- [19]
-				2354863.065, -- [20]
-				2354863.766, -- [21]
-				2354864.099, -- [22]
-				2354865.148, -- [23]
+				23069.451, -- [1]
+				23069.452, -- [2]
+				23016.484, -- [3]
+				23016.485, -- [4]
+				23016.75, -- [5]
+				23017.803, -- [6]
+				23017.803, -- [7]
+				23017.804, -- [8]
+				23017.804, -- [9]
+				23017.805, -- [10]
+				23018.539, -- [11]
+				23019.253, -- [12]
+				23019.253, -- [13]
+				23019.254, -- [14]
+				23019.254, -- [15]
+				23019.255, -- [16]
+				23020.353, -- [17]
+				23020.589, -- [18]
+				23020.589, -- [19]
+				23020.59, -- [20]
+				23020.59, -- [21]
+				23020.591, -- [22]
+				23022.207, -- [23]
+				23022.207, -- [24]
+				23022.208, -- [25]
+				23022.208, -- [26]
+				23022.209, -- [27]
+				23022.21, -- [28]
+				23061.943, -- [29]
+				23061.944, -- [30]
+				23061.944, -- [31]
+				23061.945, -- [32]
+				23063.395, -- [33]
+				23063.395, -- [34]
+				23063.396, -- [35]
+				23063.396, -- [36]
+				23064.845, -- [37]
+				23064.845, -- [38]
+				23064.846, -- [39]
+				23064.846, -- [40]
+				23066.362, -- [41]
+				23066.363, -- [42]
+				23066.363, -- [43]
+				23066.363, -- [44]
+				23067.913, -- [45]
+				23067.913, -- [46]
+				23067.914, -- [47]
+				23067.914, -- [48]
+				23069.451, -- [49]
+				23069.451, -- [50]
 			},
 			["Fights"] = {
-				["Fight1"] = {
-					["DOTs"] = {
-						["Living Bomb (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 126,
-					},
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 7.67,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1.38,
-								},
-							},
-							["amount"] = 9.050000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 4.42,
-								},
-								["Fireball"] = {
-									["count"] = 3.07,
-								},
-							},
-							["amount"] = 7.49,
-						},
-					},
-					["DamageTaken"] = 738,
-					["ElementTakenResist"] = {
-						["Fire"] = 184,
-					},
-					["PartialResist"] = {
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["25%Resist"] = {
-									["max"] = 184,
-									["min"] = 184,
-									["count"] = 1,
-									["amount"] = 184,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 184,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1064,
-								},
-							},
-							["amount"] = 1064,
-						},
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ickshining"] = {
-									["count"] = 577,
-								},
-							},
-							["amount"] = 577,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Ickshining"] = {
-									["count"] = 65,
-								},
-							},
-							["amount"] = 65,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 16.54,
-					["ElementTaken"] = {
-						["Fire"] = 738,
-					},
-					["DOT_Time"] = 6,
-					["Damage"] = 44413,
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Throw Dynamite"] = {
-									["count"] = 738,
-								},
-							},
-							["amount"] = 738,
-						},
-					},
-					["Attacks"] = {
-						["Fireball"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 13697,
-									["min"] = 13697,
-									["count"] = 1,
-									["amount"] = 13697,
-								},
-								["Hit"] = {
-									["max"] = 7178,
-									["min"] = 7178,
-									["count"] = 1,
-									["amount"] = 7178,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 20875,
-						},
-						["Blizzard"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2006,
-									["min"] = 1712,
-									["count"] = 6,
-									["amount"] = 10726,
-								},
-								["Hit"] = {
-									["max"] = 1105,
-									["min"] = 943,
-									["count"] = 9,
-									["amount"] = 8781,
-								},
-							},
-							["count"] = 15,
-							["amount"] = 19507,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1625,
-									["min"] = 1625,
-									["count"] = 1,
-									["amount"] = 1625,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1625,
-						},
-						["Living Bomb (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1266,
-									["min"] = 1140,
-									["count"] = 2,
-									["amount"] = 2406,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2406,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 23281,
-						["Frost"] = 19507,
-						["Arcane"] = 1625,
-					},
-					["ManaGainedFrom"] = {
-						["Ickshining"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 577,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 65,
-								},
-							},
-							["amount"] = 642,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 1064,
-								},
-							},
-							["amount"] = 1064,
-						},
-					},
-					["TimeDamage"] = 16.54,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 7.67,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1.38,
-								},
-							},
-							["amount"] = 9.050000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 4.42,
-								},
-								["Fireball"] = {
-									["count"] = 3.07,
-								},
-							},
-							["amount"] = 7.49,
-						},
-					},
-					["ManaGain"] = 1706,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 19507,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1625,
-								},
-							},
-							["amount"] = 21132,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 2406,
-								},
-								["Fireball"] = {
-									["count"] = 20875,
-								},
-							},
-							["amount"] = 23281,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Tick"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 6,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Arcane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-						["Living Bomb (DoT)"] = {
-							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 126,
-					},
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 7.67,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1.38,
-								},
-							},
-							["amount"] = 9.050000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 4.42,
-								},
-								["Fireball"] = {
-									["count"] = 3.07,
-								},
-							},
-							["amount"] = 7.49,
-						},
-					},
-					["DamageTaken"] = 738,
-					["ElementTakenResist"] = {
-						["Fire"] = 184,
-					},
-					["PartialResist"] = {
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["25%Resist"] = {
-									["max"] = 184,
-									["min"] = 184,
-									["count"] = 1,
-									["amount"] = 184,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 184,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1064,
-								},
-							},
-							["amount"] = 1064,
-						},
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ickshining"] = {
-									["count"] = 577,
-								},
-							},
-							["amount"] = 577,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Ickshining"] = {
-									["count"] = 65,
-								},
-							},
-							["amount"] = 65,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 16.54,
-					["ElementTaken"] = {
-						["Fire"] = 738,
-					},
-					["DOT_Time"] = 6,
-					["Damage"] = 44413,
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Throw Dynamite"] = {
-									["count"] = 738,
-								},
-							},
-							["amount"] = 738,
-						},
-					},
-					["Attacks"] = {
-						["Fireball"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 13697,
-									["min"] = 13697,
-									["count"] = 1,
-									["amount"] = 13697,
-								},
-								["Hit"] = {
-									["max"] = 7178,
-									["min"] = 7178,
-									["count"] = 1,
-									["amount"] = 7178,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 20875,
-						},
-						["Blizzard"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2006,
-									["min"] = 1712,
-									["count"] = 6,
-									["amount"] = 10726,
-								},
-								["Hit"] = {
-									["max"] = 1105,
-									["min"] = 943,
-									["count"] = 9,
-									["amount"] = 8781,
-								},
-							},
-							["count"] = 15,
-							["amount"] = 19507,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1625,
-									["min"] = 1625,
-									["count"] = 1,
-									["amount"] = 1625,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1625,
-						},
-						["Living Bomb (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1266,
-									["min"] = 1140,
-									["count"] = 2,
-									["amount"] = 2406,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2406,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 23281,
-						["Frost"] = 19507,
-						["Arcane"] = 1625,
-					},
-					["ManaGainedFrom"] = {
-						["Ickshining"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 577,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 65,
-								},
-							},
-							["amount"] = 642,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 1064,
-								},
-							},
-							["amount"] = 1064,
-						},
-					},
-					["TimeDamage"] = 16.54,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 7.67,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1.38,
-								},
-							},
-							["amount"] = 9.050000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 4.42,
-								},
-								["Fireball"] = {
-									["count"] = 3.07,
-								},
-							},
-							["amount"] = 7.49,
-						},
-					},
-					["ManaGain"] = 1706,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 19507,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1625,
-								},
-							},
-							["amount"] = 21132,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 2406,
-								},
-								["Fireball"] = {
-									["count"] = 20875,
-								},
-							},
-							["amount"] = 23281,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Tick"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 6,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Arcane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-				},
 				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["ElementHitsDone"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDone"] = {
-					},
-					["PartialAbsorb"] = {
-					},
-					["DamagedWho"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["PartialResist"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
+					["ManaGain"] = 3342,
 					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
+						["Charapan"] = {
 							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 280,
+								["Hymn of Hope"] = {
+									["count"] = 3342,
 								},
 							},
-							["amount"] = 280,
+							["amount"] = 3342,
 						},
 					},
-					["RunicPowerGained"] = {
-					},
-					["CCBreak"] = 0,
-					["RageGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["EnergyGain"] = 0,
 					["ManaGained"] = {
-						["Replenishment"] = {
+						["Hymn of Hope"] = {
 							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 280,
+								["Charapan"] = {
+									["count"] = 3342,
 								},
 							},
-							["amount"] = 280,
+							["amount"] = 3342,
 						},
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["Heals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGained"] = {
-					},
-					["ActiveTime"] = 0,
-					["Healing"] = 0,
-					["FDamagedWho"] = {
-					},
-					["Dispelled"] = 0,
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["RageGain"] = 0,
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["ManaGain"] = 280,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
 					},
 				},
 				["OverallData"] = {
-					["DOTs"] = {
-						["Living Bomb (DoT)"] = {
+					["ManaGain"] = 3342,
+					["ManaGainedFrom"] = {
+						["Charapan"] = {
 							["Details"] = {
-								["Chillmaw"] = {
-									["count"] = 6,
+								["Hymn of Hope"] = {
+									["count"] = 3342,
 								},
 							},
-							["amount"] = 6,
-						},
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 126,
-					},
-					["TimeSpent"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 7.67,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1.38,
-								},
-							},
-							["amount"] = 9.050000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 4.42,
-								},
-								["Fireball"] = {
-									["count"] = 3.07,
-								},
-							},
-							["amount"] = 7.49,
-						},
-					},
-					["DamageTaken"] = 738,
-					["ElementTakenResist"] = {
-						["Fire"] = 184,
-					},
-					["PartialResist"] = {
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["25%Resist"] = {
-									["max"] = 184,
-									["min"] = 184,
-									["count"] = 1,
-									["amount"] = 184,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 184,
+							["amount"] = 3342,
 						},
 					},
 					["ManaGained"] = {
-						["Replenishment"] = {
+						["Hymn of Hope"] = {
 							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 1344,
+								["Charapan"] = {
+									["count"] = 3342,
 								},
 							},
-							["amount"] = 1344,
-						},
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ickshining"] = {
-									["count"] = 577,
-								},
-							},
-							["amount"] = 577,
-						},
-						["Judgement of Wisdom"] = {
-							["Details"] = {
-								["Ickshining"] = {
-									["count"] = 65,
-								},
-							},
-							["amount"] = 65,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Throw Dynamite"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 16.54,
-					["ElementTaken"] = {
-						["Fire"] = 738,
-					},
-					["DOT_Time"] = 6,
-					["Damage"] = 44413,
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["WhoDamaged"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Throw Dynamite"] = {
-									["count"] = 738,
-								},
-							},
-							["amount"] = 738,
-						},
-					},
-					["Attacks"] = {
-						["Fireball"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 13697,
-									["min"] = 13697,
-									["count"] = 1,
-									["amount"] = 13697,
-								},
-								["Hit"] = {
-									["max"] = 7178,
-									["min"] = 7178,
-									["count"] = 1,
-									["amount"] = 7178,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 20875,
-						},
-						["Blizzard"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 2006,
-									["min"] = 1712,
-									["count"] = 6,
-									["amount"] = 10726,
-								},
-								["Hit"] = {
-									["max"] = 1105,
-									["min"] = 943,
-									["count"] = 9,
-									["amount"] = 8781,
-								},
-							},
-							["count"] = 15,
-							["amount"] = 19507,
-						},
-						["Arcane Explosion"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1625,
-									["min"] = 1625,
-									["count"] = 1,
-									["amount"] = 1625,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1625,
-						},
-						["Living Bomb (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 1266,
-									["min"] = 1140,
-									["count"] = 2,
-									["amount"] = 2406,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2406,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 23281,
-						["Frost"] = 19507,
-						["Arcane"] = 1625,
-					},
-					["ManaGainedFrom"] = {
-						["Ickshining"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 577,
-								},
-								["Judgement of Wisdom"] = {
-									["count"] = 65,
-								},
-							},
-							["amount"] = 642,
-						},
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 1344,
-								},
-							},
-							["amount"] = 1344,
-						},
-					},
-					["TimeDamage"] = 16.54,
-					["TimeDamaging"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 7.67,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1.38,
-								},
-							},
-							["amount"] = 9.050000000000001,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 4.42,
-								},
-								["Fireball"] = {
-									["count"] = 3.07,
-								},
-							},
-							["amount"] = 7.49,
-						},
-					},
-					["ManaGain"] = 1986,
-					["DamagedWho"] = {
-						["Cultist Bombardier"] = {
-							["Details"] = {
-								["Blizzard"] = {
-									["count"] = 19507,
-								},
-								["Arcane Explosion"] = {
-									["count"] = 1625,
-								},
-							},
-							["amount"] = 21132,
-						},
-						["Chillmaw"] = {
-							["Details"] = {
-								["Living Bomb (DoT)"] = {
-									["count"] = 2406,
-								},
-								["Fireball"] = {
-									["count"] = 20875,
-								},
-							},
-							["amount"] = 23281,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Tick"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 6,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Arcane"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
+							["amount"] = 3342,
 						},
 					},
 				},
 			},
-			["UnitLockout"] = 1597229599,
-			["LastActive"] = 1597229618,
-		},
-		["Nokrin <Meroving>"] = {
-			["GUID"] = "0xF14026B422021392",
-			["LastEventHealth"] = {
-				"15836 (100%)", -- [1]
-				"15836 (100%)", -- [2]
-				"15836 (100%)", -- [3]
-				"15836 (100%)", -- [4]
-				"15836 (100%)", -- [5]
-				"15836 (100%)", -- [6]
-				"15836 (100%)", -- [7]
-				"15836 (100%)", -- [8]
-				"15836 (100%)", -- [9]
-				"15836 (100%)", -- [10]
-				"15836 (100%)", -- [11]
-				"15836 (100%)", -- [12]
-			},
-			["LastEventType"] = {
-				"HEAL", -- [1]
-				"HEAL", -- [2]
-				"HEAL", -- [3]
-				"HEAL", -- [4]
-				"HEAL", -- [5]
-				"DAMAGE", -- [6]
-				"HEAL", -- [7]
-				"HEAL", -- [8]
-				"HEAL", -- [9]
-				"HEAL", -- [10]
-				"HEAL", -- [11]
-				"HEAL", -- [12]
-			},
-			["TimeWindows"] = {
-				["Damage"] = {
-					940, -- [1]
-				},
-				["ManaGain"] = {
-					223, -- [1]
-				},
-				["TimeDamage"] = {
-					3.5, -- [1]
-				},
-				["ActiveTime"] = {
-					3.5, -- [1]
-				},
-			},
-			["enClass"] = "PET",
-			["unit"] = "Nokrin",
-			["level"] = 1,
-			["LastFightIn"] = 0,
-			["LastEventNum"] = {
-				7.047234150037888, -- [1]
-				5.897954028795151, -- [2]
-				5.424349583228088, -- [3]
-				5.405405405405405, -- [4]
-				1.262945188178833, -- [5]
-				nil, -- [6]
-				1.806011619095731, -- [7]
-				1.755493811568578, -- [8]
-				4.022480424349583, -- [9]
-				1.913361960090932, -- [10]
-				3.921444809295277, -- [11]
-				1.862844152563779, -- [12]
-			},
-			["type"] = "Pet",
-			["FightsSaved"] = 1,
-			["LastAbility"] = 2354855.941,
-			["Owner"] = "Meroving",
-			["TimeLast"] = {
-				["ActiveTime"] = 1597229603,
-				["ManaGain"] = 1597229617,
-				["OVERALL"] = 1597229617,
-				["TimeDamage"] = 1597229603,
-				["Damage"] = 1597229603,
-			},
-			["NextEventNum"] = 13,
-			["LastEventHealthNum"] = {
-				100, -- [1]
-				100, -- [2]
-				100, -- [3]
-				100, -- [4]
-				100, -- [5]
-				100, -- [6]
-				100, -- [7]
-				100, -- [8]
-				100, -- [9]
-				100, -- [10]
-				100, -- [11]
-				100, -- [12]
-			},
-			["LastEvents"] = {
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +1116 (1116 overheal)", -- [1]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +934 (934 overheal)", -- [2]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +859 (859 overheal)", -- [3]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +856 (856 overheal)", -- [4]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +200 (200 overheal)", -- [5]
-				"Nokrin <Meroving> Firebolt Chillmaw Hit -940 (Fire)", -- [6]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +286 (286 overheal)", -- [7]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +278 (278 overheal)", -- [8]
-				"Tazzwanted Divine Storm Nokrin <Meroving> Tick +637 (637 overheal)", -- [9]
-				"Tazzwanted Divine Storm Nokrin <Meroving> Tick +303 (303 overheal)", -- [10]
-				"Tazzwanted Divine Storm Nokrin <Meroving> Tick +621 (621 overheal)", -- [11]
-				"Meroving Fel Synergy Nokrin <Meroving> Hit +295 (295 overheal)", -- [12]
-			},
-			["Name"] = "Nokrin",
-			["LastEventIncoming"] = {
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				false, -- [6]
-				true, -- [7]
-				true, -- [8]
-				true, -- [9]
-				true, -- [10]
-				true, -- [11]
-				true, -- [12]
-			},
-			["LastEventTimes"] = {
-				2354851.41, -- [1]
-				2354852.244, -- [2]
-				2354854.227, -- [3]
-				2354855.363, -- [4]
-				2354855.642, -- [5]
-				2354855.941, -- [6]
-				2354858.128, -- [7]
-				2354858.13, -- [8]
-				2354858.145, -- [9]
-				2354858.146, -- [10]
-				2354858.148, -- [11]
-				2354864.217, -- [12]
-			},
-			["Fights"] = {
-				["Fight1"] = {
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["TimeSpent"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-					},
-					["DamagedWho"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 940,
-					},
-					["Attacks"] = {
-						["Firebolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 940,
-									["min"] = 940,
-									["count"] = 1,
-									["amount"] = 940,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 940,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 121,
-								},
-							},
-							["amount"] = 121,
-						},
-						["Soul Leech Mana"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 58,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 121,
-								},
-							},
-							["amount"] = 121,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech Mana"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 58,
-						},
-					},
-					["TimeDamage"] = 3.5,
-					["TimeDamaging"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-					},
-					["ManaGain"] = 179,
-					["ActiveTime"] = 3.5,
-					["Damage"] = 940,
-				},
-				["LastFightData"] = {
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["TimeSpent"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-					},
-					["DamagedWho"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 940,
-					},
-					["Attacks"] = {
-						["Firebolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 940,
-									["min"] = 940,
-									["count"] = 1,
-									["amount"] = 940,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 940,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 121,
-								},
-							},
-							["amount"] = 121,
-						},
-						["Soul Leech Mana"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 58,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 121,
-								},
-							},
-							["amount"] = 121,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech Mana"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 58,
-						},
-					},
-					["TimeDamage"] = 3.5,
-					["TimeDamaging"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-					},
-					["ManaGain"] = 179,
-					["ActiveTime"] = 3.5,
-					["Damage"] = 940,
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["ElementHitsDone"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDone"] = {
-					},
-					["PartialAbsorb"] = {
-					},
-					["DamagedWho"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["PartialResist"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 44,
-								},
-							},
-							["amount"] = 44,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["CCBreak"] = 0,
-					["RageGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 44,
-								},
-							},
-							["amount"] = 44,
-						},
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["Heals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGained"] = {
-					},
-					["ActiveTime"] = 0,
-					["Healing"] = 0,
-					["FDamagedWho"] = {
-					},
-					["Dispelled"] = 0,
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["RageGain"] = 0,
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["ManaGain"] = 44,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["OverallData"] = {
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["TimeSpent"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-					},
-					["DamagedWho"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 940,
-								},
-							},
-							["amount"] = 940,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 940,
-					},
-					["Attacks"] = {
-						["Firebolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 940,
-									["min"] = 940,
-									["count"] = 1,
-									["amount"] = 940,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 940,
-						},
-					},
-					["ManaGained"] = {
-						["Replenishment"] = {
-							["Details"] = {
-								["Tazzwanted"] = {
-									["count"] = 165,
-								},
-							},
-							["amount"] = 165,
-						},
-						["Soul Leech Mana"] = {
-							["Details"] = {
-								["Meroving"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 58,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Tazzwanted"] = {
-							["Details"] = {
-								["Replenishment"] = {
-									["count"] = 165,
-								},
-							},
-							["amount"] = 165,
-						},
-						["Meroving"] = {
-							["Details"] = {
-								["Soul Leech Mana"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 58,
-						},
-					},
-					["TimeDamage"] = 3.5,
-					["TimeDamaging"] = {
-						["Chillmaw"] = {
-							["Details"] = {
-								["Firebolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-					},
-					["ManaGain"] = 223,
-					["ActiveTime"] = 3.5,
-					["Damage"] = 940,
-				},
-			},
-			["UnitLockout"] = 1597229598,
-			["LastActive"] = 1597229617,
+			["UnitLockout"] = 1597266657,
+			["LastActive"] = 1597266749,
 		},
 	},
-	["FightNum"] = 1,
+	["FightNum"] = 0,
 	["CombatTimes"] = {
-		{
-			1597229593, -- [1]
-			1597229614, -- [2]
-			"12:53:14", -- [3]
-			"12:53:34", -- [4]
-			"Chillmaw", -- [5]
-		}, -- [1]
 	},
 	["FoughtWho"] = {
-		"Chillmaw 12:53:14-12:53:34", -- [1]
 	},
 }

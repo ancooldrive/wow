@@ -330,11 +330,204 @@ RaidRoll_DB = {
 				["ICON"] = "Interface\\Icons\\INV_Pants_Plate_07",
 			},
 		}, -- [11]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:42078:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Cloak of Ascendancy]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Cloak of Ascendancy",
+				["ICON"] = "Interface\\Icons\\inv_misc_cape_06",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 245,
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Ryoteh",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47805:0:0:0:0:0:0:0:80|h[Gul'dan's Leggings of Triumph]|h|r",
+				["LOOTNAME"] = "Gul'dan's Leggings of Triumph",
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_02",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 245,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48660:0:0:0:0:0:0:0:80|h[Liadrin's Legguards of Triumph]|h|r",
+				["LOOTNAME"] = "Liadrin's Legguards of Triumph",
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_30",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 245,
+			},
+			["MOB NAME"] = "Koralon the Flame Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41641:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Armwraps of Dominance]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Armwraps of Dominance",
+				["ICON"] = "Interface\\Icons\\inv_bracer_36a",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 245,
+			},
+		}, -- [12]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51464:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Silk Handguards]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Silk Handguards",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_95",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Ryoteh",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51213:0:0:0:0:0:0:0:80|h[Sanctified Ymirjar Lord's Gauntlets]|h|r",
+				["LOOTNAME"] = "Sanctified Ymirjar Lord's Gauntlets",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_86",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51504:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Linked Gauntlets]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Linked Gauntlets",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_49",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51495:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Leather Legguards]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Leather Legguards",
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_36",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+		}, -- [13]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:42006:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Felweave Trousers]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Felweave Trousers",
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_30",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 251,
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Oldmoon",
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41618:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Belt of Salvation]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Belt of Salvation",
+				["ICON"] = "Interface\\Icons\\inv_belt_46b",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 245,
+			},
+		}, -- [14]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:40426:0:0:0:0:0:0:0:80|h[Signet of the Accord]|h|r",
+				["LOOTNAME"] = "Signet of the Accord",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_70",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 200,
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Meroving",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:40614:0:0:0:0:0:0:0:80|h[Gloves of the Lost Protector]|h|r",
+				["LOOTNAME"] = "Gloves of the Lost Protector",
+				["ICON"] = "Interface\\Icons\\INV_Gauntlets_27",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "Sartharion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:43345:0:0:0:0:0:0:0:80|h[Dragon Hide Bag]|h|r",
+				["LOOTNAME"] = "Dragon Hide Bag",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Bag_26_Spellfire",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+		}, -- [15]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49474:0:0:0:0:0:0:0:80|h[Judgement Hood]|h|r",
+				["LOOTNAME"] = "Judgement Hood",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Helmet_74",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Onyxia",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49483:0:0:0:0:0:0:0:80|h[Halo of Transcendence]|h|r",
+				["LOOTNAME"] = "Halo of Transcendence",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Helmet_24",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49468:0:0:0:0:0:0:0:80|h[Helm of Ten Storms]|h|r",
+				["LOOTNAME"] = "Helm of Ten Storms",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Helmet_69",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49643:0:0:0:0:0:0:0:80|h[Head of Onyxia]|h|r",
+				["LOOTNAME"] = "Head of Onyxia",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Head_Dragon_01",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49466:0:0:0:0:0:0:0:80|h[Frostforged Helm]|h|r",
+				["LOOTNAME"] = "Frostforged Helm",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_helmet_146",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Furywings",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49294:0:0:0:0:0:0:0:80|h[Ashen Sack of Gems]|h|r",
+				["LOOTNAME"] = "Ashen Sack of Gems",
+				["ITEMLEVEL"] = 1,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Bag_10_Black",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49295:0:0:0:0:0:0:0:80|h[Enlarged Onyxia Hide Backpack]|h|r",
+				["LOOTNAME"] = "Enlarged Onyxia Hide Backpack",
+				["ITEMLEVEL"] = 55,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Bag_22",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49489:0:0:0:0:0:0:0:80|h[Signified Ring of Binding]|h|r",
+				["LOOTNAME"] = "Signified Ring of Binding",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_13",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [16]
 		[0] = {
 			["TOTAL ITEMS"] = 0,
 		},
-		["TOTAL WINDOWS"] = 11,
-		["CURRENT WINDOW"] = 11,
+		["TOTAL WINDOWS"] = 16,
+		["CURRENT WINDOW"] = 16,
 	},
 	["Rank Priority"] = {
 		10, -- [1]
@@ -379,6 +572,8 @@ RaidRoll_DBPC = {
 			},
 			["sollofighter"] = {
 			},
+			["encap"] = {
+			},
 			["jibbers"] = {
 			},
 			["laniris"] = {
@@ -397,6 +592,8 @@ RaidRoll_DBPC = {
 			},
 			["zilmarillien"] = {
 			},
+			["praetorian"] = {
+			},
 			["slenderx"] = {
 			},
 			["pykematton"] = {
@@ -413,61 +610,63 @@ RaidRoll_DBPC = {
 			},
 			["meroving"] = {
 			},
-			["kissmyriptid"] = {
+			["mancoyninja"] = {
 			},
-			["praetorian"] = {
+			["rihanm"] = {
+			},
+			["chadvirgin"] = {
 			},
 			["moltenruler"] = {
 			},
 			["kristallglas"] = {
 			},
-			["mancoyninja"] = {
+			["inverse"] = {
 			},
 			["dretzu"] = {
 			},
 			["lifeforce"] = {
 			},
-			["rihanm"] = {
-			},
-			["jbstrong"] = {
-			},
-			["brogz"] = {
-			},
-			["inverse"] = {
-			},
 			["adw"] = {
 			},
-			["saggyballs"] = {
+			["ottaknar"] = {
+			},
+			["rhastaman"] = {
+			},
+			["grimknight"] = {
+			},
+			["lidora"] = {
+			},
+			["polutions"] = {
 			},
 			["astralglow"] = {
 			},
-			["grimknight"] = {
+			["qasdft"] = {
 			},
 			["lewysierp"] = {
 			},
 			["shamycow"] = {
 			},
-			["keeielnmb"] = {
-			},
-			["lidora"] = {
+			["saggyballs"] = {
 			},
 			["tchill"] = {
 			},
-			["polutions"] = {
+			["saybye"] = {
+			},
+			["brogz"] = {
 			},
 			["somance"] = {
 			},
-			["qasdft"] = {
+			["roxiina"] = {
 			},
 			["imprezuh"] = {
 			},
 			["grevius"] = {
 			},
-			["roxiina"] = {
+			["keeielnmb"] = {
 			},
 			["joojo"] = {
 			},
-			["saybye"] = {
+			["jbstrong"] = {
 			},
 			["fazedd"] = {
 			},
@@ -479,13 +678,13 @@ RaidRoll_DBPC = {
 			},
 			["filekniven"] = {
 			},
-			["ottaknar"] = {
+			["kissmyriptid"] = {
 			},
-			["rhastaman"] = {
+			["uneverknow"] = {
 			},
-			["chadvirgin"] = {
+			["ferstt"] = {
 			},
-			["encap"] = {
+			["ryll"] = {
 			},
 		},
 		["RR_Track_Unannounced_Rolls"] = false,
@@ -610,9 +809,9 @@ RaidRoll_DBPC = {
 		["RR_AutoOpenLootWindow"] = true,
 		["RR_ShowGroupNumber"] = false,
 		["RR_Roll_Tracking_Enabled"] = true,
-		["RR_Accept_All_Rolls"] = false,
-		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
 		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["RR_RollCheckBox_Num_Not_Req"] = false,
 		["RR_AllowExtraRolls"] = false,
 		["RR_RollCheckBox_GuildAnnounce"] = false,
 		["RR_PlayerIcon"] = {
@@ -640,7 +839,7 @@ RaidRoll_DBPC = {
 		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
 		["RR_RollCheckBox_Multi_Rollers"] = false,
 		["RR_Frame_WotLK_Dung_Only"] = false,
-		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_Accept_All_Rolls"] = false,
 		["Time_Offset"] = -41,
 		["RR_RollCheckBox_No_countdown"] = false,
 		["RR_ExtraWidth"] = 0,

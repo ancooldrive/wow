@@ -24,8 +24,8 @@ AtlasLootDB = {
 			["AtlasType"] = "Unknown",
 		},
 		["Nokozan - Icecrown"] = {
-			["LastBoss"] = "WORLDEVENTMENU",
 			["AtlasType"] = "Unknown",
+			["LastBoss"] = "CRAFTINGMENU",
 		},
 		["Fsfsgrdggdd - Icecrown"] = {
 			["LastBoss"] = "SETMENU",
@@ -99,7 +99,7 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Hellfurion"] = {
+		["Tharanus"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -127,14 +127,14 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Tharanus"] = {
+		["Nokozan"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Nokozan"] = {
+		["Hellfurion"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -169,7 +169,7 @@ AtlasLootWishList = {
 		},
 		["Fsfgdhftdgrd"] = {
 		},
-		["Hellfurion"] = {
+		["Tharanus"] = {
 		},
 		["Meroving"] = {
 		},
@@ -177,9 +177,9 @@ AtlasLootWishList = {
 		},
 		["Belving"] = {
 		},
-		["Tharanus"] = {
-		},
 		["Nokozan"] = {
+		},
+		["Hellfurion"] = {
 		},
 		["Fiorino"] = {
 		},

@@ -1,5 +1,20 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Fsfsgrdggdd - Icecrown"] = "Fsfsgrdggdd - Icecrown",
+		["Npw - Icecrown"] = "Npw - Icecrown",
+		["Nokozan - Icecrown"] = "Nokozan - Icecrown",
+		["Thorgrall - Icecrown"] = "Thorgrall - Icecrown",
+		["Ancool - Icecrown"] = "Ancool - Icecrown",
+		["Gtxyo - Icecrown"] = "Gtxyo - Icecrown",
+		["Tanders - Icecrown"] = "Tanders - Icecrown",
+		["Meroving - Icecrown"] = "Meroving - Icecrown",
+		["Belving - Icecrown"] = "Belving - Icecrown",
+		["Naja - Icecrown"] = "Naja - Icecrown",
+		["Norticus - Icecrown"] = "Norticus - Icecrown",
+		["Dredlord - Icecrown"] = "Dredlord - Icecrown",
+		["Boolcathos - Icecrown"] = "Boolcathos - Icecrown",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -12,21 +27,6 @@ Postal3DB = {
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Fsfsgrdggdd - Icecrown"] = "Fsfsgrdggdd - Icecrown",
-		["Npw - Icecrown"] = "Npw - Icecrown",
-		["Nokozan - Icecrown"] = "Nokozan - Icecrown",
-		["Boolcathos - Icecrown"] = "Boolcathos - Icecrown",
-		["Dredlord - Icecrown"] = "Dredlord - Icecrown",
-		["Belving - Icecrown"] = "Belving - Icecrown",
-		["Tanders - Icecrown"] = "Tanders - Icecrown",
-		["Meroving - Icecrown"] = "Meroving - Icecrown",
-		["Gtxyo - Icecrown"] = "Gtxyo - Icecrown",
-		["Naja - Icecrown"] = "Naja - Icecrown",
-		["Norticus - Icecrown"] = "Norticus - Icecrown",
-		["Ancool - Icecrown"] = "Ancool - Icecrown",
-		["Thorgrall - Icecrown"] = "Thorgrall - Icecrown",
-	},
 	["profiles"] = {
 		["Fsfsgrdggdd - Icecrown"] = {
 		},
@@ -34,16 +34,11 @@ Postal3DB = {
 		},
 		["Nokozan - Icecrown"] = {
 		},
-		["Boolcathos - Icecrown"] = {
+		["Thorgrall - Icecrown"] = {
 		},
-		["Dredlord - Icecrown"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Meroving", -- [1]
-				},
-			},
+		["Ancool - Icecrown"] = {
 		},
-		["Belving - Icecrown"] = {
+		["Gtxyo - Icecrown"] = {
 		},
 		["Tanders - Icecrown"] = {
 		},
@@ -54,15 +49,20 @@ Postal3DB = {
 				},
 			},
 		},
-		["Gtxyo - Icecrown"] = {
+		["Belving - Icecrown"] = {
 		},
 		["Naja - Icecrown"] = {
 		},
 		["Norticus - Icecrown"] = {
 		},
-		["Ancool - Icecrown"] = {
+		["Dredlord - Icecrown"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Meroving", -- [1]
+				},
+			},
 		},
-		["Thorgrall - Icecrown"] = {
+		["Boolcathos - Icecrown"] = {
 		},
 	},
 }

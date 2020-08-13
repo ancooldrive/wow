@@ -105,15 +105,9 @@ MoveAnything_CharacterSettings = {
 				33.85203469081541, -- [5]
 			},
 		},
-		["MultiCastActionBarFrame"] = {
-			["name"] = "MultiCastActionBarFrame",
-			["pos"] = {
-				"BOTTOMLEFT", -- [1]
-				"UIParent", -- [2]
-				"BOTTOMLEFT", -- [3]
-				1.631289435878173, -- [4]
-				1.852898819298532, -- [5]
-			},
+		["ActionBarDownButton"] = {
+			["name"] = "ActionBarDownButton",
+			["hidden"] = true,
 		},
 		["MultiBarBottomRight"] = {
 			["name"] = "MultiBarBottomRight",
@@ -125,17 +119,23 @@ MoveAnything_CharacterSettings = {
 				83.9419857284549, -- [5]
 			},
 		},
-		["MainMenuBarRightEndCap"] = {
-			["name"] = "MainMenuBarRightEndCap",
-			["hidden"] = true,
-		},
 		["MainMenuBar"] = {
 			["name"] = "MainMenuBar",
 			["hidden"] = true,
 		},
-		["ActionBarDownButton"] = {
-			["name"] = "ActionBarDownButton",
+		["MainMenuBarRightEndCap"] = {
+			["name"] = "MainMenuBarRightEndCap",
 			["hidden"] = true,
+		},
+		["MultiCastActionBarFrame"] = {
+			["name"] = "MultiCastActionBarFrame",
+			["pos"] = {
+				"BOTTOMLEFT", -- [1]
+				"UIParent", -- [2]
+				"BOTTOMLEFT", -- [3]
+				1.631289435878173, -- [4]
+				1.852898819298532, -- [5]
+			},
 		},
 	},
 }

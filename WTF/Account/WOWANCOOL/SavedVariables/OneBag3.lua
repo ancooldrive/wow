@@ -8,77 +8,35 @@ OneBag3DB = {
 		["Fsfsgrdggdd - Icecrown"] = "Fsfsgrdggdd - Icecrown",
 		["Npw - Icecrown"] = "Npw - Icecrown",
 		["Nokozan - Icecrown"] = "Nokozan - Icecrown",
-		["Boolcathos - Icecrown"] = "Boolcathos - Icecrown",
-		["Dredlord - Icecrown"] = "Dredlord - Icecrown",
-		["Belving - Icecrown"] = "Belving - Icecrown",
+		["Thorgrall - Icecrown"] = "Thorgrall - Icecrown",
+		["Ancool - Icecrown"] = "Ancool - Icecrown",
+		["Gtxyo - Icecrown"] = "Gtxyo - Icecrown",
 		["Tanders - Icecrown"] = "Tanders - Icecrown",
 		["Meroving - Icecrown"] = "Meroving - Icecrown",
-		["Gtxyo - Icecrown"] = "Gtxyo - Icecrown",
+		["Belving - Icecrown"] = "Belving - Icecrown",
 		["Naja - Icecrown"] = "Naja - Icecrown",
 		["Norticus - Icecrown"] = "Norticus - Icecrown",
-		["Ancool - Icecrown"] = "Ancool - Icecrown",
-		["Thorgrall - Icecrown"] = "Thorgrall - Icecrown",
+		["Dredlord - Icecrown"] = "Dredlord - Icecrown",
+		["Boolcathos - Icecrown"] = "Boolcathos - Icecrown",
 	},
 	["profiles"] = {
 		["Fsfsgrdggdd - Icecrown"] = {
 		},
 		["Npw - Icecrown"] = {
-			["moved"] = true,
 			["position"] = {
 				["top"] = 522.1092556707641,
 				["left"] = 1180.536844072605,
 			},
+			["moved"] = true,
 		},
 		["Nokozan - Icecrown"] = {
+			["moved"] = true,
 			["position"] = {
 				["top"] = 402.8517583861898,
 				["left"] = 1192.201635602487,
 			},
-			["moved"] = true,
 		},
-		["Boolcathos - Icecrown"] = {
-			["moved"] = true,
-			["position"] = {
-				["top"] = 548.9190731093886,
-				["left"] = 1185.920976033614,
-			},
-		},
-		["Dredlord - Icecrown"] = {
-			["moved"] = true,
-			["position"] = {
-				["top"] = 596.4452208683304,
-				["left"] = 1173.35836133574,
-			},
-		},
-		["Belving - Icecrown"] = {
-			["position"] = {
-				["top"] = 604.9374735495079,
-				["left"] = 1168.873132176162,
-			},
-			["appearance"] = {
-				["lowlevel"] = false,
-			},
-			["moved"] = true,
-		},
-		["Tanders - Icecrown"] = {
-		},
-		["Meroving - Icecrown"] = {
-			["moved"] = true,
-			["position"] = {
-				["top"] = 518.4112592272285,
-				["left"] = 1186.9714593699,
-			},
-		},
-		["Gtxyo - Icecrown"] = {
-			["moved"] = true,
-			["position"] = {
-				["top"] = 577.5777988003276,
-				["left"] = 1188.612502197399,
-			},
-		},
-		["Naja - Icecrown"] = {
-		},
-		["Norticus - Icecrown"] = {
+		["Thorgrall - Icecrown"] = {
 		},
 		["Ancool - Icecrown"] = {
 			["moved"] = true,
@@ -87,7 +45,49 @@ OneBag3DB = {
 				["left"] = 1150.029929884978,
 			},
 		},
-		["Thorgrall - Icecrown"] = {
+		["Gtxyo - Icecrown"] = {
+			["position"] = {
+				["top"] = 577.5777988003276,
+				["left"] = 1188.612502197399,
+			},
+			["moved"] = true,
+		},
+		["Tanders - Icecrown"] = {
+		},
+		["Meroving - Icecrown"] = {
+			["position"] = {
+				["top"] = 518.4112592272285,
+				["left"] = 1186.9714593699,
+			},
+			["moved"] = true,
+		},
+		["Belving - Icecrown"] = {
+			["moved"] = true,
+			["appearance"] = {
+				["lowlevel"] = false,
+			},
+			["position"] = {
+				["top"] = 604.9374735495079,
+				["left"] = 1168.873132176162,
+			},
+		},
+		["Naja - Icecrown"] = {
+		},
+		["Norticus - Icecrown"] = {
+		},
+		["Dredlord - Icecrown"] = {
+			["position"] = {
+				["top"] = 596.4452208683304,
+				["left"] = 1173.35836133574,
+			},
+			["moved"] = true,
+		},
+		["Boolcathos - Icecrown"] = {
+			["position"] = {
+				["top"] = 548.9190731093886,
+				["left"] = 1185.920976033614,
+			},
+			["moved"] = true,
 		},
 	},
 }

@@ -36,21 +36,22 @@ RecountDB = {
 		["Meroving - Icecrown"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
+				["RowSpacing"] = 0,
 				["Position"] = {
 					["y"] = -459.527475651841,
 					["x"] = 419.1437868606782,
 					["w"] = 336.9999486190076,
 					["h"] = 128.999992479116,
 				},
-				["RowSpacing"] = 0,
 			},
+			["DetailWindowX"] = -5.000000070288635,
+			["BarTextColorSwap"] = false,
+			["BarTexture"] = "Flat",
+			["ConfirmDeleteRaid"] = false,
+			["MainWindowHeight"] = 128.9977522397298,
+			["CurDataSet"] = "OverallData",
 			["ConfirmDeleteInstance"] = false,
 			["Colors"] = {
-				["Window"] = {
-					["Background"] = {
-						["a"] = 0.4000000357627869,
-					},
-				},
 				["Bar"] = {
 					["Bar Text"] = {
 						["a"] = 1,
@@ -59,18 +60,17 @@ RecountDB = {
 						["a"] = 1,
 					},
 				},
+				["Window"] = {
+					["Background"] = {
+						["a"] = 0.4000000357627869,
+					},
+				},
 			},
 			["DetailWindowY"] = -4.000000281154541,
+			["LastInstanceName"] = "The Oculus",
 			["ConfirmDeleteGroup"] = false,
-			["DetailWindowX"] = -5.000000070288635,
-			["GraphWindowX"] = 0,
-			["BarTextColorSwap"] = false,
-			["BarTexture"] = "Flat",
-			["ConfirmDeleteRaid"] = false,
-			["CurDataSet"] = "OverallData",
-			["MainWindowHeight"] = 128.9977522397298,
 			["MainWindowWidth"] = 337.1906838599229,
-			["LastInstanceName"] = "Eye of the Storm",
+			["GraphWindowX"] = 0,
 		},
 		["Fiorino - Icecrown"] = {
 			["GraphWindowY"] = 0,
@@ -154,11 +154,16 @@ RecountDB = {
 					["h"] = 163.021014544757,
 				},
 			},
-			["DetailWindowX"] = 0,
-			["BarTextColorSwap"] = false,
-			["BarTexture"] = "Minimalist",
-			["CurDataSet"] = "OverallData",
 			["Colors"] = {
+				["Window"] = {
+					["Background"] = {
+						["a"] = 0.4200000166893005,
+					},
+					["Title"] = {
+						["a"] = 0,
+						["r"] = 0,
+					},
+				},
 				["Bar"] = {
 					["Bar Text"] = {
 						["a"] = 1,
@@ -167,21 +172,16 @@ RecountDB = {
 						["a"] = 1,
 					},
 				},
-				["Window"] = {
-					["Title"] = {
-						["a"] = 0,
-						["r"] = 0,
-					},
-					["Background"] = {
-						["a"] = 0.4200000166893005,
-					},
-				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Blackfathom Deeps",
-			["MainWindowHeight"] = 163.0209965508664,
-			["MainWindowWidth"] = 286.255881419136,
+			["DetailWindowX"] = 0,
 			["GraphWindowX"] = 0,
+			["LastInstanceName"] = "Scarlet Monastery",
+			["BarTexture"] = "Minimalist",
+			["CurDataSet"] = "OverallData",
+			["BarTextColorSwap"] = false,
+			["MainWindowWidth"] = 286.255881419136,
+			["MainWindowHeight"] = 163.0209965508664,
 		},
 		["Dredlord - Icecrown"] = {
 			["GraphWindowY"] = 0,
@@ -204,9 +204,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["MainWindowHeight"] = 163.9453247197891,
-			["MainWindowWidth"] = 332.7045909935938,
 			["GraphWindowX"] = 0,
+			["MainWindowWidth"] = 332.7045909935938,
+			["MainWindowHeight"] = 163.9453247197891,
 		},
 		["Hellfurion - Icecrown"] = {
 			["GraphWindowY"] = 0,

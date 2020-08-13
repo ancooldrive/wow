@@ -137,2096 +137,66 @@ RecountPerCharDB = {
 				[14] = 0.0151952590791673,
 				[11] = 0.0151952590791673,
 				[3] = 0.1924732816694525,
-				[33] = 3.216329838423745,
 				[49] = 0.0303905181583346,
+				[33] = 3.216329838423745,
 			},
 			["type"] = "Self",
 			["FightsSaved"] = 5,
-			["LastActive"] = 1597001262,
-			["UnitLockout"] = 1597000084,
-			["Owner"] = false,
-			["Fights"] = {
-				["OverallData"] = {
-					["ElementDoneResist"] = {
-						["Fire"] = 192,
-					},
-					["TimeSpent"] = {
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 4.87,
-								},
-							},
-							["amount"] = 4.87,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 34.49,
-								},
-								["Molten Armor"] = {
-									["count"] = 10.5,
-								},
-								["Cone of Cold"] = {
-									["count"] = 3.5,
-								},
-								["Fire Blast"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 51.99,
-						},
-						["Elder Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 22.69,
-								},
-							},
-							["amount"] = 22.69,
-						},
-						["The Rake"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 4.91,
-								},
-							},
-							["amount"] = 4.91,
-						},
-						["Greater Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 24.5,
-								},
-							},
-							["amount"] = 24.5,
-						},
-						["Taloned Swoop"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Prairie Wolf Alpha"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Zhevra Runner"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 14,
-								},
-							},
-							["amount"] = 14,
-						},
-					},
-					["DamageTaken"] = 733,
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 14,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 14,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ancool"] = {
-									["count"] = 1177,
-								},
-							},
-							["amount"] = 1177,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 14,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 14,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 147.46,
-					["ElementTaken"] = {
-						["Melee"] = 98,
-						["Physical"] = 635,
-					},
-					["Damage"] = 40804,
-					["ManaGainedFrom"] = {
-						["Ancool"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 1177,
-								},
-							},
-							["amount"] = 1177,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 8,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 14,
-								},
-								["Hit"] = {
-									["count"] = 21,
-								},
-							},
-							["amount"] = 35,
-						},
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1385,
-									["min"] = 1261,
-									["count"] = 14,
-									["amount"] = 18353,
-								},
-								["Hit"] = {
-									["max"] = 764,
-									["min"] = 698,
-									["count"] = 20,
-									["amount"] = 14436,
-								},
-							},
-							["count"] = 34,
-							["amount"] = 32789,
-						},
-						["Molten Armor"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 349,
-									["min"] = 349,
-									["count"] = 1,
-									["amount"] = 349,
-								},
-								["Hit"] = {
-									["max"] = 193,
-									["min"] = 97,
-									["count"] = 8,
-									["amount"] = 1352,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 1701,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 1556,
-									["min"] = 1556,
-									["count"] = 1,
-									["amount"] = 1556,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 1556,
-						},
-						["Fire Blast"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4758,
-									["min"] = 4758,
-									["count"] = 1,
-									["amount"] = 4758,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4758,
-						},
-					},
-					["WhoDamaged"] = {
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 74,
-								},
-							},
-							["amount"] = 74,
-						},
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 13,
-								},
-							},
-							["amount"] = 13,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 635,
-								},
-							},
-							["amount"] = 635,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 9,
-						},
-					},
-					["DamagedWho"] = {
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 194,
-								},
-							},
-							["amount"] = 194,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 11471,
-								},
-								["Molten Armor"] = {
-									["count"] = 579,
-								},
-								["Cone of Cold"] = {
-									["count"] = 1556,
-								},
-								["Fire Blast"] = {
-									["count"] = 4758,
-								},
-							},
-							["amount"] = 18364,
-						},
-						["Elder Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1279,
-								},
-							},
-							["amount"] = 1279,
-						},
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 6187,
-								},
-							},
-							["amount"] = 6187,
-						},
-						["The Rake"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1311,
-								},
-							},
-							["amount"] = 1311,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 386,
-								},
-							},
-							["amount"] = 386,
-						},
-						["Greater Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 7458,
-								},
-							},
-							["amount"] = 7458,
-						},
-						["Taloned Swoop"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 750,
-								},
-							},
-							["amount"] = 750,
-						},
-						["Prairie Wolf Alpha"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1410,
-								},
-							},
-							["amount"] = 1410,
-						},
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 542,
-								},
-							},
-							["amount"] = 542,
-						},
-						["Zhevra Runner"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2923,
-								},
-							},
-							["amount"] = 2923,
-						},
-					},
-					["TimeDamage"] = 147.46,
-					["TimeDamaging"] = {
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 4.87,
-								},
-							},
-							["amount"] = 4.87,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 34.49,
-								},
-								["Molten Armor"] = {
-									["count"] = 10.5,
-								},
-								["Cone of Cold"] = {
-									["count"] = 3.5,
-								},
-								["Fire Blast"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 51.99,
-						},
-						["Elder Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 22.69,
-								},
-							},
-							["amount"] = 22.69,
-						},
-						["The Rake"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 4.91,
-								},
-							},
-							["amount"] = 4.91,
-						},
-						["Greater Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 24.5,
-								},
-							},
-							["amount"] = 24.5,
-						},
-						["Taloned Swoop"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Prairie Wolf Alpha"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Zhevra Runner"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 14,
-								},
-							},
-							["amount"] = 14,
-						},
-					},
-					["ManaGain"] = 1177,
-					["ElementDone"] = {
-						["Fire"] = 6459,
-						["Frost"] = 34345,
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 9,
-								},
-								["Miss"] = {
-									["count"] = 2,
-								},
-								["Dodge"] = {
-									["count"] = 2,
-								},
-								["Parry"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 14,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-				},
-				["Fight5"] = {
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["ElementDone"] = {
-						["Fire"] = 0,
-					},
-					["DamagedWho"] = {
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamaging"] = {
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeSpent"] = {
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 0,
-					["ActiveTime"] = 0,
-					["Attacks"] = {
-						["Molten Armor"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["WhoDamaged"] = {
-						["Prairie Stalker"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTaken"] = {
-						["Melee"] = 0,
-					},
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 0,
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 0,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight1"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 1404,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 1404,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 5.19,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 5.19,
-								},
-							},
-							["amount"] = 5.19,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 706,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 1404,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 1404,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1404,
-								},
-							},
-							["amount"] = 1404,
-						},
-					},
-					["TimeDamage"] = 5.19,
-					["TimeDamaging"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 5.19,
-								},
-							},
-							["amount"] = 5.19,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight4"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 67,
-					["ElementTaken"] = {
-						["Melee"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 2068,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Fire"] = 0,
-						["Frost"] = 2068,
-					},
-					["ManaGainedFrom"] = {
-						["Ancool"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 67,
-								},
-							},
-							["amount"] = 67,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 5.73,
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ancool"] = {
-									["count"] = 67,
-								},
-							},
-							["amount"] = 67,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Prairie Wolf Alpha"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2.23,
-								},
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Fire Blast"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 2.23,
-						},
-						["Elder Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1365,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 1365,
-								},
-								["Hit"] = {
-									["max"] = 703,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 703,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 2068,
-						},
-						["Molten Armor"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fire Blast"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Prairie Wolf Alpha"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 703,
-								},
-							},
-							["amount"] = 703,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1365,
-								},
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Fire Blast"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1365,
-						},
-						["Elder Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 5.73,
-					["TimeDamaging"] = {
-						["Prairie Wolf Alpha"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2.23,
-								},
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Fire Blast"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 2.23,
-						},
-						["Elder Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 1404,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 1404,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 5.19,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 5.19,
-								},
-							},
-							["amount"] = 5.19,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 706,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 1404,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 1404,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1404,
-								},
-							},
-							["amount"] = 1404,
-						},
-					},
-					["TimeDamage"] = 5.19,
-					["TimeDamaging"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 5.19,
-								},
-							},
-							["amount"] = 5.19,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight2"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-						["Fire"] = 192,
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 74,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 74,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 194,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 0,
-						["Fire"] = 194,
-					},
-					["ManaGainedFrom"] = {
-						["Ancool"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 74,
-								},
-							},
-							["amount"] = 74,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 4.87,
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ancool"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 4.87,
-								},
-							},
-							["amount"] = 4.87,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Molten Armor"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 97,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 194,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 194,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 194,
-								},
-							},
-							["amount"] = 194,
-						},
-					},
-					["TimeDamage"] = 4.87,
-					["TimeDamaging"] = {
-						["Savannah Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ornery Plainstrider"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kolkar Invader"] = {
-							["Details"] = {
-								["Molten Armor"] = {
-									["count"] = 4.87,
-								},
-							},
-							["amount"] = 4.87,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight3"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 0,
-					},
-					["ManaGainedFrom"] = {
-						["Ancool"] = {
-							["Details"] = {
-								["Master of Elements"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Master of Elements"] = {
-							["Details"] = {
-								["Ancool"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["The Rake"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Greater Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Taloned Swoop"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zhevra Runner"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["The Rake"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Greater Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Taloned Swoop"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zhevra Runner"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["The Rake"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Greater Plainstrider"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Taloned Swoop"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Flatland Prowler"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zhevra Runner"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
+			["LastAbility"] = 9618.484,
+			["LastEventTimes"] = {
+				34430.228, -- [1]
+				34574.56, -- [2]
+				34574.562, -- [3]
+				34575.927, -- [4]
+				34575.927, -- [5]
+				34586.828, -- [6]
+				34598.946, -- [7]
+				34600.635, -- [8]
+				34605.071, -- [9]
+				34616.447, -- [10]
+				33649.708, -- [11]
+				33665.379, -- [12]
+				33667.307, -- [13]
+				33667.308, -- [14]
+				33677.487, -- [15]
+				33679.605, -- [16]
+				33692.864, -- [17]
+				33699.038, -- [18]
+				33701.886, -- [19]
+				33711.229, -- [20]
+				33726.301, -- [21]
+				33727.712, -- [22]
+				33736.834, -- [23]
+				33744.358, -- [24]
+				33751.582, -- [25]
+				33753.81, -- [26]
+				33758.423, -- [27]
+				33798.424, -- [28]
+				33811.535, -- [29]
+				33825.584, -- [30]
+				33833.573, -- [31]
+				33843.696, -- [32]
+				34108.645, -- [33]
+				34113.624, -- [34]
+				34129.243, -- [35]
+				34139.241, -- [36]
+				34149.304, -- [37]
+				34157.94, -- [38]
+				34167.427, -- [39]
+				34174.143, -- [40]
+				34241.6, -- [41]
+				34255.978, -- [42]
+				34268.27, -- [43]
+				34276.981, -- [44]
+				34370.527, -- [45]
+				34383.327, -- [46]
+				34405.638, -- [47]
+				34428.814, -- [48]
+				34428.816, -- [49]
+				34430.227, -- [50]
 			},
+			["Owner"] = false,
+			["LastDamageTaken"] = 36,
 			["NextEventNum"] = 11,
 			["LastEventHealthNum"] = {
 				99.96960948184167, -- [1]
@@ -2333,14 +303,6 @@ RecountPerCharDB = {
 				"Ancool Molten Armor Ornery Plainstrider Hit -193 (Fire)", -- [50]
 			},
 			["Name"] = "Ancool",
-			["TimeLast"] = {
-				["TimeDamage"] = 1597001262,
-				["ActiveTime"] = 1597001262,
-				["OVERALL"] = 1597001262,
-				["ManaGain"] = 1597001051,
-				["DamageTaken"] = 1597001221,
-				["Damage"] = 1597001262,
-			},
 			["LastEventIncoming"] = {
 				true, -- [1]
 				false, -- [2]
@@ -2393,73 +355,483 @@ RecountPerCharDB = {
 				true, -- [49]
 				false, -- [50]
 			},
-			["LastDamageTaken"] = 36,
-			["LastEventTimes"] = {
-				34430.228, -- [1]
-				34574.56, -- [2]
-				34574.562, -- [3]
-				34575.927, -- [4]
-				34575.927, -- [5]
-				34586.828, -- [6]
-				34598.946, -- [7]
-				34600.635, -- [8]
-				34605.071, -- [9]
-				34616.447, -- [10]
-				33649.708, -- [11]
-				33665.379, -- [12]
-				33667.307, -- [13]
-				33667.308, -- [14]
-				33677.487, -- [15]
-				33679.605, -- [16]
-				33692.864, -- [17]
-				33699.038, -- [18]
-				33701.886, -- [19]
-				33711.229, -- [20]
-				33726.301, -- [21]
-				33727.712, -- [22]
-				33736.834, -- [23]
-				33744.358, -- [24]
-				33751.582, -- [25]
-				33753.81, -- [26]
-				33758.423, -- [27]
-				33798.424, -- [28]
-				33811.535, -- [29]
-				33825.584, -- [30]
-				33833.573, -- [31]
-				33843.696, -- [32]
-				34108.645, -- [33]
-				34113.624, -- [34]
-				34129.243, -- [35]
-				34139.241, -- [36]
-				34149.304, -- [37]
-				34157.94, -- [38]
-				34167.427, -- [39]
-				34174.143, -- [40]
-				34241.6, -- [41]
-				34255.978, -- [42]
-				34268.27, -- [43]
-				34276.981, -- [44]
-				34370.527, -- [45]
-				34383.327, -- [46]
-				34405.638, -- [47]
-				34428.814, -- [48]
-				34428.816, -- [49]
-				34430.227, -- [50]
+			["TimeLast"] = {
+				["ActiveTime"] = 1597001262,
+				["TimeDamage"] = 1597001262,
+				["ManaGain"] = 1597001051,
+				["OVERALL"] = 1597001262,
+				["DamageTaken"] = 1597001221,
+				["Damage"] = 1597001262,
 			},
-			["LastAbility"] = 53743.925,
-		},
-		["Meroving"] = {
-			["GUID"] = "0x07000000005AF012",
-			["type"] = "Ungrouped",
-			["FightsSaved"] = 5,
-			["Owner"] = false,
-			["enClass"] = "WARLOCK",
-			["LastAbility"] = 53743.925,
-			["Name"] = "Meroving",
-			["UnitLockout"] = 1597000102,
-			["lazysync"] = true,
-			["level"] = 80,
 			["Fights"] = {
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["The Rake"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zhevra Runner"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Taloned Swoop"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greater Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Ancool"] = {
+							["Details"] = {
+								["Master of Elements"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Master of Elements"] = {
+							["Details"] = {
+								["Ancool"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["The Rake"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zhevra Runner"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Taloned Swoop"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greater Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["The Rake"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zhevra Runner"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Taloned Swoop"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Greater Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["TimeSpent"] = {
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamageTaken"] = 0,
+					["TimeDamage"] = 0,
+					["ElementDone"] = {
+						["Fire"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["TimeDamaging"] = {
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["Attacks"] = {
+						["Molten Armor"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Damage"] = 0,
+				},
 				["CurrentFightData"] = {
 					["DOTs"] = {
 					},
@@ -2473,12 +845,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -2488,78 +861,748 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
+						["Frost"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
-					},
-					["RageGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
 					},
-					["RunicPowerGain"] = 0,
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+						["Fire"] = 192,
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 74,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
 					["ElementTakenBlock"] = {
 					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 74,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 194,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 194,
+								},
+							},
+							["amount"] = 194,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Fire"] = 194,
+						["Frost"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Ancool"] = {
+							["Details"] = {
+								["Master of Elements"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 74,
+								},
+							},
+							["amount"] = 74,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Master of Elements"] = {
+							["Details"] = {
+								["Ancool"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 4.87,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 4.87,
+								},
+							},
+							["amount"] = 4.87,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Molten Armor"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 97,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 194,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 194,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 4.87,
+					["TimeDamaging"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 4.87,
+								},
+							},
+							["amount"] = 4.87,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 2068,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Prairie Wolf Alpha"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 703,
+								},
+							},
+							["amount"] = 703,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1365,
+								},
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1365,
+						},
+						["Elder Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 2068,
+						["Fire"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Ancool"] = {
+							["Details"] = {
+								["Master of Elements"] = {
+									["count"] = 67,
+								},
+							},
+							["amount"] = 67,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Master of Elements"] = {
+							["Details"] = {
+								["Ancool"] = {
+									["count"] = 67,
+								},
+							},
+							["amount"] = 67,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 5.73,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Prairie Wolf Alpha"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2.23,
+								},
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2.23,
+						},
+						["Elder Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1365,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1365,
+								},
+								["Hit"] = {
+									["max"] = 703,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 703,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 2068,
+						},
+						["Molten Armor"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 5.73,
+					["TimeDamaging"] = {
+						["Prairie Wolf Alpha"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2.23,
+								},
+								["Molten Armor"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2.23,
+						},
+						["Elder Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 67,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -2576,12 +1619,864 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
+					["HOTs"] = {
+					},
+					["Damage"] = 1404,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1404,
+								},
+							},
+							["amount"] = 1404,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 1404,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 5.19,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 5.19,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 706,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 1404,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1404,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 5.19,
+					["TimeDamaging"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 5.19,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["ManaGain"] = 0,
 					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 1404,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1404,
+								},
+							},
+							["amount"] = 1404,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 1404,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 5.19,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 5.19,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 706,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 1404,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1404,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 5.19,
+					["TimeDamaging"] = {
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 5.19,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementDoneResist"] = {
+						["Fire"] = 192,
+					},
+					["TimeSpent"] = {
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 4.87,
+								},
+							},
+							["amount"] = 4.87,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 34.49,
+								},
+								["Molten Armor"] = {
+									["count"] = 10.5,
+								},
+								["Cone of Cold"] = {
+									["count"] = 3.5,
+								},
+								["Fire Blast"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 51.99,
+						},
+						["Elder Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 22.69,
+								},
+							},
+							["amount"] = 22.69,
+						},
+						["The Rake"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 4.91,
+								},
+							},
+							["amount"] = 4.91,
+						},
+						["Zhevra Runner"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Taloned Swoop"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Prairie Wolf Alpha"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Greater Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 24.5,
+								},
+							},
+							["amount"] = 24.5,
+						},
+					},
+					["DamageTaken"] = 733,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Master of Elements"] = {
+							["Details"] = {
+								["Ancool"] = {
+									["count"] = 1177,
+								},
+							},
+							["amount"] = 1177,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 147.46,
+					["ElementTaken"] = {
+						["Melee"] = 98,
+						["Physical"] = 635,
+					},
+					["Damage"] = 40804,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 34345,
+						["Fire"] = 6459,
+					},
+					["Attacks"] = {
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1385,
+									["min"] = 1261,
+									["count"] = 14,
+									["amount"] = 18353,
+								},
+								["Hit"] = {
+									["max"] = 764,
+									["min"] = 698,
+									["count"] = 20,
+									["amount"] = 14436,
+								},
+							},
+							["count"] = 34,
+							["amount"] = 32789,
+						},
+						["Molten Armor"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 349,
+									["min"] = 349,
+									["count"] = 1,
+									["amount"] = 349,
+								},
+								["Hit"] = {
+									["max"] = 193,
+									["min"] = 97,
+									["count"] = 8,
+									["amount"] = 1352,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 1701,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1556,
+									["min"] = 1556,
+									["count"] = 1,
+									["amount"] = 1556,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1556,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4758,
+									["min"] = 4758,
+									["count"] = 1,
+									["amount"] = 4758,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4758,
+						},
+					},
+					["TimeDamaging"] = {
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 4.87,
+								},
+							},
+							["amount"] = 4.87,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 34.49,
+								},
+								["Molten Armor"] = {
+									["count"] = 10.5,
+								},
+								["Cone of Cold"] = {
+									["count"] = 3.5,
+								},
+								["Fire Blast"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 51.99,
+						},
+						["Elder Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 22.69,
+								},
+							},
+							["amount"] = 22.69,
+						},
+						["The Rake"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 4.91,
+								},
+							},
+							["amount"] = 4.91,
+						},
+						["Zhevra Runner"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Taloned Swoop"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Prairie Wolf Alpha"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Greater Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 24.5,
+								},
+							},
+							["amount"] = 24.5,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Ancool"] = {
+							["Details"] = {
+								["Master of Elements"] = {
+									["count"] = 1177,
+								},
+							},
+							["amount"] = 1177,
+						},
+					},
+					["TimeDamage"] = 147.46,
+					["WhoDamaged"] = {
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 74,
+								},
+							},
+							["amount"] = 74,
+						},
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 13,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 635,
+								},
+							},
+							["amount"] = 635,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["ManaGain"] = 1177,
+					["DamagedWho"] = {
+						["Kolkar Invader"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 194,
+								},
+							},
+							["amount"] = 194,
+						},
+						["Flatland Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 11471,
+								},
+								["Molten Armor"] = {
+									["count"] = 579,
+								},
+								["Cone of Cold"] = {
+									["count"] = 1556,
+								},
+								["Fire Blast"] = {
+									["count"] = 4758,
+								},
+							},
+							["amount"] = 18364,
+						},
+						["Elder Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1279,
+								},
+							},
+							["amount"] = 1279,
+						},
+						["Savannah Prowler"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 6187,
+								},
+							},
+							["amount"] = 6187,
+						},
+						["The Rake"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1311,
+								},
+							},
+							["amount"] = 1311,
+						},
+						["Ornery Plainstrider"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 386,
+								},
+							},
+							["amount"] = 386,
+						},
+						["Zhevra Runner"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2923,
+								},
+							},
+							["amount"] = 2923,
+						},
+						["Prairie Stalker"] = {
+							["Details"] = {
+								["Molten Armor"] = {
+									["count"] = 542,
+								},
+							},
+							["amount"] = 542,
+						},
+						["Taloned Swoop"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 750,
+								},
+							},
+							["amount"] = 750,
+						},
+						["Prairie Wolf Alpha"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1410,
+								},
+							},
+							["amount"] = 1410,
+						},
+						["Greater Plainstrider"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 7458,
+								},
+							},
+							["amount"] = 7458,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 14,
+								},
+								["Hit"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1597000084,
+			["LastActive"] = 1597001262,
+		},
+		["Meroving"] = {
+			["GUID"] = "0x07000000005AF012",
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 5,
+			["Owner"] = false,
+			["enClass"] = "WARLOCK",
+			["LastFightIn"] = 0,
+			["Name"] = "Meroving",
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -2591,83 +2486,188 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
 					["ElementTakenBlock"] = {
 					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
 			},
-			["LastFightIn"] = 0,
+			["lazysync"] = true,
+			["level"] = 80,
+			["UnitLockout"] = 1597000102,
+			["LastAbility"] = 9618.484,
 		},
 	},
 	["FightNum"] = 5,

@@ -60,8 +60,8 @@ FrameLevel: 31
 Anchor: RIGHT
 X: -91
 Y: -105
-W: 200
-H: 200
+W: 403
+H: 455
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: BOTTOM

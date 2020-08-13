@@ -13,19 +13,19 @@ END
 MACRO 16777221 " " INV_Misc_QuestionMark
 #showtooltip Incinerate
 /cast [@pettarget,exists] Demonic Empowerment
-/cast Shadow Cleave
+/cast [stance:0] Shadow Cleave
 /cast Incinerate
 END
 MACRO 16777222 " " INV_Misc_QuestionMark
 #showtooltip Shadow Bolt
 /cast [@pettarget,exists] Demonic Empowerment
-/cast Shadow Cleave
+/cast [stance:0] Shadow Cleave
 /cast Shadow Bolt
 END
 MACRO 16777223 " " INV_Misc_QuestionMark
 #showtooltip Soul Fire
 /cast [@pettarget,exists] Demonic Empowerment
-/cast Shadow Cleave
+/cast [stance:0] Shadow Cleave
 /cast Soul Fire
 END
 MACRO 16777218 " " Ability_GhoulFrenzy
@@ -77,4 +77,17 @@ MACRO 16777232 " " INV_Misc_QuestionMark
 #showtooltip Seed of Corruption
 /petattack [pet:Imp]
 /cast Seed of Corruption
+END
+MACRO 16777233 " " INV_Misc_QuestionMark
+#showtooltip [mod:alt] Fel Domination; Summon Felguard(Summon)
+/cast [mod:alt] Fel Domination
+/cast Summon Felguard(Summon)
+END
+MACRO 16777234 " " INV_Misc_QuestionMark
+#showtooltip [stance:0] Metamorphosis; Immolation Aura(Demon)
+/cast [stance:0] Metamorphosis; Immolation Aura(Demon)
+END
+MACRO 16777235 " " INV_Misc_QuestionMark
+#showtooltip [stance:0] Metamorphosis; Demon Charge(Demon)
+/cast [stance:0] Metamorphosis; Demon Charge(Demon)
 END

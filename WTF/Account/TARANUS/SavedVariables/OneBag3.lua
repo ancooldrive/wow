@@ -28,11 +28,11 @@ OneBag3DB = {
 			},
 		},
 		["Nokozan - Icecrown"] = {
+			["moved"] = true,
 			["position"] = {
 				["top"] = 402.8517583861898,
 				["left"] = 1192.201635602487,
 			},
-			["moved"] = true,
 		},
 		["Fsfgdhftdgrd - Icecrown"] = {
 		},
@@ -70,11 +70,11 @@ OneBag3DB = {
 			["moved"] = true,
 		},
 		["Dredlord - Icecrown"] = {
+			["moved"] = true,
 			["position"] = {
 				["top"] = 648.2158035421395,
 				["left"] = 1189.509461658639,
 			},
-			["moved"] = true,
 		},
 		["Hellfurion - Icecrown"] = {
 			["moved"] = true,
